@@ -1,9 +1,84 @@
 {
     "red": {
-        "flavour": {
-            "name": "Cool flavour",
-            "description": "dew with a lotta FLAVOUR",
-            "role": "Cool role"
+        "ampcb": {
+            "name": "AMP (Cherry Blast)",
+            "description": "Half-diet AMP flavor regionally released in 2015.",
+            "role": "AMP (Cherry Blast)"
+        },
+        "ampsl": {
+            "name": "AMP (Strawberry Limeade)",
+            "description": "AMP flavor regionally released in 2015 and discontinued in 2021.",
+            "role": "AMP (Strawberry Limeade)"
+        },
+        "ccherry": {
+            "name": "Citrus Cherry",
+            "description": "*Not to be confused with Game Fuel (Citrus Cherry).* Half-diet flavor released regionally in 2014. Made a national LTO release in 2016 and 2018.",
+            "role": "Citrus Cherry"
+        },
+        "cred": {
+            "name": "Code Red",
+            "description": "Cherry flavor nationally released in 2001.",
+            "role": "Code Red"
+        },
+        "nz_cred": {
+            "name": "Code Red (NZ)",
+            "description": "Citrus-berry-cola flavor released to New Zealand in 2009. Made with real sugar.",
+            "role": "Code Red (NZ)"
+        },
+        "cyclone": {
+            "name": "Cyclone",
+            "description": "Citrus punch fountain flavor released in 2019 to Speedway gas stations.",
+            "role": "Cyclone"
+        },
+        "dcred": {
+            "name": "Diet Code Red",
+            "description": "Sugar-free cherry flavor nationally released in 2002 and is currently a regional offering.",
+            "role": "Diet Code Red"
+        },
+        "gblast": {
+            "name": "Game Blast",
+            "description": "Citrus-cherry flavor released to Sweden in 2015 and discontinued in 2020.",
+            "role": "Game Blast"
+        },
+        "gfccherry": {
+            "name": "Game Fuel (Citrus Cherry)",
+            "description": "Game Fuel flavor released in 2007 and plenty of years following as an LTO, with the last production run of the full-sugar recipe being in 2015.",
+            "role": "Game Fuel (Citrus Cherry)"
+        },
+        "gfccburst": {
+            "name": "GAME FUEL (Charged Cherry Burst)",
+            "description": "GAME FUEL Charged flavor released in 2019.",
+            "role": "GAME FUEL (Charged Cherry Burst)"
+        },
+        "hbrew": {
+            "name": "Holiday Brew",
+            "description": "Cherry and citrus flavor made from a mixture of Code Red and Original DEW. Released for a limited time in 2017.",
+            "role": "Holiday Brew"
+        },
+        "ksbcherry": {
+            "name": "Kickstart (Black Cherry)",
+            "description": "Kickstart flavor released in 2014.",
+            "role": "Kickstart (Black Cherry)"
+        },
+        "ksfpunch": {
+            "name": "Kickstart (Fruit Punch)",
+            "description": "Kickstart flavor released in 2013.",
+            "role": "Kickstart (Fruit Punch)"
+        },
+        "sblast": {
+            "name": "Sangrita Blast",
+            "description": "Citrus punch flavor released to US Taco Bell locations from 2013-2017 with a limited release to store shelves nationally in 2015.",
+            "role": "Sangrita Blast"
+        },
+        "sflare": {
+            "name": "Solar Flare",
+            "description": "Tropical punch fountain flavor released to US 7-Eleven locations in 2014, with availability slowly diminishing beginning in 2015. Currently offered at extremely few 7-Eleven locations.",
+            "role": "Solar Flare"
+        },
+        "sshock": {
+            "name": "Southern Shock",
+            "description": "Tropical punch fountain flavor released to Bojangles locations in 2020.",
+            "role": "Southern Shock"
         }
     },
 
@@ -40,6 +115,14 @@
     },
 
     "purple": {
+        "flavour": {
+            "name": "Cool flavour",
+            "description": "dew with a lotta FLAVOUR",
+            "role": "Cool role"
+        }
+    },
+    
+    "pink": {
         "flavour": {
             "name": "Cool flavour",
             "description": "dew with a lotta FLAVOUR",
