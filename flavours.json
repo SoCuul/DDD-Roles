@@ -1,0 +1,65 @@
+{
+    "red": {
+        "flavour": {
+            "name": "Cool flavour",
+            "description": "dew with a lotta FLAVOUR",
+            "role": "Cool role"
+        }
+    },
+
+    "orange": {
+        "flavour": {
+            "name": "Cool flavour",
+            "description": "dew with a lotta FLAVOUR",
+            "role": "Cool role"
+        }
+    },
+
+    "yellow": {
+        "flavour": {
+            "name": "Cool flavour",
+            "description": "dew with a lotta FLAVOUR",
+            "role": "Cool role"
+        }
+    },
+
+    "green": {
+        "flavour": {
+            "name": "Cool flavour",
+            "description": "dew with a lotta FLAVOUR",
+            "role": "Cool role"
+        }
+    },
+    
+    "blue": {
+        "flavour": {
+            "name": "Cool flavour",
+            "description": "dew with a lotta FLAVOUR",
+            "role": "Cool role"
+        }
+    },
+
+    "purple": {
+        "flavour": {
+            "name": "Cool flavour",
+            "description": "dew with a lotta FLAVOUR",
+            "role": "Cool role"
+        }
+    },
+
+    "white": {
+        "flavour": {
+            "name": "Cool flavour",
+            "description": "dew with a lotta FLAVOUR",
+            "role": "Cool role"
+        }
+    },
+
+    "other": {
+        "flavour": {
+            "name": "Cool flavour",
+            "description": "dew with a lotta FLAVOUR",
+            "role": "Cool role"
+        }
+    }
+}
