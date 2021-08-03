@@ -1,590 +1,606 @@
 {
     "red": {
-        "ampcb": {
-            "name": "AMP (Cherry Blast)",
-            "description": "Half-diet AMP flavor regionally released in 2015.",
-            "role": "AMP (Cherry Blast)"
-        },
-        "amptp": {
-            "name": "AMP (Tropical Punch)",
-            "description": "AMP flavor regionally released in 2016 and discontinued in 2018.",
-            "role": "AMP (Tropical Punch)"
-        },
-        "ccherry": {
-            "name": "Citrus Cherry",
-            "description": "*Not to be confused with Game Fuel (Citrus Cherry).* Half-diet flavor released regionally in 2014. Released nationally for a limited time in 2016 and 2018.",
-            "role": "Citrus Cherry"
-        },
-        "cred": {
-            "name": "Code Red",
-            "description": "Cherry flavor nationally released in 2001.",
-            "role": "Code Red"
-        },
-        "nz_cred": {
-            "name": "Code Red (NZ)",
-            "description": "Citrus-berry-cola flavor released to New Zealand in 2009. Made with real sugar.",
-            "role": "Code Red (NZ)"
-        },
-        "cyclone": {
-            "name": "Cyclone",
-            "description": "Citrus punch fountain flavor released in 2019 to Speedway gas stations.",
-            "role": "Cyclone"
-        },
-        "dcred": {
-            "name": "Diet Code Red",
-            "description": "Sugar-free cherry flavor nationally released in 2002 and is currently a regional offering.",
-            "role": "Diet Code Red"
-        },
-        "gblast": {
-            "name": "Game Blast",
-            "description": "Citrus-cherry flavor released to Sweden in 2015 and discontinued in 2020.",
-            "role": "Game Blast"
-        },
-        "gfcc": {
-            "name": "Game Fuel (Citrus Cherry)",
-            "description": "Game Fuel flavor released in 2007 and plenty of years following as an LTO, with the last production run of the full-sugar recipe being in 2015.",
-            "role": "Game Fuel (Citrus Cherry)"
-        },
-        "gfccb": {
-            "name": "GAME FUEL (Charged Cherry Burst)",
-            "description": "GAME FUEL Charged flavor released in 2019.",
-            "role": "GAME FUEL (Charged Cherry Burst)"
-        },
-        "hbrew": {
-            "name": "Holiday Brew",
-            "description": "Cherry and citrus flavor made from a mixture of Code Red and Original DEW. Released for a limited time in 2017.",
-            "role": "Holiday Brew"
-        },
-        "ksbcherry": {
-            "name": "Kickstart (Black Cherry)",
-            "description": "Kickstart flavor released in 2014.",
-            "role": "Kickstart (Black Cherry)"
-        },
-        "ksfpunch": {
-            "name": "Kickstart (Fruit Punch)",
-            "description": "Kickstart flavor released in 2013.",
-            "role": "Kickstart (Fruit Punch)"
-        },
-        "mmashup": {
-            "name": "Merry Mash-Up",
-            "description": "Cranberry pomegranate flavor released for a limited time in 2018, 2019, and 2020.",
-            "role": "Merry Mash-Up"
-        },
-        "sblast": {
-            "name": "Sangrita Blast",
-            "description": "Citrus punch flavor released to US Taco Bell locations from 2013-2017 with a limited release to store shelves nationally in 2015.",
-            "role": "Sangrita Blast"
-        },
-        "sflare": {
-            "name": "Solar Flare",
-            "description": "Tropical punch fountain flavor released to US 7-Eleven locations in 2014, with availability slowly diminishing beginning in 2015. Currently offered at extremely few 7-Eleven locations.",
-            "role": "Solar Flare"
-        },
-        "sshock": {
-            "name": "Southern Shock",
-            "description": "Tropical punch fountain flavor released to Bojangles locations in 2020.",
-            "role": "Southern Shock"
+        "1": {
+            "ampcb": {
+                "name": "AMP (Cherry Blast)",
+                "description": "Half-diet AMP flavor regionally released in 2015.",
+                "role": "AMP (Cherry Blast)"
+            },
+            "amptp": {
+                "name": "AMP (Tropical Punch)",
+                "description": "AMP flavor regionally released in 2016 and discontinued in 2018.",
+                "role": "AMP (Tropical Punch)"
+            },
+            "ccherry": {
+                "name": "Citrus Cherry",
+                "description": "*Not to be confused with Game Fuel (Citrus Cherry).* Half-diet flavor released regionally in 2014. Released nationally for a limited time in 2016 and 2018.",
+                "role": "Citrus Cherry"
+            },
+            "cred": {
+                "name": "Code Red",
+                "description": "Cherry flavor nationally released in 2001.",
+                "role": "Code Red"
+            },
+            "nz_cred": {
+                "name": "Code Red (NZ)",
+                "description": "Citrus-berry-cola flavor released to New Zealand in 2009. Made with real sugar.",
+                "role": "Code Red (NZ)"
+            },
+            "cyclone": {
+                "name": "Cyclone",
+                "description": "Citrus punch fountain flavor released in 2019 to Speedway gas stations.",
+                "role": "Cyclone"
+            },
+            "dcred": {
+                "name": "Diet Code Red",
+                "description": "Sugar-free cherry flavor nationally released in 2002 and is currently a regional offering.",
+                "role": "Diet Code Red"
+            },
+            "gblast": {
+                "name": "Game Blast",
+                "description": "Citrus-cherry flavor released to Sweden in 2015 and discontinued in 2020.",
+                "role": "Game Blast"
+            },
+            "gfcc": {
+                "name": "Game Fuel (Citrus Cherry)",
+                "description": "Game Fuel flavor released in 2007 and plenty of years following as an LTO, with the last production run of the full-sugar recipe being in 2015.",
+                "role": "Game Fuel (Citrus Cherry)"
+            },
+            "gfccb": {
+                "name": "GAME FUEL (Charged Cherry Burst)",
+                "description": "GAME FUEL Charged flavor released in 2019.",
+                "role": "GAME FUEL (Charged Cherry Burst)"
+            },
+            "hbrew": {
+                "name": "Holiday Brew",
+                "description": "Cherry and citrus flavor made from a mixture of Code Red and Original DEW. Released for a limited time in 2017.",
+                "role": "Holiday Brew"
+            },
+            "ksbcherry": {
+                "name": "Kickstart (Black Cherry)",
+                "description": "Kickstart flavor released in 2014.",
+                "role": "Kickstart (Black Cherry)"
+            },
+            "ksfpunch": {
+                "name": "Kickstart (Fruit Punch)",
+                "description": "Kickstart flavor released in 2013.",
+                "role": "Kickstart (Fruit Punch)"
+            },
+            "mmashup": {
+                "name": "Merry Mash-Up",
+                "description": "Cranberry pomegranate flavor released for a limited time in 2018, 2019, and 2020.",
+                "role": "Merry Mash-Up"
+            },
+            "sblast": {
+                "name": "Sangrita Blast",
+                "description": "Citrus punch flavor released to US Taco Bell locations from 2013-2017 with a limited release to store shelves nationally in 2015.",
+                "role": "Sangrita Blast"
+            },
+            "sflare": {
+                "name": "Solar Flare",
+                "description": "Tropical punch fountain flavor released to US 7-Eleven locations in 2014, with availability slowly diminishing beginning in 2015. Currently offered at extremely few 7-Eleven locations.",
+                "role": "Solar Flare"
+            },
+            "sshock": {
+                "name": "Southern Shock",
+                "description": "Tropical punch fountain flavor released to Bojangles locations in 2020.",
+                "role": "Southern Shock"
+            }
         }
     },
 
     "orange": {
-        "bpunch": {
-            "name": "Baja Punch",
-            "description": "",
-            "role": "Baja Punch"
-        },
-        "gfmh": {
-            "name": "Game Fuel (Mango Heat)",
-            "description": "",
-            "role": "Game Fuel (Mango Heat)"
-        },
-        "gfrc": {
-            "name": "Game Fuel (Raspberry-Citrus)",
-            "description": "",
-            "role": "Game Fuel (Raspberry-Citrus)"
-        },
-        "gfcos": {
-            "name": "GAME FUEL (Charged Orange Storm)",
-            "description": "",
-            "role": "GAME FUEL (Charged Orange Storm)"
-        },
-        "gfcs": {
-            "name": "GAME FUEL (Courageous Sherbet)",
-            "description": "",
-            "role": "GAME FUEL (Courageous Sherbet)"
-        },
-        "gfzcs": {
-            "name": "GAME FUEL ZERO (Courageous Sherbet)",
-            "description": "",
-            "role": "GAME FUEL ZERO (Courageous Sherbet)"
-        },
-        "ksborange": {
-            "name": "Kickstart (Blood Orange)",
-            "description": "",
-            "role": "Kickstart (Blood Orange)"
-        },
-        "ksocitrus": {
-            "name": "Kickstart (Orange Citrus)",
-            "description": "",
-            "role": "Kickstart (Orange Citrus)"
-        },
-        "livewire": {
-            "name": "LiveWire",
-            "description": "",
-            "role": "LiveWire"
-        },
-        "riseob": {
-            "name": "RISE Orange Breeze",
-            "description": "",
-            "role": "RISE Orange Breeze"
-        },
-        "risepmd": {
-            "name": "RISE Peach Mango Dawn",
-            "description": "",
-            "role": "RISE Peach Mango Dawn"
-        },
-        "fi_snova": {
-            "name": "Supernova (Finland)",
-            "description": "",
-            "role": "Supernova (Finland)"
-        },
-        "typhoon": {
-            "name": "Typhoon",
-            "description": "",
-            "role": "Typhoon"
+        "1": {
+            "bpunch": {
+                "name": "Baja Punch",
+                "description": "",
+                "role": "Baja Punch"
+            },
+            "gfmh": {
+                "name": "Game Fuel (Mango Heat)",
+                "description": "",
+                "role": "Game Fuel (Mango Heat)"
+            },
+            "gfrc": {
+                "name": "Game Fuel (Raspberry-Citrus)",
+                "description": "",
+                "role": "Game Fuel (Raspberry-Citrus)"
+            },
+            "gfcos": {
+                "name": "GAME FUEL (Charged Orange Storm)",
+                "description": "",
+                "role": "GAME FUEL (Charged Orange Storm)"
+            },
+            "gfcs": {
+                "name": "GAME FUEL (Courageous Sherbet)",
+                "description": "",
+                "role": "GAME FUEL (Courageous Sherbet)"
+            },
+            "gfzcs": {
+                "name": "GAME FUEL ZERO (Courageous Sherbet)",
+                "description": "",
+                "role": "GAME FUEL ZERO (Courageous Sherbet)"
+            },
+            "ksborange": {
+                "name": "Kickstart (Blood Orange)",
+                "description": "",
+                "role": "Kickstart (Blood Orange)"
+            },
+            "ksocitrus": {
+                "name": "Kickstart (Orange Citrus)",
+                "description": "",
+                "role": "Kickstart (Orange Citrus)"
+            },
+            "livewire": {
+                "name": "LiveWire",
+                "description": "",
+                "role": "LiveWire"
+            },
+            "riseob": {
+                "name": "RISE Orange Breeze",
+                "description": "",
+                "role": "RISE Orange Breeze"
+            },
+            "risepmd": {
+                "name": "RISE Peach Mango Dawn",
+                "description": "",
+                "role": "RISE Peach Mango Dawn"
+            },
+            "fi_snova": {
+                "name": "Supernova (Finland)",
+                "description": "",
+                "role": "Supernova (Finland)"
+            },
+            "typhoon": {
+                "name": "Typhoon",
+                "description": "",
+                "role": "Typhoon"
+            }
         }
     },
 
     "yellow": {
-        "bflash": {
-            "name": "Baja Flash",
-            "description": "",
-            "role": "Baja Flash"
-        },
-        "gfl": {
-            "name": "Game Fuel (Lemonade)",
-            "description": "",
-            "role": "Game Fuel (Lemonade)"
-        },
-        "gfts": {
-            "name": "Game Fuel (Tropical Smash)",
-            "description": "",
-            "role": "Game Fuel (Tropical Smash)"
-        },
-        "gfcts": {
-            "name": "GAME FUEL (Charged Tropical Strike)",
-            "description": "",
-            "role": "GAME FUEL (Charged Tropical Strike)"
-        },
-        "jcg": {
-            "name": "Johnson City Gold",
-            "description": "",
-            "role": "Johnson City Gold"
-        },
-        "ksmlime": {
-            "name": "Kickstart (Mango Lime)",
-            "description": "",
-            "role": "Kickstart (Mango Lime)"
-        },
-        "kspomango": {
-            "name": "Kickstart (Pineapple Orange Mango)",
-            "description": "",
-            "role": "Kickstart (Pineapple Orange Mango)"
-        },
-        "mburst": {
-            "name": "Maui Burst",
-            "description": "",
-            "role": "Maui Burst"
-        },
-        "pfrenzy": {
-            "name": "Passionfruit Frenzy",
-            "description": "",
-            "role": "Passionfruit Frenzy"
-        },
-        "risets": {
-            "name": "RISE Tropical Sunrise",
-            "description": "",
-            "role": "RISE Tropical Sunrise"
-        },
-        "slemonade": {
-            "name": "Spiked (Lemonade)",
-            "description": "",
-            "role": "Spiked (Lemonade)"
-        },
-        "slightning": {
-            "name": "Sweet Lightning",
-            "description": "",
-            "role": "Sweet Lightning"
-        },
-        "vibe": {
-            "name": "Vibe",
-            "description": "",
-            "role": "Vibe"
+        "1": {
+            "bflash": {
+                "name": "Baja Flash",
+                "description": "",
+                "role": "Baja Flash"
+            },
+            "gfl": {
+                "name": "Game Fuel (Lemonade)",
+                "description": "",
+                "role": "Game Fuel (Lemonade)"
+            },
+            "gfts": {
+                "name": "Game Fuel (Tropical Smash)",
+                "description": "",
+                "role": "Game Fuel (Tropical Smash)"
+            },
+            "gfcts": {
+                "name": "GAME FUEL (Charged Tropical Strike)",
+                "description": "",
+                "role": "GAME FUEL (Charged Tropical Strike)"
+            },
+            "jcg": {
+                "name": "Johnson City Gold",
+                "description": "",
+                "role": "Johnson City Gold"
+            },
+            "ksmlime": {
+                "name": "Kickstart (Mango Lime)",
+                "description": "",
+                "role": "Kickstart (Mango Lime)"
+            },
+            "kspomango": {
+                "name": "Kickstart (Pineapple Orange Mango)",
+                "description": "",
+                "role": "Kickstart (Pineapple Orange Mango)"
+            },
+            "mburst": {
+                "name": "Maui Burst",
+                "description": "",
+                "role": "Maui Burst"
+            },
+            "pfrenzy": {
+                "name": "Passionfruit Frenzy",
+                "description": "",
+                "role": "Passionfruit Frenzy"
+            },
+            "risets": {
+                "name": "RISE Tropical Sunrise",
+                "description": "",
+                "role": "RISE Tropical Sunrise"
+            },
+            "slemonade": {
+                "name": "Spiked (Lemonade)",
+                "description": "",
+                "role": "Spiked (Lemonade)"
+            },
+            "slightning": {
+                "name": "Sweet Lightning",
+                "description": "",
+                "role": "Sweet Lightning"
+            },
+            "vibe": {
+                "name": "Vibe",
+                "description": "",
+                "role": "Vibe"
+            }
         }
     },
 
     "green": {
-        "amp": {
-            "name": "AMP (Original)",
-            "description": "",
-            "role": "AMP (Original)"
-        },
-        "bblast": {
-            "name": "Baja Blast",
-            "description": "",
-            "role": "Baja Blast"
-        },
-        "bblastzs": {
-            "name": "Baja Blast Zero Sugar",
-            "description": "",
-            "role": "Baja Blast Zero Sugar"
-        },
-        "cblast": {
-            "name": "Citrus Blast",
-            "description": "",
-            "role": "Citrus Blast"
-        },
-        "dmd": {
-            "name": "Diet Mountain Dew",
-            "description": "",
-            "role": "Diet Mountain Dew"
-        },
-        "dmdcf": {
-            "name": "Diet Mountain Dew Caffeine-Free",
-            "description": "",
-            "role": "Diet Mountain Dew Caffeine-Free"
-        },
-        "distortion": {
-            "name": "Distortion",
-            "description": "",
-            "role": "Distortion"
-        },
-        "eapple": {
-            "name": "Electric Apple",
-            "description": "",
-            "role": "Electric Apple"
-        },
-        "gft": {
-            "name": "Game Fuel (Tropical)",
-            "description": "",
-            "role": "Game Fuel (Tropical)"
-        },
-        "gfcod": {
-            "name": "GAME FUEL (Charged Original DEW)",
-            "description": "",
-            "role": "GAME FUEL (Charged Original DEW)"
-        },
-        "glabel": {
-            "name": "Green Label",
-            "description": "",
-            "role": "Green Label"
-        },
-        "kslimeade": {
-            "name": "Kickstart (Limeade)",
-            "description": "",
-            "role": "Kickstart (Limeade)"
-        },
-        "ksodew": {
-            "name": "Kickstart (Original Dew)",
-            "description": "",
-            "role": "Kickstart (Original Dew)"
-        },
-        "md": {
-            "name": "Mountain Dew",
-            "description": "",
-            "role": "Mountain Dew"
-        },
-        "mdcf": {
-            "name": "Mountain Dew Caffeine-Free",
-            "description": "",
-            "role": "Mountain Dew Caffeine-Free"
-        },
-        "mdx": {
-            "name": "Mountain Dew MDX",
-            "description": "",
-            "role": "Mountain Dew MDX"
-        },
-        "mdrs": {
-            "name": "Mountain Dew Real Sugar",
-            "description": "",
-            "role": "Mountain Dew Real Sugar"
-        },
-        "mdzs": {
-            "name": "Mountain Dew Zero Sugar",
-            "description": "",
-            "role": "Mountain Dew Zero Sugar"
-        },
-        "tapple": {
-            "name": "Thrashed Apple",
-            "description": "",
-            "role": "Thrashed Apple"
+        "1": {
+            "amp": {
+                "name": "AMP (Original)",
+                "description": "",
+                "role": "AMP (Original)"
+            },
+            "bblast": {
+                "name": "Baja Blast",
+                "description": "",
+                "role": "Baja Blast"
+            },
+            "bblastzs": {
+                "name": "Baja Blast Zero Sugar",
+                "description": "",
+                "role": "Baja Blast Zero Sugar"
+            },
+            "cblast": {
+                "name": "Citrus Blast",
+                "description": "",
+                "role": "Citrus Blast"
+            },
+            "dmd": {
+                "name": "Diet Mountain Dew",
+                "description": "",
+                "role": "Diet Mountain Dew"
+            },
+            "dmdcf": {
+                "name": "Diet Mountain Dew Caffeine-Free",
+                "description": "",
+                "role": "Diet Mountain Dew Caffeine-Free"
+            },
+            "distortion": {
+                "name": "Distortion",
+                "description": "",
+                "role": "Distortion"
+            },
+            "eapple": {
+                "name": "Electric Apple",
+                "description": "",
+                "role": "Electric Apple"
+            },
+            "gft": {
+                "name": "Game Fuel (Tropical)",
+                "description": "",
+                "role": "Game Fuel (Tropical)"
+            },
+            "gfcod": {
+                "name": "GAME FUEL (Charged Original DEW)",
+                "description": "",
+                "role": "GAME FUEL (Charged Original DEW)"
+            },
+            "glabel": {
+                "name": "Green Label",
+                "description": "",
+                "role": "Green Label"
+            },
+            "kslimeade": {
+                "name": "Kickstart (Limeade)",
+                "description": "",
+                "role": "Kickstart (Limeade)"
+            },
+            "ksodew": {
+                "name": "Kickstart (Original Dew)",
+                "description": "",
+                "role": "Kickstart (Original Dew)"
+            },
+            "md": {
+                "name": "Mountain Dew",
+                "description": "",
+                "role": "Mountain Dew"
+            },
+            "mdcf": {
+                "name": "Mountain Dew Caffeine-Free",
+                "description": "",
+                "role": "Mountain Dew Caffeine-Free"
+            },
+            "mdx": {
+                "name": "Mountain Dew MDX",
+                "description": "",
+                "role": "Mountain Dew MDX"
+            },
+            "mdrs": {
+                "name": "Mountain Dew Real Sugar",
+                "description": "",
+                "role": "Mountain Dew Real Sugar"
+            },
+            "mdzs": {
+                "name": "Mountain Dew Zero Sugar",
+                "description": "",
+                "role": "Mountain Dew Zero Sugar"
+            },
+            "tapple": {
+                "name": "Thrashed Apple",
+                "description": "",
+                "role": "Thrashed Apple"
+            } 
         }
     },
     
     "blue": {
-        "ablue": {
-            "name": "Atomic Blue",
-            "description": "",
-            "role": "Atomic Blue"
-        },
-        "bmonsoon": {
-            "name": "Berry Monsoon",
-            "description": "",
-            "role": "Berry Monsoon"
-        },
-        "bmonsoonzs": {
-            "name": "Berry Monsoon Zero Sugar",
-            "description": "",
-            "role": "Berry Monsoon Zero Sugar"
-        },
-        "bshock": {
-            "name": "Blue Shock",
-            "description": "",
-            "role": "Blue Shock"
-        },
-        "dberry": {
-            "name": "Dark Berry",
-            "description": "",
-            "role": "Dark Berry"
-        },
-        "dberry": {
-            "name": "Dark Berry Bash",
-            "description": "",
-            "role": "Dark Berry Bash"
-        },
-        "dvoltage": {
-            "name": "Diet Voltage",
-            "description": "",
-            "role": "Diet Voltage"
-        },
-        "fbite": {
-            "name": "Frost Bite",
-            "description": "",
-            "role": "Frost Bite"
-        },
-        "fbitezs": {
-            "name": "Frost Bite Zero Sugar",
-            "description": "",
-            "role": "Frost Bite Zero Sugar"
-        },
-        "gfab": {
-            "name": "Game Fuel (Arctic Burst)",
-            "description": "",
-            "role": "Game Fuel (Arctic Burst)"
-        },
-        "gfbl": {
-            "name": "Game Fuel (Berry Lime)",
-            "description": "",
-            "role": "Game Fuel (Berry Lime)"
-        },
-        "gfwf": {
-            "name": "Game Fuel (Wild Fruit)",
-            "description": "",
-            "role": "Game Fuel (Wild Fruit)"
-        },
-        "gfcbb": {
-            "name": "GAME FUEL (Charged Berry Blast)",
-            "description": "",
-            "role": "GAME FUEL (Charged Berry Blast)"
-        },
-        "ksbp": {
-            "name": "Kickstart Recharge (Blueberry Pomegranate)",
-            "description": "",
-            "role": "Kickstart Recharge (Blueberry Pomegranate)"
-        },
-        "lbrew": {
-            "name": "Liberty Brew",
-            "description": "",
-            "role": "Liberty Brew"
-        },
-        "revolution": {
-            "name": "Revolution",
-            "description": "",
-            "role": "Revolution"
-        },
-        "risepbb": {
-            "name": "RISE Pomegranate Blue Burst",
-            "description": "",
-            "role": "RISE Pomegranate Blue Burst"
-        },
-        "voltage": {
-            "name": "Voltage",
-            "description": "",
-            "role": "Voltage"
+        "1": {
+            "ablue": {
+                "name": "Atomic Blue",
+                "description": "",
+                "role": "Atomic Blue"
+            },
+            "bmonsoon": {
+                "name": "Berry Monsoon",
+                "description": "",
+                "role": "Berry Monsoon"
+            },
+            "bmonsoonzs": {
+                "name": "Berry Monsoon Zero Sugar",
+                "description": "",
+                "role": "Berry Monsoon Zero Sugar"
+            },
+            "bshock": {
+                "name": "Blue Shock",
+                "description": "",
+                "role": "Blue Shock"
+            },
+            "dberry": {
+                "name": "Dark Berry",
+                "description": "",
+                "role": "Dark Berry"
+            },
+            "dbbash": {
+                "name": "Dark Berry Bash",
+                "description": "",
+                "role": "Dark Berry Bash"
+            },
+            "dvoltage": {
+                "name": "Diet Voltage",
+                "description": "",
+                "role": "Diet Voltage"
+            },
+            "fbite": {
+                "name": "Frost Bite",
+                "description": "",
+                "role": "Frost Bite"
+            },
+            "fbitezs": {
+                "name": "Frost Bite Zero Sugar",
+                "description": "",
+                "role": "Frost Bite Zero Sugar"
+            },
+            "gfab": {
+                "name": "Game Fuel (Arctic Burst)",
+                "description": "",
+                "role": "Game Fuel (Arctic Burst)"
+            },
+            "gfbl": {
+                "name": "Game Fuel (Berry Lime)",
+                "description": "",
+                "role": "Game Fuel (Berry Lime)"
+            },
+            "gfwf": {
+                "name": "Game Fuel (Wild Fruit)",
+                "description": "",
+                "role": "Game Fuel (Wild Fruit)"
+            },
+            "gfcbb": {
+                "name": "GAME FUEL (Charged Berry Blast)",
+                "description": "",
+                "role": "GAME FUEL (Charged Berry Blast)"
+            },
+            "ksbp": {
+                "name": "Kickstart Recharge (Blueberry Pomegranate)",
+                "description": "",
+                "role": "Kickstart Recharge (Blueberry Pomegranate)"
+            },
+            "lbrew": {
+                "name": "Liberty Brew",
+                "description": "",
+                "role": "Liberty Brew"
+            },
+            "revolution": {
+                "name": "Revolution",
+                "description": "",
+                "role": "Revolution"
+            },
+            "risepbb": {
+                "name": "RISE Pomegranate Blue Burst",
+                "description": "",
+                "role": "RISE Pomegranate Blue Burst"
+            },
+            "voltage": {
+                "name": "Voltage",
+                "description": "",
+                "role": "Voltage"
+            }
         }
     },
 
     "purple": {
-        "blabel": {
-            "name": "Black Label",
-            "description": "",
-            "role": "Black Label"
-        },
-        "dewsa": {
-            "name": "DEW-S-A",
-            "description": "",
-            "role": "DEW-S-A"
-        },
-        "duviolet": {
-            "name": "Diet Ultra Violet",
-            "description": "",
-            "role": "Diet Ultra Violet"
-        },
-        "gfeb": {
-            "name": "Game Fuel (Electrifying Berry)",
-            "description": "",
-            "role": "Game Fuel (Electrifying Berry)"
-        },
-        "ksg": {
-            "name": "Kickstart (Grape)",
-            "description": "",
-            "role": "Kickstart (Grape)"
-        },
-        "pblack": {
-            "name": "Pitch Black",
-            "description": "",
-            "role": "Pitch Black"
-        },
-        "pblackii": {
-            "name": "Pitch Black II",
-            "description": "",
-            "role": "Pitch Black II"
-        },
-        "risebb": {
-            "name": "RISE Berry Blitz",
-            "description": "",
-            "role": "RISE Berry Blitz"
-        },
-        "violet": {
-            "name": "Violet",
-            "description": "",
-            "role": "Violet"
+        "1": {
+            "blabel": {
+                "name": "Black Label",
+                "description": "",
+                "role": "Black Label"
+            },
+            "dewsa": {
+                "name": "DEW-S-A",
+                "description": "",
+                "role": "DEW-S-A"
+            },
+            "duviolet": {
+                "name": "Diet Ultra Violet",
+                "description": "",
+                "role": "Diet Ultra Violet"
+            },
+            "gfeb": {
+                "name": "Game Fuel (Electrifying Berry)",
+                "description": "",
+                "role": "Game Fuel (Electrifying Berry)"
+            },
+            "ksg": {
+                "name": "Kickstart (Grape)",
+                "description": "",
+                "role": "Kickstart (Grape)"
+            },
+            "pblack": {
+                "name": "Pitch Black",
+                "description": "",
+                "role": "Pitch Black"
+            },
+            "pblackii": {
+                "name": "Pitch Black II",
+                "description": "",
+                "role": "Pitch Black II"
+            },
+            "risebb": {
+                "name": "RISE Berry Blitz",
+                "description": "",
+                "role": "RISE Berry Blitz"
+            },
+            "violet": {
+                "name": "Violet",
+                "description": "",
+                "role": "Violet"
+            }
         }
     },
     
     "pink": {
-        "ampsl": {
-            "name": "AMP (Strawberry Limeade)",
-            "description": "AMP flavor regionally released in 2015 and discontinued in 2021.",
-            "role": "AMP (Strawberry Limeade)"
-        },
-        "btwister": {
-            "name": "Berry Twister",
-            "description": "",
-            "role": "Berry Twister"
-        }
-        "dsnova": {
-            "name": "Diet Supernova",
-            "description": "Sugar-free strawberry melon flavor. Won the FanDEWmonium contest after a limited-time national release in 2011 and was released in stores \"permanently\" for a single month in 2012.",
-            "role": "Diet Supernova"
-        },
-        "gfzcrl": {
-            "name": "GAME FUEL ZERO (Charged Raspberry Lemonade)",
-            "description": "",
-            "role": "GAME FUEL ZERO (Charged Raspberry Lemonade)"
-        },
-        "gfzcws": {
-            "name": "GAME FUEL ZERO (Charged Watermelon Shock)",
-            "description": "",
-            "role": "GAME FUEL ZERO (Charged Watermelon Shock)"
-        },
-        "gcstrawberry": {
-            "name": "Goji Citrus Strawberry",
-            "description": "",
-            "role": "Goji Citrus Strawberry"
-        },
-        "ksrcitrus": {
-            "name": "Kickstart Hydrating Boost (Raspberry Citrus)",
-            "description": "",
-            "role": "Kickstart Hydrating Boost (Raspberry Citrus)"
-        },
-        "ksskiwi": {
-            "name": "Kickstart Hydrating Boost (Strawberry Kiwi)",
-            "description": "",
-            "role": "Kickstart Hydrating Boost (Strawberry Kiwi)"
-        },
-        "kswatermelon": {
-            "name": "Kickstart Hydrating Boost (Watermelon)",
-            "description": "",
-            "role": "Kickstart Hydrating Boost (Watermelon)"
-        },
-        "mmelon": {
-            "name": "Major Melon",
-            "description": "",
-            "role": "Major Melon"
-        },
-        "mmelonzs": {
-            "name": "Major Melon Zero Sugar",
-            "description": "",
-            "role": "Major Melon Zero Sugar"
-        },
-        "risesms": {
-            "name": "RISE Strawberry Melon Spark",
-            "description": "",
-            "role": "RISE Strawberry Melon Spark"
-        },
-        "spark": {
-            "name": "Spark",
-            "description": "",
-            "role": "Spark"
-        },
-        "srlemonade": {
-            "name": "Spiked (Raspberry Lemonade)",
-            "description": "",
-            "role": "Spiked (Raspberry Lemonade)"
-        },
-        "snova": {
-            "name": "Supernova",
-            "description": "",
-            "role": "Supernova"
+        "1": {
+            "ampsl": {
+                "name": "AMP (Strawberry Limeade)",
+                "description": "AMP flavor regionally released in 2015 and discontinued in 2021.",
+                "role": "AMP (Strawberry Limeade)"
+            },
+            "btwister": {
+                "name": "Berry Twister",
+                "description": "",
+                "role": "Berry Twister"
+            },
+            "dsnova": {
+                "name": "Diet Supernova",
+                "description": "Sugar-free strawberry melon flavor. Won the FanDEWmonium contest after a limited-time national release in 2011 and was released in stores \"permanently\" for a single month in 2012.",
+                "role": "Diet Supernova"
+            },
+            "gfzcrl": {
+                "name": "GAME FUEL ZERO (Charged Raspberry Lemonade)",
+                "description": "",
+                "role": "GAME FUEL ZERO (Charged Raspberry Lemonade)"
+            },
+            "gfzcws": {
+                "name": "GAME FUEL ZERO (Charged Watermelon Shock)",
+                "description": "",
+                "role": "GAME FUEL ZERO (Charged Watermelon Shock)"
+            },
+            "gcstrawberry": {
+                "name": "Goji Citrus Strawberry",
+                "description": "",
+                "role": "Goji Citrus Strawberry"
+            },
+            "ksrcitrus": {
+                "name": "Kickstart Hydrating Boost (Raspberry Citrus)",
+                "description": "",
+                "role": "Kickstart Hydrating Boost (Raspberry Citrus)"
+            },
+            "ksskiwi": {
+                "name": "Kickstart Hydrating Boost (Strawberry Kiwi)",
+                "description": "",
+                "role": "Kickstart Hydrating Boost (Strawberry Kiwi)"
+            },
+            "kswatermelon": {
+                "name": "Kickstart Hydrating Boost (Watermelon)",
+                "description": "",
+                "role": "Kickstart Hydrating Boost (Watermelon)"
+            },
+            "mmelon": {
+                "name": "Major Melon",
+                "description": "",
+                "role": "Major Melon"
+            },
+            "mmelonzs": {
+                "name": "Major Melon Zero Sugar",
+                "description": "",
+                "role": "Major Melon Zero Sugar"
+            },
+            "risesms": {
+                "name": "RISE Strawberry Melon Spark",
+                "description": "",
+                "role": "RISE Strawberry Melon Spark"
+            },
+            "spark": {
+                "name": "Spark",
+                "description": "",
+                "role": "Spark"
+            },
+            "srlemonade": {
+                "name": "Spiked (Raspberry Lemonade)",
+                "description": "",
+                "role": "Spiked (Raspberry Lemonade)"
+            },
+            "snova": {
+                "name": "Supernova",
+                "description": "",
+                "role": "Supernova"
+            }
         }
     },
 
     "whiteclear": {
-        "csmash": {
-            "name": "Cake Smash",
-            "description": "",
-            "role": "Cake Smash"
-        },
-        "dewshine": {
-            "name": "DEWshine",
-            "description": "",
-            "role": "DEWshine"
-        },
-        "ice": {
-            "name": "ICE",
-            "description": "",
-            "role": "ICE"
-        },
-        "icec": {
-            "name": "ICE Cherry",
-            "description": "",
-            "role": "ICE Cherry"
-        },
-        "voodew19": {
-            "name": "VooDEW (2019)",
-            "description": "",
-            "role": "VooDEW (2019)"
-        },
-        "voodew20": {
-            "name": "VooDEW (2020)",
-            "description": "",
-            "role": "VooDEW (2020)"
-        },
-        "voodew21": {
-            "name": "VooDEW (2021)",
-            "description": "",
-            "role": "VooDEW (2021)"
-        },
-        "wlabel": {
-            "name": "White Label",
-            "description": "",
-            "role": "White Label"
-        },
-        "wout": {
-            "name": "White Out",
-            "description": "",
-            "role": "White Out"
+        "1": {
+            "csmash": {
+                "name": "Cake Smash",
+                "description": "",
+                "role": "Cake Smash"
+            },
+            "dewshine": {
+                "name": "DEWshine",
+                "description": "",
+                "role": "DEWshine"
+            },
+            "ice": {
+                "name": "ICE",
+                "description": "",
+                "role": "ICE"
+            },
+            "icec": {
+                "name": "ICE Cherry",
+                "description": "",
+                "role": "ICE Cherry"
+            },
+            "voodew19": {
+                "name": "VooDEW (2019)",
+                "description": "",
+                "role": "VooDEW (2019)"
+            },
+            "voodew20": {
+                "name": "VooDEW (2020)",
+                "description": "",
+                "role": "VooDEW (2020)"
+            },
+            "voodew21": {
+                "name": "VooDEW (2021)",
+                "description": "",
+                "role": "VooDEW (2021)"
+            },
+            "wlabel": {
+                "name": "White Label",
+                "description": "",
+                "role": "White Label"
+            },
+            "wout": {
+                "name": "White Out",
+                "description": "",
+                "role": "White Out"
+            }
         }
     }
 }
