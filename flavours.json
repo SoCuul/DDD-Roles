@@ -88,7 +88,7 @@
             }
         },
         "2": {
-            "Test Dew": {
+            "testdew": {
                 "name": "Test Dew",
                 "description": "Testing dew",
                 "role": "norolelol"
