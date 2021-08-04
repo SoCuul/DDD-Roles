@@ -25,6 +25,9 @@ module.exports = {
                     )
                 ]
             })
+
+            //React to original message
+            message.react('✅')
         }
         catch(error){
             console.log(error)
