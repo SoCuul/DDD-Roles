@@ -1,1 +1,3 @@
-/Bot/
+/Bot/node_modules
+/Bot/.env
+/Bot/config.json

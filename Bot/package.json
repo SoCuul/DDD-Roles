@@ -1,0 +1,16 @@
+{
+  "name": "ddd-roles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^13.0.0-dev.t1627689836.ee3cdc8",
+    "dotenv": "^10.0.0"
+  }
+}
