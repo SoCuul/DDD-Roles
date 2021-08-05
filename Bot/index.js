@@ -11,7 +11,6 @@ const client = new Discord.Client({
 
 //Load config
 const config = require('./config.json');
-const { default: axios } = require('axios');
 client.config = config;
 
 //Load env
@@ -50,20 +49,35 @@ catch(error){
     process.exit(1)
 }
 
+const axios = require('axios');
 //Download flavour list
-try{
-    axios.get('https://raw.githubusercontent.com/SoCuul/DDD-Roles/main/flavours.json')
-    .then(response => {
-        if(response && response.data){
-            client.flavours = response.data
-        }
-        else{
-            console.log('[Error] Could not download flavour list. Try again in a little bit.')
-        }
-    })
-}
-catch(error){
-    console.log('[Error] Could not download flavour list. Try again in a little bit.')
-}
+axios.get('https://raw.githubusercontent.com/SoCuul/DDD-Roles/main/flavours.json')
+.then(response => {
+	if(response && response.data){
+		client.flavours = response.data
+	}
+	else{
+		console.log('[Error] Could not download flavour list. Try again in a little bit.')
+		process.exit(1)
+	}
+})
+.catch(() => {
+	console.log('[Error] Could not download flavour list. Try again in a little bit.')
+	process.exit(1)
+})
 
-//client.flavours = 
+//Download bot messages list
+axios.get('https://raw.githubusercontent.com/SoCuul/DDD-Roles/main/msgs.json')
+.then(response => {
+	if(response && response.data){
+		client.msgs = response.data
+	}
+	else{
+		console.log('[Error] Could not download bot messages list. Try again in a little bit.')
+		process.exit(1)
+	}
+})
+.catch(() => {
+	console.log('[Error] Could not download bot messages list. Try again in a little bit.')
+	process.exit(1)
+})

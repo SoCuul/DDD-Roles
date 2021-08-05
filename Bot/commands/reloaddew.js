@@ -1,5 +1,5 @@
 module.exports = {
-    aliases: ['rd'],
+    aliases: ['dewreload', 'rd'],
     async run(client, message, args, sendError) {
         const Discord = require("discord.js");
         const axios = require('axios');

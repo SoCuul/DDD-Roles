@@ -7,8 +7,8 @@ module.exports = {
 
         const embed = new Discord.MessageEmbed()
         .setColor('GREEN')
-        .setTitle('Grab a Dew Role')
-        .setDescription('Click the button below to grab a role representing your favourite dew!')
+        .setTitle(client.msgs.getRole.title)
+        .setDescription(client.msgs.getRole.description)
 
         try{
             //Send message
@@ -19,9 +19,9 @@ module.exports = {
                     .addComponents(
                         new Discord.MessageButton()
                         .setCustomId('dew_role')
-                        .setLabel('Get a Dew role')
+                        .setLabel(client.msgs.getRole.buttonName)
                         .setStyle('PRIMARY')
-                        .setEmoji('616461782839590938'),
+                        .setEmoji(client.msgs.getRole.buttonEmoji),
                     )
                 ]
             })

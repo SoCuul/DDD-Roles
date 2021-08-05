@@ -14,8 +14,8 @@ module.exports = async (client, i) => {
         try{
             const colourEmbed = new Discord.MessageEmbed()
             .setColor('GREEN')
-            .setTitle('Select a colour')
-            .setDescription('Which colour is the Mountain Dew you want to pick?')
+            .setTitle(client.msgs.selectColour.title)
+            .setDescription(client.msgs.selectColour.description)
             .setTimestamp()
             i.reply({
                 embeds: [colourEmbed],
@@ -25,7 +25,7 @@ module.exports = async (client, i) => {
                     .addComponents(
                         new Discord.MessageSelectMenu()
                         .setCustomId('dew_select_colour')
-                        .setPlaceholder('Select a dew colour')
+                        .setPlaceholder(client.msgs.selectColour.selectPlaceholder)
                         .addOptions([
                             {
                                 label: 'Red',
@@ -90,8 +90,8 @@ module.exports = async (client, i) => {
                         embeds: [
                             new Discord.MessageEmbed()
                             .setColor('RED')
-                            .setTitle('Invalid Colour')
-                            .setDescription('The colour you selected is currently invalid.\nPlease try again later, or select a different dew colour.')
+                            .setTitle(client.msgs.selectColour.invalidColourTitle)
+                            .setDescription(client.msgs.selectColour.invalidColour)
                             .setTimestamp()
                         ]
                     })
@@ -128,7 +128,7 @@ module.exports = async (client, i) => {
                         .addComponents(
                             new Discord.MessageSelectMenu()
                             .setCustomId('dew_select_flavour')
-                            .setPlaceholder('Select a Dew flavour')
+                            .setPlaceholder(client.msgs.selectFlavour.selectPlaceholder)
                             .addOptions(dewOptions[j]),
                         )
                     )
@@ -139,8 +139,8 @@ module.exports = async (client, i) => {
             try{
                 const flavourEmbed = new Discord.MessageEmbed()
                 .setColor('GREEN')
-                .setTitle('Select a Dew')
-                .setDescription('Which Mountain Dew flavour do you want?')
+                .setTitle(client.msgs.selectFlavour.title)
+                .setDescription(client.msgs.selectFlavour.description)
                 .setTimestamp()
                 i.update({
                     embeds: [flavourEmbed],
@@ -172,14 +172,14 @@ module.exports = async (client, i) => {
                     try{
                         i.member.roles.cache
                         .filter(r => r.name.startsWith(rolePrefix))
-                        .forEach(r => i.member.roles.remove(r).catch(e => errors.push('Could not remove previous MTN Dew roles.')))
+                        .forEach(r => i.member.roles.remove(r, 'DEW Roles').catch(e => errors.push('Could not remove previous MTN Dew roles.')))
                     }
                     catch(e){
                         errors.push('Could not remove previous MTN Dew roles.')
                     }
 
                     //Give new dew role
-                    await i.member.roles.add(role)
+                    await i.member.roles.add(role, 'DEW Roles')
                 }
                 else{
                     errors.push(`Could not find **${truncateString(i.values[0], 50)}** role.`)
@@ -193,7 +193,7 @@ module.exports = async (client, i) => {
             try{
                 const embed = new Discord.MessageEmbed()
                 .setColor('GREEN')
-                .setTitle('Role Given')
+                .setTitle(client.msgs.roleGiven.title)
                 .setDescription(errors.length ? `There was an error.\nYou may or may not have recieved the **${truncateString(i.values[0], 50)}** role.` : `You have recieved the **${i.values[0]}** role.`)
                 .setTimestamp()
                 if(errors.length) embed.addField('Errors', errors.join('\n'))
