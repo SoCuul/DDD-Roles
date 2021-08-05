@@ -81,7 +81,7 @@ module.exports = async (client, i) => {
     if(i.customId === 'dew_select_colour'){
         if(i.values || i.values[0]){
             //Dew flavours array
-            let dewArray = client.flavours[i.values[0]]
+            let dewArray = client.flavours[i.values[0].toLowerCase()]
 
             //Check for invalid colour
             if(!dewArray){
@@ -91,7 +91,7 @@ module.exports = async (client, i) => {
                             new Discord.MessageEmbed()
                             .setColor('RED')
                             .setTitle(client.msgs.selectColour.invalidColourTitle)
-                            .setDescription(client.msgs.selectColour.invalidColour)
+                            .setDescription(client.msgs.selectColour.invalidColourDescription)
                             .setTimestamp()
                         ]
                     })

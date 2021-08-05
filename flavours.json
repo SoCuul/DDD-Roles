@@ -1,7 +1,7 @@
 {
     "red": {
         "1": {
-            "ampcb": {
+            "ampcB": {
                 "name": "AMP (Cherry Blast)",
                 "description": "Half-diet AMP flavor regionally released in 2015.",
                 "role": "AMP (Cherry Blast)"
@@ -89,7 +89,7 @@
         }
     },
 
-    "orange": {
+    "oorange": {
         "1": {
             "bpunch": {
                 "name": "Baja Punch",
