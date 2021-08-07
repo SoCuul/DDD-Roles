@@ -194,7 +194,7 @@ module.exports = async (client, i) => {
                 const embed = new Discord.MessageEmbed()
                 .setColor('GREEN')
                 .setTitle(client.msgs.roleGiven.title)
-                .setDescription(errors.length ? `There was an error.\nYou may or may not have recieved the **${truncateString(i.values[0], 50)}** role.` : `You have recieved the **${i.values[0]}** role.`)
+                .setDescription(errors.length ? `There was an error.\nYou may or may not have received the **${truncateString(i.values[0], 50)}** role.` : `You have received the **${i.values[0]}** role.`)
                 .setTimestamp()
                 if(errors.length) embed.addField('Errors', errors.join('\n'))
                 i.update({
