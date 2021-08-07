@@ -93,67 +93,67 @@
         "1": {
             "bpunch": {
                 "name": "Baja Punch",
-                "description": "",
+                "description": "Baja Blast-inspired punch flavor released for a limited time in 2021.",
                 "role": "Baja Punch"
             },
             "gfmh": {
                 "name": "Game Fuel (Mango Heat)",
-                "description": "",
+                "description": "Spicy mango habañero flavor released LTO in the US in 2016 and Canada in 2017.",
                 "role": "Game Fuel (Mango Heat)"
             },
             "gfrc": {
                 "name": "Game Fuel (Raspberry-Citrus)",
-                "description": "",
+                "description": "Released for a limited time in the UK in 2012 and 2013.",
                 "role": "Game Fuel (Raspberry-Citrus)"
             },
             "gfcos": {
                 "name": "GAME FUEL (Charged Orange Storm)",
-                "description": "",
+                "description": "Released nationally in 2019.",
                 "role": "GAME FUEL (Charged Orange Storm)"
             },
             "gfcs": {
                 "name": "GAME FUEL (Courageous Sherbet)",
-                "description": "",
+                "description": "Released as an online-order-exclusive in 2021.",
                 "role": "GAME FUEL (Courageous Sherbet)"
             },
             "gfzcs": {
                 "name": "GAME FUEL ZERO (Courageous Sherbet)",
-                "description": "",
+                "description": "Released as an online-order-exclusive in 2021.",
                 "role": "GAME FUEL ZERO (Courageous Sherbet)"
             },
             "ksborange": {
                 "name": "Kickstart (Blood Orange)",
-                "description": "",
+                "description": "Nationally released in 2016 and discontinued in 2018.",
                 "role": "Kickstart (Blood Orange)"
             },
             "ksocitrus": {
                 "name": "Kickstart (Orange Citrus)",
-                "description": "",
+                "description": "Nationally released in 2013.",
                 "role": "Kickstart (Orange Citrus)"
             },
             "livewire": {
                 "name": "LiveWire",
-                "description": "",
+                "description": "Orange flavor released LTO to the US in 2003/04/05. Currently a US regional offering. Sold in NZ, MY.",
                 "role": "LiveWire"
             },
             "riseob": {
                 "name": "RISE Orange Breeze",
-                "description": "",
+                "description": "Nationally released in 2021.",
                 "role": "RISE Orange Breeze"
             },
             "risepmd": {
                 "name": "RISE Peach Mango Dawn",
-                "description": "",
+                "description": "Nationally released in 2021.",
                 "role": "RISE Peach Mango Dawn"
             },
             "fi_snova": {
                 "name": "Supernova (Finland)",
-                "description": "",
+                "description": "Raspberry lemon flavor released to Finland in 2012. Colloquially known as \"Euronova.\"",
                 "role": "Supernova (Finland)"
             },
             "typhoon": {
                 "name": "Typhoon",
-                "description": "",
+                "description": "Strawberry pineapple DEWmocracy II flavor nationally available as an LTO in 2010 and 2011.",
                 "role": "Typhoon"
             }
         }
