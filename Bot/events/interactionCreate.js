@@ -29,42 +29,42 @@ module.exports = async (client, i) => {
                         .addOptions([
                             {
                                 label: 'Red',
-                                description: 'Select from a list of red dews.',
+                                description: 'Select from a list of Red Dews.',
                                 value: 'red',
                             },
                             {
                                 label: 'Orange',
-                                description: 'Select from a list of orange dews.',
+                                description: 'Select from a list of Orange Dews.',
                                 value: 'orange',
                             },
                             {
                                 label: 'Yellow',
-                                description: 'Select from a list of yellow dews.',
+                                description: 'Select from a list of Yellow Dews.',
                                 value: 'yellow',
                             },
                             {
                                 label: 'Green',
-                                description: 'Select from a list of green dews.',
+                                description: 'Select from a list of Green Dews.',
                                 value: 'green',
                             },
                             {
                                 label: 'Blue',
-                                description: 'Select from a list of blue dews.',
+                                description: 'Select from a list of Blue Dews.',
                                 value: 'blue',
                             },
                             {
                                 label: 'Purple',
-                                description: 'Select from a list of purple dews.',
+                                description: 'Select from a list of Purple Dews.',
                                 value: 'purple',
                             },
                             {
                                 label: 'Pink',
-                                description: 'Select from a list of pink dews.',
+                                description: 'Select from a list of Pink Dews.',
                                 value: 'pink',
                             },
                             {
                                 label: 'White/Clear',
-                                description: 'Select from a list of white/clear dews.',
+                                description: 'Select from a list of White or Clear Dews.',
                                 value: 'whiteclear',
                             },
                         ]),
@@ -172,7 +172,7 @@ module.exports = async (client, i) => {
                     try{
                         i.member.roles.cache
                         .filter(r => r.name.startsWith(rolePrefix))
-                        .forEach(r => i.member.roles.remove(r, 'DEW Roles').catch(e => errors.push('Could not remove previous MTN Dew roles.')))
+                        .forEach(r => i.member.roles.remove(r, 'DEW Roles').catch(e => errors.push('Could not remove previous MTN DEW roles.')))
                     }
                     catch(e){
                         errors.push('Could not remove previous MTN Dew roles.')
