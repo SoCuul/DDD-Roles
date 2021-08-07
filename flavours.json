@@ -23,7 +23,7 @@
             },
             "nz_cred": {
                 "name": "Code Red (NZ)",
-                "description": "Citrus-berry-cola flavor released to New Zealand in 2009. Made with real sugar.",
+                "description": "Citrus-berry-cola flavor released to New Zealand in 2009.",
                 "role": "Code Red (NZ)"
             },
             "cyclone": {
@@ -47,8 +47,8 @@
                 "role": "Game Fuel (Citrus Cherry)"
             },
             "gfccb": {
-                "name": "GAME FUEL (Charged Cherry Burst)",
-                "description": "Nationally released in 2019.",
+                "name": "GAME FUEL (Cherry Burst)",
+                "description": "New-generation GAME FUEL flavor nationally released in 2019.",
                 "role": "GAME FUEL (Charged Cherry Burst)"
             },
             "hbrew": {
@@ -98,7 +98,7 @@
             },
             "gfmh": {
                 "name": "Game Fuel (Mango Heat)",
-                "description": "Spicy mango habañero flavor released LTO in the US in 2016 and Canada in 2017.",
+                "description": "Spicy half-diet mango habañero flavor released LTO in the US in 2016 and Canada in 2017.",
                 "role": "Game Fuel (Mango Heat)"
             },
             "gfrc": {
@@ -107,18 +107,18 @@
                 "role": "Game Fuel (Raspberry-Citrus)"
             },
             "gfcos": {
-                "name": "GAME FUEL (Charged Orange Storm)",
-                "description": "Released nationally in 2019.",
+                "name": "GAME FUEL (Orange Storm)",
+                "description": "New-generation GAME FUEL flavor nationally released in 2019.",
                 "role": "GAME FUEL (Charged Orange Storm)"
             },
             "gfcs": {
                 "name": "GAME FUEL (Courageous Sherbet)",
-                "description": "Released as an online-order-exclusive in 2021.",
+                "description": "New-generation GAME FUEL flavor released as an online-order-exclusive in 2021.",
                 "role": "GAME FUEL (Courageous Sherbet)"
             },
             "gfzcs": {
                 "name": "GAME FUEL ZERO (Courageous Sherbet)",
-                "description": "Released as an online-order-exclusive in 2021.",
+                "description": "New-generation sugar-free GAME FUEL flavor released as an online-order-exclusive in 2021.",
                 "role": "GAME FUEL ZERO (Courageous Sherbet)"
             },
             "ksborange": {
@@ -163,67 +163,67 @@
         "1": {
             "bflash": {
                 "name": "Baja Flash",
-                "description": "",
+                "description": "Pineapple coconut flaor released for a limited time in 2021.",
                 "role": "Baja Flash"
             },
             "gfl": {
                 "name": "Game Fuel (Lemonade)",
-                "description": "",
+                "description": "Nationally released for a limited time in 2014.",
                 "role": "Game Fuel (Lemonade)"
             },
             "gfts": {
                 "name": "Game Fuel (Tropical Smash)",
-                "description": "",
+                "description": "Half-diet pineapple mango flavor released for a limited time in 2017.",
                 "role": "Game Fuel (Tropical Smash)"
             },
             "gfcts": {
-                "name": "GAME FUEL (Charged Tropical Strike)",
-                "description": "",
+                "name": "GAME FUEL (Tropical Strike)",
+                "description": "New-generation GAME FUEL flavor nationally released in 2019.",
                 "role": "GAME FUEL (Charged Tropical Strike)"
             },
             "jcg": {
                 "name": "Johnson City Gold",
-                "description": "",
+                "description": "Malt flavor released to select Kroger and 7-Eleven stores for a limited time in 2012.",
                 "role": "Johnson City Gold"
             },
             "ksmlime": {
                 "name": "Kickstart (Mango Lime)",
-                "description": "",
+                "description": "Nationally released in 2017 and discontinued in 2021.",
                 "role": "Kickstart (Mango Lime)"
             },
             "kspomango": {
                 "name": "Kickstart (Pineapple Orange Mango)",
-                "description": "",
+                "description": "Nationally released in 2015.",
                 "role": "Kickstart (Pineapple Orange Mango)"
             },
             "mburst": {
                 "name": "Maui Burst",
-                "description": "",
+                "description": "Released to Dollar General locations in 2019, with a permanent release to select locations in 2020.",
                 "role": "Maui Burst"
             },
             "pfrenzy": {
                 "name": "Passionfruit Frenzy",
-                "description": "",
+                "description": "Released across New Zealand in 2012.",
                 "role": "Passionfruit Frenzy"
             },
             "risets": {
                 "name": "RISE Tropical Sunrise",
-                "description": "",
+                "description": "Tropical pineapple flavor nationally released in 2021.",
                 "role": "RISE Tropical Sunrise"
             },
             "slemonade": {
                 "name": "Spiked (Lemonade)",
-                "description": "",
+                "description": "Half-diet lemonade and prickly pear flavor released in 2017 and discontinued in 2018.",
                 "role": "Spiked (Lemonade)"
             },
             "slightning": {
                 "name": "Sweet Lightning",
-                "description": "",
+                "description": "Peach and honey flavor released to KFC fountains in 2019.",
                 "role": "Sweet Lightning"
             },
             "vibe": {
                 "name": "Vibe",
-                "description": "",
+                "description": "Lemon flavor released to Which Wich fountains in 2021.",
                 "role": "Vibe"
             }
         }
@@ -277,8 +277,8 @@
                 "role": "Game Fuel (Tropical)"
             },
             "gfcod": {
-                "name": "GAME FUEL (Charged Original DEW)",
-                "description": "",
+                "name": "GAME FUEL (Original DEW)",
+                "description": "New-generation GAME FUEL flavor nationally released in 2019.",
                 "role": "GAME FUEL (Charged Original DEW)"
             },
             "glabel": {
@@ -392,12 +392,12 @@
                 "role": "Game Fuel (Wild Fruit)"
             },
             "gfcbb": {
-                "name": "GAME FUEL (Charged Berry Blast)",
-                "description": "",
+                "name": "GAME FUEL (Berry Blast)",
+                "description": "New-generation GAME FUEL flavor nationally released in 2019.",
                 "role": "GAME FUEL (Charged Berry Blast)"
             },
             "ksbp": {
-                "name": "Kickstart Recharge (Blueberry Pomegranate)",
+                "name": "Kickstart (Blueberry Pomegranate)",
                 "description": "",
                 "role": "Kickstart Recharge (Blueberry Pomegranate)"
             },
@@ -492,13 +492,13 @@
                 "role": "Diet Supernova"
             },
             "gfzcrl": {
-                "name": "GAME FUEL ZERO (Charged Raspberry Lemonade)",
-                "description": "",
+                "name": "GAME FUEL ZERO (Raspberry Lemonade)",
+                "description": "New-generation sugar-free GAME FUEL flavor nationally released in 2020.",
                 "role": "GAME FUEL ZERO (Charged Raspberry Lemonade)"
             },
             "gfzcws": {
-                "name": "GAME FUEL ZERO (Charged Watermelon Shock)",
-                "description": "",
+                "name": "GAME FUEL ZERO (Watermelon Shock)",
+                "description": "New-generation sugar-free GAME FUEL flavor nationally released in 2020.",
                 "role": "GAME FUEL ZERO (Charged Watermelon Shock)"
             },
             "gcstrawberry": {
@@ -507,18 +507,18 @@
                 "role": "Goji Citrus Strawberry"
             },
             "ksrcitrus": {
-                "name": "Kickstart Hydrating Boost (Raspberry Citrus)",
+                "name": "Kickstart (Raspberry Citrus)",
                 "description": "",
                 "role": "Kickstart Hydrating Boost (Raspberry Citrus)"
             },
             "ksskiwi": {
-                "name": "Kickstart Hydrating Boost (Strawberry Kiwi)",
-                "description": "",
+                "name": "Kickstart (Strawberry Kiwi)",
+                "description": "Nationally released in 2015.",
                 "role": "Kickstart Hydrating Boost (Strawberry Kiwi)"
             },
             "kswatermelon": {
-                "name": "Kickstart Hydrating Boost (Watermelon)",
-                "description": "",
+                "name": "Kickstart (Watermelon)",
+                "description": "Nationally released in 2016 and discontinued in 2018.",
                 "role": "Kickstart Hydrating Boost (Watermelon)"
             },
             "mmelon": {
