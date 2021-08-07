@@ -109,8 +109,8 @@ module.exports = async (client, i) => {
                         if(dewOptions[Number(j) - 1].length < 26){
                             if(dewArray[j][k].name && dewArray[j][k].role){
                                 dewOptions[Number(j) - 1].push({
-                                    "label": truncateString(dewArray[j][k].name, 197),
-                                    "description": dewArray[j][k].description ? truncateString(dewArray[j][k].description, 197) : '',
+                                    "label": truncateString(dewArray[j][k].name, 97),
+                                    "description": dewArray[j][k].description ? truncateString(dewArray[j][k].description, 97) : '',
                                     "value": dewArray[j][k].role
                                 })
                             }
