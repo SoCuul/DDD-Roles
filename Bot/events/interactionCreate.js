@@ -172,7 +172,7 @@ module.exports = async (client, i) => {
                     try{
                         i.member.roles.cache
                         .filter(r => r.name.startsWith(rolePrefix))
-                        .forEach(r => i.member.roles.remove(r, 'DEW Roles').catch(e => errors.push('Could not remove previous MTN DEW roles.')))
+                        .forEach(r => i.member.roles.remove(r, 'DEW Roles').catch(e => errors.push('Could not remove previous MTN Dew roles.')))
                     }
                     catch(e){
                         errors.push('Could not remove previous MTN Dew roles.')
