@@ -153,7 +153,7 @@
             },
             "typhoon": {
                 "name": "Typhoon",
-                "description": "Strawberry pineapple DEWmocracy II flavor nationally available as an LTO in 2010 and 2011.",
+                "description": "DEWmocracy II strawberry pineapple flavor nationally available as an LTO in 2010 and 2011.",
                 "role": "Typhoon"
             }
         }
@@ -233,47 +233,47 @@
         "1": {
             "amp": {
                 "name": "AMP (Original)",
-                "description": "",
+                "description": "Citrus AMP flavor nationally released in 2001.",
                 "role": "AMP (Original)"
             },
             "bblast": {
                 "name": "Baja Blast",
-                "description": "",
+                "description": "Tropical lime flavor released to Taco Bell fountains in 2004. Releases to stores as LTO once a year.",
                 "role": "Baja Blast"
             },
             "bblastzs": {
                 "name": "Baja Blast Zero Sugar",
-                "description": "",
+                "description": "Same as above, but sugar-free and released to Taco Bell fountains in 2019.",
                 "role": "Baja Blast Zero Sugar"
             },
             "cblast": {
                 "name": "Citrus Blast",
-                "description": "",
+                "description": "Sugar-free or full-sugar original DEW made for various European countries beginning in 2010.",
                 "role": "Citrus Blast"
             },
             "dmd": {
                 "name": "Diet Mountain Dew",
-                "description": "",
+                "description": "Sugar-free citrus flavor nationally released in 1976 as \"Sugar-Free\" and renamed to Diet in 1984.",
                 "role": "Diet Mountain Dew"
             },
             "dmdcf": {
                 "name": "Diet Mountain Dew Caffeine-Free",
-                "description": "",
+                "description": "Sugar-free and caffeine-free citrus flavor regionally released in 1989.",
                 "role": "Diet Mountain Dew Caffeine-Free"
             },
             "distortion": {
                 "name": "Distortion",
-                "description": "",
+                "description": "DEWmocracy II lime flavor nationally available as an LTO in 2010.",
                 "role": "Distortion"
             },
             "eapple": {
                 "name": "Electric Apple",
-                "description": "",
+                "description": "Original DEW and green apple syrup mixed to order at Villa Pizza beginning in 2014.",
                 "role": "Electric Apple"
             },
             "gft": {
                 "name": "Game Fuel (Tropical)",
-                "description": "",
+                "description": "Released for a limited time in 2011.",
                 "role": "Game Fuel (Tropical)"
             },
             "gfcod": {
@@ -283,47 +283,47 @@
             },
             "glabel": {
                 "name": "Green Label",
-                "description": "",
+                "description": "Half-diet green apple kiwi flavor nationally released in 2017 and discontinued in 2019.",
                 "role": "Green Label"
             },
             "kslimeade": {
                 "name": "Kickstart (Limeade)",
-                "description": "",
+                "description": "Nationally released in 2014 and discontinued in 2017.",
                 "role": "Kickstart (Limeade)"
             },
             "ksodew": {
                 "name": "Kickstart (Original Dew)",
-                "description": "",
+                "description": "Nationally released in 2018 and discontinued in 2021.",
                 "role": "Kickstart (Original Dew)"
             },
             "md": {
                 "name": "Mountain Dew",
-                "description": "",
+                "description": "The original citrus soda we all know and love. First sold with its current taste in 1960.",
                 "role": "Mountain Dew"
             },
             "mdcf": {
                 "name": "Mountain Dew Caffeine-Free",
-                "description": "",
+                "description": "Caffeine-free citrus flavor regionally released in 1976.",
                 "role": "Mountain Dew Caffeine-Free"
             },
             "mdx": {
                 "name": "Mountain Dew MDX",
-                "description": "",
+                "description": "Citrus energy drink released in 2005 and discontinued in 2007.",
                 "role": "Mountain Dew MDX"
             },
             "mdrs": {
                 "name": "Mountain Dew Real Sugar",
-                "description": "",
+                "description": "Formerly known as \"Throwback.\" Regionally available since 2010. Renamed to \"Real Sugar\" in 2019.",
                 "role": "Mountain Dew Real Sugar"
             },
             "mdzs": {
                 "name": "Mountain Dew Zero Sugar",
-                "description": "",
+                "description": "Sugar-free citrus flavor nationally released in 2020.",
                 "role": "Mountain Dew Zero Sugar"
             },
             "tapple": {
                 "name": "Thrashed Apple",
-                "description": "",
+                "description": "Green apple flavor available at Kroger beginning in September-October 2021.",
                 "role": "Thrashed Apple"
             } 
         }
@@ -428,47 +428,47 @@
         "1": {
             "blabel": {
                 "name": "Black Label",
-                "description": "",
+                "description": "Dark berry flavor released in 2016 and discontinued in 2020.",
                 "role": "Black Label"
             },
             "dewsa": {
                 "name": "DEW-S-A",
-                "description": "",
+                "description": "Mixture of Code Red, White Out, and Voltage; released LTO as half-diet in 2017, full-sugar in 2021.",
                 "role": "DEW-S-A"
             },
             "duviolet": {
                 "name": "Diet Ultra Violet",
-                "description": "",
+                "description": "Sugar-free mixed berry flavor released LTO in 2009.",
                 "role": "Diet Ultra Violet"
             },
             "gfeb": {
                 "name": "Game Fuel (Electrifying Berry)",
-                "description": "",
+                "description": "Berry (supposedly goji and strawberry) flavor released LTO in 2013.",
                 "role": "Game Fuel (Electrifying Berry)"
             },
             "ksg": {
                 "name": "Kickstart (Grape)",
-                "description": "",
+                "description": "Nationally released as Midnight Grape in 2016 and renamed to Grape in 2021.",
                 "role": "Kickstart (Grape)"
             },
             "pblack": {
                 "name": "Pitch Black",
-                "description": "",
+                "description": "Released LTO as a black grape flavor in 2004 and 2011, and as dark fruit 2016-2021. Sold in MY.",
                 "role": "Pitch Black"
             },
             "pblackii": {
                 "name": "Pitch Black II",
-                "description": "",
+                "description": "Sour grape flavor released LTO in 2005.",
                 "role": "Pitch Black II"
             },
             "risebb": {
                 "name": "RISE Berry Blitz",
-                "description": "",
+                "description": "Acai berry flavor nationally released in 2021.",
                 "role": "RISE Berry Blitz"
             },
             "violet": {
                 "name": "Violet",
-                "description": "",
+                "description": "Grape and elderberry flavor released to Japan 2019-2020.",
                 "role": "Violet"
             }
         }
