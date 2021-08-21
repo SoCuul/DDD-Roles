@@ -1,16 +1,16 @@
 {
     "getRole": {
-        "title": "Grab a Dew Role",
+        "title": "Change Your Flavor Role",
         "description": "Click the button below to grab a role representing your favourite Dew!",
-        "buttonName": "Get a Dew role",
+        "buttonName": "Get a new Dew role",
         "buttonEmoji": "616461782839590938"
     },
     "selectColour": {
-        "selectPlaceholder": "Select a Dew colour",
+        "selectPlaceholder": "Select your flavor's colour",
         "title": "Select a colour",
         "description": "Which colour is the Mountain Dew you want to pick?",
         "invalidColourTitle": "Invalid Colour",
-        "invalidColourDescription": "The colour you selected is currently invalid.\nPlease try again later, or select a different Dew colour."
+        "invalidColourDescription": "The colour you selected is invalid.\nPlease try again later, or select a different Dew colour."
     },
     "selectFlavour": {
         "selectPlaceholder": "Select a Dew flavour",
