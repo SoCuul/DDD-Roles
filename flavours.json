@@ -153,7 +153,7 @@
             },
             "typhoon": {
                 "name": "Typhoon",
-                "description": "DEWmocracy II strawberry pineapple flavor nationally available as an LTO in 2010 and 2011.",
+                "description": "Strawberry pineapple flavor nationally available as an LTO in 2010 and 2011.",
                 "role": "Typhoon"
             }
         }
@@ -213,7 +213,7 @@
             },
             "slemonade": {
                 "name": "Spiked (Lemonade)",
-                "description": "Half-diet lemonade and prickly pear flavor released in 2017 and discontinued in 2018.",
+                "description": "Lemonade and prickly pear flavor nationally released in 2017 and discontinued in 2018.",
                 "role": "Spiked (Lemonade)"
             },
             "slightning": {
@@ -263,7 +263,7 @@
             },
             "distortion": {
                 "name": "Distortion",
-                "description": "DEWmocracy II lime flavor nationally available as an LTO in 2010.",
+                "description": "Lime flavor nationally available as an LTO in 2010.",
                 "role": "Distortion"
             },
             "eapple": {
@@ -333,62 +333,62 @@
         "1": {
             "ablue": {
                 "name": "Atomic Blue",
-                "description": "",
+                "description": "Half-diet blue raspberry lemonade fountain flavor released to Sheetz and Kum & Go locations in 2020.",
                 "role": "Atomic Blue"
             },
             "bmonsoon": {
                 "name": "Berry Monsoon",
-                "description": "",
+                "description": "Half-diet berry lime fountain flavor released to Sam's Club in 2018.",
                 "role": "Berry Monsoon"
             },
             "bmonsoonzs": {
                 "name": "Berry Monsoon Zero Sugar",
-                "description": "",
+                "description": "Sugar-free berry lime fountain flavor released to Sam's Club in 2021.",
                 "role": "Berry Monsoon Zero Sugar"
             },
             "bshock": {
                 "name": "Blue Shock",
-                "description": "",
+                "description": "Raspberry citrus flavor released to Malaysia in 2014. Also available in other countries as a freeze.",
                 "role": "Blue Shock"
             },
             "dberry": {
                 "name": "Dark Berry",
-                "description": "",
+                "description": "Nationally released as an LTO in 2012. Was also available in Romania and Iceland for a time.",
                 "role": "Dark Berry"
             },
             "dbbash": {
                 "name": "Dark Berry Bash",
-                "description": "",
+                "description": "Blue raspberry and blackberry flavor released to Applebee's fountains in 2021.",
                 "role": "Dark Berry Bash"
             },
             "dvoltage": {
                 "name": "Diet Voltage",
-                "description": "",
+                "description": "Sugar-free raspberry citrus flavor nationally released as an LTO in 2011.",
                 "role": "Diet Voltage"
             },
             "fbite": {
                 "name": "Frost Bite",
-                "description": "",
+                "description": "Honeydew melon flavor released to Walmart locations in 2020.",
                 "role": "Frost Bite"
             },
             "fbitezs": {
                 "name": "Frost Bite Zero Sugar",
-                "description": "",
+                "description": "Sugar-free honeydew melon flavor released to Walmart locations in 2021.",
                 "role": "Frost Bite Zero Sugar"
             },
             "gfab": {
                 "name": "Game Fuel (Arctic Burst)",
-                "description": "",
+                "description": "Blueberry??? Watermelon??? what the fuck is this??? flavor nationally released as an LTO in 2017.",
                 "role": "Game Fuel (Arctic Burst)"
             },
             "gfbl": {
                 "name": "Game Fuel (Berry Lime)",
-                "description": "",
+                "description": "Nationally released as an LTO in 2015.",
                 "role": "Game Fuel (Berry Lime)"
             },
             "gfwf": {
                 "name": "Game Fuel (Wild Fruit)",
-                "description": "",
+                "description": "Nationally released as an LTO in 2009.",
                 "role": "Game Fuel (Wild Fruit)"
             },
             "gfcbb": {
@@ -398,27 +398,27 @@
             },
             "ksbp": {
                 "name": "Kickstart (Blueberry Pomegranate)",
-                "description": "",
+                "description": "Nationally released in 2016 and discontinued in 2021.",
                 "role": "Kickstart Recharge (Blueberry Pomegranate)"
             },
             "lbrew": {
                 "name": "Liberty Brew",
-                "description": "",
+                "description": "Made with \"50\" cherry- and berry-inspired flavors. Nationally released as an LTO in 2019 and 2020.",
                 "role": "Liberty Brew"
             },
             "revolution": {
                 "name": "Revolution",
-                "description": "",
+                "description": "Wild berry fruit and ginseng flavor nationally released as an LTO in 2008.",
                 "role": "Revolution"
             },
             "risepbb": {
                 "name": "RISE Pomegranate Blue Burst",
-                "description": "",
+                "description": "Blueberry pomegranate flavor nationally released in 2021.",
                 "role": "RISE Pomegranate Blue Burst"
             },
             "voltage": {
                 "name": "Voltage",
-                "description": "",
+                "description": "Raspberry citrus and ginseng flavor nationally released in 2008.",
                 "role": "Voltage"
             }
         }
@@ -438,7 +438,7 @@
             },
             "duviolet": {
                 "name": "Diet Ultra Violet",
-                "description": "Sugar-free mixed berry flavor released LTO in 2009.",
+                "description": "Sugar-free mixed berry flavor released as an LTO in 2009.",
                 "role": "Diet Ultra Violet"
             },
             "gfeb": {
@@ -458,7 +458,7 @@
             },
             "pblackii": {
                 "name": "Pitch Black II",
-                "description": "Sour grape flavor released LTO in 2005.",
+                "description": "Sour grape flavor released as an LTO in 2005.",
                 "role": "Pitch Black II"
             },
             "risebb": {
@@ -483,12 +483,12 @@
             },
             "btwister": {
                 "name": "Berry Twister",
-                "description": "",
+                "description": "Strawberry watermelon (?) flavor released to Circle K Canada locations and discontinued (?) in 2020.",
                 "role": "Berry Twister"
             },
             "dsnova": {
                 "name": "Diet Supernova",
-                "description": "Sugar-free strawberry melon flavor. Won the FanDEWmonium contest after a limited-time national release in 2011 and was released in stores \"permanently\" for a single month in 2012.",
+                "description": "Sugar-free strawberry melon flavor nationally released as an LTO in 2011 and for one month in 2012.",
                 "role": "Diet Supernova"
             },
             "gfzcrl": {
@@ -503,17 +503,17 @@
             },
             "gcstrawberry": {
                 "name": "Goji Citrus Strawberry",
-                "description": "",
+                "description": "Half-diet fountain flavor released to certain gas stations and other locations beginning in 2017.",
                 "role": "Goji Citrus Strawberry"
             },
             "ksrcitrus": {
                 "name": "Kickstart (Raspberry Citrus)",
-                "description": "",
+                "description": "Nationally released in 2017 and discontinued in 2021.",
                 "role": "Kickstart Hydrating Boost (Raspberry Citrus)"
             },
             "ksskiwi": {
                 "name": "Kickstart (Strawberry Kiwi)",
-                "description": "Nationally released in 2015.",
+                "description": "Nationally released in 2015 and discontinued in 2017.",
                 "role": "Kickstart Hydrating Boost (Strawberry Kiwi)"
             },
             "kswatermelon": {
@@ -523,32 +523,32 @@
             },
             "mmelon": {
                 "name": "Major Melon",
-                "description": "",
+                "description": "Watermelon flavor nationally released in 2021.",
                 "role": "Major Melon"
             },
             "mmelonzs": {
                 "name": "Major Melon Zero Sugar",
-                "description": "",
+                "description": "Sugar-free watermelon flavor nationally released in 2021.",
                 "role": "Major Melon Zero Sugar"
             },
             "risesms": {
                 "name": "RISE Strawberry Melon Spark",
-                "description": "",
+                "description": "Nationally released in 2021.",
                 "role": "RISE Strawberry Melon Spark"
             },
             "spark": {
                 "name": "Spark",
-                "description": "",
+                "description": "Raspberry lemonade flavor released LTO to Speedway locations in 2020 and 2021.",
                 "role": "Spark"
             },
             "srlemonade": {
                 "name": "Spiked (Raspberry Lemonade)",
-                "description": "",
+                "description": "Raspberry lemonade and prickly pear flavor nationally released in 2017 and discontinued in 2018.",
                 "role": "Spiked (Raspberry Lemonade)"
             },
             "snova": {
                 "name": "Supernova",
-                "description": "",
+                "description": "Strawberry melon and ginseng flavor nationally released as an LTO in 2008 and 2011. (CA: 2013, 2014)",
                 "role": "Supernova"
             }
         }
