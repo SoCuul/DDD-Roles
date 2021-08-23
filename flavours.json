@@ -268,7 +268,7 @@
             },
             "vibe": {
                 "name": "Vibe",
-                "description": "Lemon-flavored DEW exclusively served at Which Wich fountains.",
+                "description": "Lemon DEW exclusively served at Which Wich fountains.",
                 "role": "Vibe"
             }
         }
@@ -333,7 +333,7 @@
             },
             "gfcod": {
                 "name": "GAME FUEL (Original DEW)",
-                "description": "2019 - New-generation GAME FUEL based on old-generation DEW.",
+                "description": "2019 - New-GAME FUEL based on original DEW.",
                 "role": "GAME FUEL (Charged Original DEW)"
             },
             "gfzcws": {
@@ -493,7 +493,7 @@
             },
             "voltage": {
                 "name": "Voltage",
-                "description": "2008 - DEWmocracy winner. Raspberry citrus DEW with ginseng.",
+                "description": "2008 - DEWmocracy winner. Raspberry citrus w/ ginseng.",
                 "role": "Voltage"
             }
         }
@@ -633,7 +633,7 @@
             },
             "snova": {
                 "name": "Supernova",
-                "description": "2008 - DEWmocracy contestant. Strawberry melon with ginseng.",
+                "description": "2008 - Strawberry melon w/ ginseng from DEWmocracy.",
                 "role": "Supernova"
             },
             "typhoon": {
