@@ -3,117 +3,117 @@
         "1": {
             "ampcb": {
                 "name": "AMP (Cherry Blast)",
-                "description": "Half-diet flavor regionally released in 2015.",
+                "description": "2015 - Half-diet AMP flavor. Regional.",
                 "role": "AMP (Cherry Blast)"
             },
             "ampsl": {
                 "name": "AMP (Strawberry Limeade)",
-                "description": "AMP flavor regionally released in 2015 and discontinued in 2021.",
+                "description": "2015 - AMP flavor regionally available 'til 2021.",
                 "role": "AMP (Strawberry Limeade)"
             },
             "amptp": {
                 "name": "AMP (Tropical Punch)",
-                "description": "AMP flavor regionally released in 2016 and discontinued in 2018.",
+                "description": "2016 - AMP flavor regionally available 'til 2018.",
                 "role": "AMP (Tropical Punch)"
             },
             "btwister": {
                 "name": "Berry Twister",
-                "description": "Strawberry watermelon (?) flavor released to Circle K Canada locations and discontinued (?) in 2020.",
+                "description": "2020 - Strawberry watermelon(?) DEW from Circle K Canada.",
                 "role": "Berry Twister"
             },
             "ccherry": {
                 "name": "Citrus Cherry",
-                "description": "Half-diet, regional since 2014. Released nationally for a limited time in 2016 and 2018.",
+                "description": "2016 - Half-diet DEW formerly under the Game Fuel brand.",
                 "role": "Citrus Cherry"
             },
             "cred": {
                 "name": "Code Red",
-                "description": "Cherry flavor nationally released in 2001.",
+                "description": "2001 - The original, infamous cherry DEW.",
                 "role": "Code Red"
             },
             "nz_cred": {
                 "name": "Code Red (NZ)",
-                "description": "Citrus-berry-cola flavor released to New Zealand in 2009.",
+                "description": "2009 - Citrus-berry-cola flavor from New Zealand.",
                 "role": "Code Red (NZ)"
             },
             "cyclone": {
                 "name": "Cyclone",
-                "description": "Citrus punch fountain flavor released in 2019 to Speedway gas stations.",
+                "description": "2019 - Citrus punch Speedway fountain flavor.",
                 "role": "Cyclone"
             },
             "dcred": {
                 "name": "Diet Code Red",
-                "description": "Sugar-free cherry flavor nationally released in 2002 and is currently a regional offering.",
+                "description": "2002 - Sugar-free cherry DEW. Currently regional.",
                 "role": "Diet Code Red"
             },
             "gblast": {
                 "name": "Game Blast",
-                "description": "Citrus-cherry flavor released to Sweden in 2015 and discontinued in 2020.",
+                "description": "2015 - Citrus-cherry flavor from Sweden.",
                 "role": "Game Blast"
             },
             "gfcc": {
                 "name": "Game Fuel (Citrus Cherry)",
-                "description": "Released in 2007 and years following as an LTO. Full-sugar recipe last produced in 2015.",
+                "description": "2007 - Full-sugar formula, former yearly game tie-in.",
                 "role": "Game Fuel (Citrus Cherry)"
             },
             "gfccb": {
                 "name": "GAME FUEL (Cherry Burst)",
-                "description": "New-generation GAME FUEL flavor nationally released in 2019.",
+                "description": "2019 - New-GAME FUEL drink. No relation to Citrus Cherry.",
                 "role": "GAME FUEL (Charged Cherry Burst)"
             },
             "gcstrawberry": {
                 "name": "Goji Citrus Strawberry",
-                "description": "Half-diet fountain flavor released to certain gas stations and other locations beginning in 2017.",
+                "description": "2017 - Half-diet fountain DEW sold at gas stations.",
                 "role": "Goji Citrus Strawberry"
             },
             "hbrew": {
                 "name": "Holiday Brew",
-                "description": "Cherry-citrus flavor; a literal Code Red and Original DEW mix. Released LTO in 2017.",
+                "description": "2017 - A holiday blend of Code Red and Original DEW.",
                 "role": "Holiday Brew"
             },
             "ksbcherry": {
                 "name": "Kickstart (Black Cherry)",
-                "description": "Nationally released in 2014.",
+                "description": "2014 - Black cherry 'energy drink'.",
                 "role": "Kickstart (Black Cherry)"
             },
             "ksfpunch": {
                 "name": "Kickstart (Fruit Punch)",
-                "description": "Nationally released in 2013.",
+                "description": "2013 - Fruit punch concoction.",
                 "role": "Kickstart (Fruit Punch)"
             },
             "mmashup": {
                 "name": "Merry Mash-Up",
-                "description": "Cranberry pomegranate flavor released for a limited time in 2018, 2019, and 2020.",
+                "description": "2018 - Cranberry pomegranate holiday DEW.",
                 "role": "Merry Mash-Up"
             },
             "risesms": {
                 "name": "RISE Strawberry Melon Spark",
-                "description": "Nationally released in 2021.",
+                "description": "2021 - Strawberry-melon energy drink.",
                 "role": "RISE Strawberry Melon Spark"
             },
             "sblast": {
                 "name": "Sangrita Blast",
-                "description": "Citrus punch fountain flavor at Taco Bell from 2013-2017. Nationwide LTO store release in 2015.",
+                "description": "2013 - Citrus punch fountain DEW formerly at Taco Bell.",
                 "role": "Sangrita Blast"
             },
             "sflare": {
                 "name": "Solar Flare",
-                "description": "Tropical punch fountain flavor at 7-Eleven since 2014. Currently offered at few 7-Eleven locations.",
+                "description": "2014 - Tropical punch 7-Eleven fountain flavor.",
                 "role": "Solar Flare"
             },
             "sshock": {
                 "name": "Southern Shock",
-                "description": "Tropical punch fountain flavor at Bojangles since 2020.",
+                "description": "2020 - Tropical punch DEW served at Bojangles.",
                 "role": "Southern Shock"
             },
             "srlemonade": {
                 "name": "Spiked (Raspberry Lemonade)",
-                "description": "Raspberry lemonade and prickly pear flavor nationally released in 2017 and discontinued in 2018.",
+                "description": "2017 - Short-lived DEW 'spiked' with prickly pear flavor.",
                 "role": "Spiked (Raspberry Lemonade)"
             },
             "typhoon": {
                 "name": "Typhoon",
-                "description": "Strawberry pineapple flavor nationally available as an LTO in 2010 and 2011.",
+                "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
                 "role": "Typhoon"
             }
         }
@@ -123,82 +123,82 @@
         "1": {
             "bpunch": {
                 "name": "Baja Punch",
-                "description": "Baja Blast-inspired punch flavor released for a limited time in 2021.",
+                "description": "2021 - Baja Blast-inspired tropical punch flavor.",
                 "role": "Baja Punch"
             },
             "gfmh": {
                 "name": "Game Fuel (Mango Heat)",
-                "description": "Spicy half-diet mango habañero flavor released LTO in the US in 2016 and Canada in 2017.",
+                "description": "2016 - Spicy mango habañero flavor.",
                 "role": "Game Fuel (Mango Heat)"
             },
             "gfrc": {
                 "name": "Game Fuel (Raspberry-Citrus)",
-                "description": "Released for a limited time in the UK in 2012 and 2013.",
+                "description": "2012 - United Kingdom exclusive raspberry DEW.",
                 "role": "Game Fuel (Raspberry-Citrus)"
             },
             "gfcos": {
                 "name": "GAME FUEL (Orange Storm)",
-                "description": "New-generation GAME FUEL flavor nationally released in 2019.",
+                "description": "2019 - New-generation GAME FUEL.",
                 "role": "GAME FUEL (Charged Orange Storm)"
             },
             "gfcs": {
                 "name": "GAME FUEL (Courageous Sherbet)",
-                "description": "New-generation GAME FUEL flavor released as an online-order-exclusive in 2021.",
+                "description": "2021 - Online-only CouRageJD-themed GAME FUEL.",
                 "role": "GAME FUEL (Courageous Sherbet)"
             },
             "gfzcs": {
                 "name": "GAME FUEL ZERO (Courageous Sherbet)",
-                "description": "New-generation sugar-free GAME FUEL flavor released as an online-order-exclusive in 2021.",
+                "description": "2021 - Sugar-free, online-only CouRageJD GAME FUEL",
                 "role": "GAME FUEL ZERO (Courageous Sherbet)"
             },
             "ksborange": {
                 "name": "Kickstart (Blood Orange)",
-                "description": "Nationally released in 2016 and discontinued in 2018.",
+                "description": "2016 - Blood orange DEW available 'til 2018.",
                 "role": "Kickstart (Blood Orange)"
             },
             "ksocitrus": {
                 "name": "Kickstart (Orange Citrus)",
-                "description": "Nationally released in 2013.",
+                "description": "2013 - It's got orange! It's got citrus!",
                 "role": "Kickstart (Orange Citrus)"
             },
             "ksskiwi": {
                 "name": "Kickstart (Strawberry Kiwi)",
-                "description": "Nationally released in 2015 and discontinued in 2017.",
+                "description": "2015 - Featuring a 'hydrating boost'.",
                 "role": "Kickstart Hydrating Boost (Strawberry Kiwi)"
             },
             "livewire": {
                 "name": "LiveWire",
-                "description": "Orange flavor released LTO to the US in 2003/04/05. Currently a regional offering. Sold in NZ, MY.",
+                "description": "2003 - Orange-flavored DEW. Also sold in NZ & MY.",
                 "role": "LiveWire"
             },
             "pfrenzy": {
                 "name": "Passionfruit Frenzy",
-                "description": "Released across New Zealand in 2012.",
+                "description": "2012 - New Zealand-exclusive passionfruit DEW.",
                 "role": "Passionfruit Frenzy"
             },
             "riseob": {
                 "name": "RISE Orange Breeze",
-                "description": "Nationally released in 2021.",
+                "description": "2021 - What is this, the 4th 'energy drink' DEW?",
                 "role": "RISE Orange Breeze"
             },
             "risepmd": {
                 "name": "RISE Peach Mango Dawn",
-                "description": "Nationally released in 2021.",
+                "description": "2021 - Exactly what it says on the tin.",
                 "role": "RISE Peach Mango Dawn"
             },
             "fi_snova": {
                 "name": "Supernova (Finland)",
-                "description": "Raspberry lemon flavor released to Finland in 2012. Colloquially known as \"Euronova.\"",
+                "description": "2012 - Raspberry lemon DEW from Finland, AKA \"Euronova.\"",
                 "role": "Supernova (Finland)"
             },
             "slightning": {
                 "name": "Sweet Lightning",
-                "description": "Peach and honey flavor released to KFC fountains in 2019.",
+                "description": "2019 - Peach/honey flavor exclusive to KFC fountains.",
                 "role": "Sweet Lightning"
             },
             "typhoon": {
                 "name": "Typhoon",
-                "description": "Strawberry pineapple flavor nationally available as an LTO in 2010 and 2011.",
+                "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
                 "role": "Typhoon"
             }
         }
@@ -208,67 +208,67 @@
         "1": {
             "bflash": {
                 "name": "Baja Flash",
-                "description": "Pineapple coconut flaor released for a limited time in 2021.",
+                "description": "2021 - Baja Blast-inspired pineapple coconut flavor.",
                 "role": "Baja Flash"
             },
             "gfl": {
                 "name": "Game Fuel (Lemonade)",
-                "description": "Nationally released for a limited time in 2014.",
+                "description": "2014 - Limited-time lemonade Game Fuel.",
                 "role": "Game Fuel (Lemonade)"
             },
             "gfts": {
                 "name": "Game Fuel (Tropical Smash)",
-                "description": "Half-diet pineapple mango flavor released for a limited time in 2017.",
+                "description": "2017 - Half-diet pineapple mango flavor.",
                 "role": "Game Fuel (Tropical Smash)"
             },
             "gfcts": {
                 "name": "GAME FUEL (Tropical Strike)",
-                "description": "New-generation GAME FUEL flavor nationally released in 2019.",
+                "description": "2019 - New-generation tropical GAME FUEL flavor.",
                 "role": "GAME FUEL (Charged Tropical Strike)"
             },
             "jcg": {
                 "name": "Johnson City Gold",
-                "description": "Malt flavor released to select Kroger and 7-Eleven stores for a limited time in 2012.",
+                "description": "2012 - Limited-time malt-flavored DEW.",
                 "role": "Johnson City Gold"
             },
             "ksmlime": {
                 "name": "Kickstart (Mango Lime)",
-                "description": "Nationally released in 2017 and discontinued in 2021.",
+                "description": "2017 - discontinued in 2021.",
                 "role": "Kickstart (Mango Lime)"
             },
             "kspomango": {
                 "name": "Kickstart (Pineapple Orange Mango)",
-                "description": "Nationally released in 2015.",
+                "description": "2015 - Also includes coconut water.",
                 "role": "Kickstart (Pineapple Orange Mango)"
             },
             "mburst": {
                 "name": "Maui Burst",
-                "description": "Released to Dollar General locations in 2019, with a permanent release to select locations in 2020.",
+                "description": "2019 - Dollar General-exclusive pineapple DEW.",
                 "role": "Maui Burst"
             },
             "pfrenzy": {
                 "name": "Passionfruit Frenzy",
-                "description": "Released across New Zealand in 2012.",
+                "description": "2012 - New Zealand-exclusive passionfruit DEW.",
                 "role": "Passionfruit Frenzy"
             },
             "risets": {
                 "name": "RISE Tropical Sunrise",
-                "description": "Tropical pineapple flavor nationally released in 2021.",
+                "description": "2021 - Tropical pineapple flavor.",
                 "role": "RISE Tropical Sunrise"
             },
             "slemonade": {
                 "name": "Spiked (Lemonade)",
-                "description": "Lemonade and prickly pear flavor nationally released in 2017 and discontinued in 2018.",
+                "description": "2017 - Lemonade 'spiked' with prickly pear juice.",
                 "role": "Spiked (Lemonade)"
             },
             "slightning": {
                 "name": "Sweet Lightning",
-                "description": "Peach and honey flavor released to KFC fountains in 2019.",
+                "description": "2019 - Peach/honey flavor exclusive to KFC fountains.",
                 "role": "Sweet Lightning"
             },
             "vibe": {
                 "name": "Vibe",
-                "description": "Lemon flavor released to Which Wich fountains in 2021.",
+                "description": "Lemon-flavored DEW exclusively served at Which Wich fountains.",
                 "role": "Vibe"
             }
         }
@@ -278,117 +278,117 @@
         "1": {
             "amp": {
                 "name": "AMP (Original)",
-                "description": "Citrus AMP flavor nationally released in 2001.",
+                "description": "2001 - Citrus-flavored AMP energy drink.",
                 "role": "AMP (Original)"
             },
             "bblast": {
                 "name": "Baja Blast",
-                "description": "Tropical lime flavor released to Taco Bell fountains in 2004. Releases to stores as LTO once a year.",
+                "description": "2004 - The Taco Bell drink. Tropical lime flavor.",
                 "role": "Baja Blast"
             },
             "bblastzs": {
                 "name": "Baja Blast Zero Sugar",
-                "description": "Same as above, but sugar-free and released to Taco Bell fountains in 2019.",
+                "description": "2019 - Same deal as above, now without any sugar.",
                 "role": "Baja Blast Zero Sugar"
             },
             "bmonsoon": {
                 "name": "Berry Monsoon",
-                "description": "Half-diet berry lime fountain flavor released to Sam's Club in 2018.",
+                "description": "2018 - Berry lime DEW only at Sam's Club fountains.",
                 "role": "Berry Monsoon"
             },
             "bmonsoonzs": {
                 "name": "Berry Monsoon Zero Sugar",
-                "description": "Sugar-free berry lime fountain flavor released to Sam's Club in 2021.",
+                "description": "2021 - Sugar-free berry lime DEW at Sam's Club fountains.",
                 "role": "Berry Monsoon Zero Sugar"
             },
             "cblast": {
                 "name": "Citrus Blast",
-                "description": "Sugar-free or full-sugar original DEW made for various European countries beginning in 2010.",
+                "description": "2010 - The European version of Mountain Dew.",
                 "role": "Citrus Blast"
             },
             "dmd": {
                 "name": "Diet Mountain Dew",
-                "description": "Sugar-free citrus flavor nationally released in 1976 as \"Sugar-Free\" and renamed to Diet in 1984.",
+                "description": "1976 - Initially \"Sugar-Free\", renamed to Diet in 1984.",
                 "role": "Diet Mountain Dew"
             },
             "dmdcf": {
                 "name": "Diet Mountain Dew Caffeine-Free",
-                "description": "Sugar-free and caffeine-free citrus flavor regionally released in 1989.",
+                "description": "1989 - Sugar-free, caffeine-free, still DEW. (Maybe.)",
                 "role": "Diet Mountain Dew Caffeine-Free"
             },
             "distortion": {
                 "name": "Distortion",
-                "description": "Lime flavor nationally available as an LTO in 2010.",
+                "description": "2010 - DEWmocracy II participant, lime flavored DEW.",
                 "role": "Distortion"
             },
             "eapple": {
                 "name": "Electric Apple",
-                "description": "Original DEW and green apple syrup mixed to order at Villa Pizza beginning in 2014.",
+                "description": "2014 - DEW mixed with green apple syrup served at Villa Pizza.",
                 "role": "Electric Apple"
             },
             "gft": {
                 "name": "Game Fuel (Tropical)",
-                "description": "Released for a limited time in 2011.",
+                "description": "2011 - Released for a limited time.",
                 "role": "Game Fuel (Tropical)"
             },
             "gfcod": {
                 "name": "GAME FUEL (Original DEW)",
-                "description": "New-generation GAME FUEL flavor nationally released in 2019.",
+                "description": "2019 - New-generation GAME FUEL based on old-generation DEW.",
                 "role": "GAME FUEL (Charged Original DEW)"
             },
             "gfzcws": {
                 "name": "GAME FUEL ZERO (Watermelon Shock)",
-                "description": "New-generation sugar-free GAME FUEL flavor nationally released in 2020.",
+                "description": "2020 - Sugar-free new-generation GAME FUEL flavor.",
                 "role": "GAME FUEL ZERO (Charged Watermelon Shock)"
             },
             "glabel": {
                 "name": "Green Label",
-                "description": "Half-diet green apple kiwi flavor nationally released in 2017 and discontinued in 2019.",
+                "description": "2017 - Green apple kiwi DEW sold 'til 2019.",
                 "role": "Green Label"
             },
             "kslimeade": {
                 "name": "Kickstart (Limeade)",
-                "description": "Nationally released in 2014 and discontinued in 2017.",
+                "description": "2014 - discontinued in 2017.",
                 "role": "Kickstart (Limeade)"
             },
             "ksodew": {
                 "name": "Kickstart (Original Dew)",
-                "description": "Nationally released in 2018 and discontinued in 2021.",
+                "description": "2018 - an 'energy drink' take on OG DEW.",
                 "role": "Kickstart (Original Dew)"
             },
             "kswatermelon": {
                 "name": "Kickstart (Watermelon)",
-                "description": "Nationally released in 2016 and discontinued in 2018.",
+                "description": "2016 - Hydrating boost? Puts the water in watermelon.",
                 "role": "Kickstart Hydrating Boost (Watermelon)"
             },
             "md": {
                 "name": "Mountain Dew",
-                "description": "The original citrus soda we all know and love. First sold with its current taste in 1960.",
+                "description": "1960 - The original citrus soda we all know and love.",
                 "role": "Mountain Dew"
             },
             "mdcf": {
                 "name": "Mountain Dew Caffeine-Free",
-                "description": "Caffeine-free citrus flavor regionally released in 1976.",
+                "description": "1976 - Caffeine-free original DEW.",
                 "role": "Mountain Dew Caffeine-Free"
             },
             "mdx": {
                 "name": "Mountain Dew MDX",
-                "description": "Citrus energy drink released in 2005 and discontinued in 2007.",
+                "description": "2005 - Citrus energy drink in a bottle.",
                 "role": "Mountain Dew MDX"
             },
             "mdrs": {
                 "name": "Mountain Dew Real Sugar",
-                "description": "Formerly known as \"Throwback.\" Regionally available since 2010. Renamed to \"Real Sugar\" in 2019.",
+                "description": "2010 - Formerly known as \"Throwback.\" ",
                 "role": "Mountain Dew Real Sugar"
             },
             "mdzs": {
                 "name": "Mountain Dew Zero Sugar",
-                "description": "Sugar-free citrus flavor nationally released in 2020.",
+                "description": "2020 - Original DEW, with none of the sugar.",
                 "role": "Mountain Dew Zero Sugar"
             },
             "tapple": {
                 "name": "Thrashed Apple",
-                "description": "Green apple flavor available at Kroger beginning in September-October 2021.",
+                "description": "2021 - Green apple Kroger-exclusive DEW.",
                 "role": "Thrashed Apple"
             } 
         }
@@ -398,102 +398,102 @@
         "1": {
             "ablue": {
                 "name": "Atomic Blue",
-                "description": "Half-diet blue raspberry lemonade fountain flavor released to Sheetz and Kum & Go locations in 2020.",
+                "description": "2020 - Blue-razz lemonade at Sheetz and Kum & Go fountains.",
                 "role": "Atomic Blue"
             },
             "bblast": {
                 "name": "Baja Blast",
-                "description": "Tropical lime flavor released to Taco Bell fountains in 2004. Releases to stores as LTO once a year.",
+                "description": "2004 - The Taco Bell drink. Tropical lime flavor.",
                 "role": "Baja Blast"
             },
             "bblastzs": {
                 "name": "Baja Blast Zero Sugar",
-                "description": "Same as above, but sugar-free and released to Taco Bell fountains in 2019.",
+                "description": "2019 - Same deal as above, without the sugar.",
                 "role": "Baja Blast Zero Sugar"
             },
             "bmonsoon": {
                 "name": "Berry Monsoon",
-                "description": "Half-diet berry lime fountain flavor released to Sam's Club in 2018.",
+                "description": "2018 - Berry lime DEW only at Sam's Club fountains.",
                 "role": "Berry Monsoon"
             },
             "bmonsoonzs": {
                 "name": "Berry Monsoon Zero Sugar",
-                "description": "Sugar-free berry lime fountain flavor released to Sam's Club in 2021.",
+                "description": "2021 - Sugar-free berry lime DEW at Sam's Club fountains.",
                 "role": "Berry Monsoon Zero Sugar"
             },
             "bshock": {
                 "name": "Blue Shock",
-                "description": "Raspberry citrus flavor released to Malaysia in 2014. Also available in other countries as a freeze.",
+                "description": "2014 - Raspberry citrus DEW from Malaysia.",
                 "role": "Blue Shock"
             },
             "dberry": {
                 "name": "Dark Berry",
-                "description": "Nationally released as an LTO in 2012. Was also available in Romania and Iceland for a time.",
+                "description": "2012 - Batman-themed DEW sold for a limited time.",
                 "role": "Dark Berry"
             },
             "dbbash": {
                 "name": "Dark Berry Bash",
-                "description": "Blue raspberry and blackberry flavor released to Applebee's fountains in 2021.",
+                "description": "2021 - Blue-razz/blackberry flavor at Applebee's fountains.",
                 "role": "Dark Berry Bash"
             },
             "dvoltage": {
                 "name": "Diet Voltage",
-                "description": "Sugar-free raspberry citrus flavor nationally released as an LTO in 2011.",
+                "description": "2011 - Sugar-free Voltage. Lost a vote to Diet Supernova.",
                 "role": "Diet Voltage"
             },
             "fbite": {
                 "name": "Frost Bite",
-                "description": "Honeydew melon flavor released to Walmart locations in 2020.",
+                "description": "2020 - Walmart exclusive honeydew melon flavor.",
                 "role": "Frost Bite"
             },
             "fbitezs": {
                 "name": "Frost Bite Zero Sugar",
-                "description": "Sugar-free honeydew melon flavor released to Walmart locations in 2021.",
+                "description": "2021 - Walmart-only, sugar-free honeydew melon flavor.",
                 "role": "Frost Bite Zero Sugar"
             },
             "gfab": {
                 "name": "Game Fuel (Arctic Burst)",
-                "description": "Blueberry??? Watermelon??? what the fuck is this??? flavor nationally released as an LTO in 2017.",
+                "description": "2017 - Blueberry? Watermelon?? what the fuck is this???",
                 "role": "Game Fuel (Arctic Burst)"
             },
             "gfbl": {
                 "name": "Game Fuel (Berry Lime)",
-                "description": "Nationally released as an LTO in 2015.",
+                "description": "2015 - Limited time offer.",
                 "role": "Game Fuel (Berry Lime)"
             },
             "gfwf": {
                 "name": "Game Fuel (Wild Fruit)",
-                "description": "Nationally released as an LTO in 2009.",
+                "description": "2009 - Also known as  \"Alliance Blue.\" ",
                 "role": "Game Fuel (Wild Fruit)"
             },
             "gfcbb": {
                 "name": "GAME FUEL (Berry Blast)",
-                "description": "New-generation GAME FUEL flavor nationally released in 2019.",
+                "description": "2019 - New-generation GAME FUEL flavor.",
                 "role": "GAME FUEL (Charged Berry Blast)"
             },
             "ksbp": {
                 "name": "Kickstart (Blueberry Pomegranate)",
-                "description": "Nationally released in 2016 and discontinued in 2021.",
+                "description": "2016 - discontinued in 2021.",
                 "role": "Kickstart Recharge (Blueberry Pomegranate)"
             },
             "lbrew": {
                 "name": "Liberty Brew",
-                "description": "Made with \"50\" cherry- and berry-inspired flavors. Nationally released as an LTO in 2019 and 2020.",
+                "description": "2019 - Made with \"50\" cherry- and berry-inspired flavors.",
                 "role": "Liberty Brew"
             },
             "revolution": {
                 "name": "Revolution",
-                "description": "Wild berry fruit and ginseng flavor nationally released as an LTO in 2008.",
+                "description": "2018 - Wild berry flavor with ginseng from DEWmocracy.",
                 "role": "Revolution"
             },
             "risepbb": {
                 "name": "RISE Pomegranate Blue Burst",
-                "description": "Blueberry pomegranate flavor nationally released in 2021.",
+                "description": "2021 - Blueberry pomegranate energy drink.",
                 "role": "RISE Pomegranate Blue Burst"
             },
             "voltage": {
                 "name": "Voltage",
-                "description": "Raspberry citrus and ginseng flavor nationally released in 2008.",
+                "description": "2008 - DEWmocracy winner. Raspberry citrus DEW with ginseng.",
                 "role": "Voltage"
             }
         }
@@ -503,47 +503,47 @@
         "1": {
             "blabel": {
                 "name": "Black Label",
-                "description": "Dark berry flavor released in 2016 and discontinued in 2020.",
+                "description": "2016 - Refined dark berry DEW, discontinued in 2020.",
                 "role": "Black Label"
             },
             "dewsa": {
                 "name": "DEW-S-A",
-                "description": "Mixture of Code Red, White Out, and Voltage; released LTO as half-diet in 2017, full-sugar in 2021.",
+                "description": "2017 - Collision of Code Red, White Out, and Voltage.",
                 "role": "DEW-S-A"
             },
             "duviolet": {
                 "name": "Diet Ultra Violet",
-                "description": "Sugar-free mixed berry flavor released as an LTO in 2009.",
+                "description": "2009 - Sugar-free mixed berry flavor.",
                 "role": "Diet Ultra Violet"
             },
             "gfeb": {
                 "name": "Game Fuel (Electrifying Berry)",
-                "description": "Berry (supposedly goji and strawberry) flavor released LTO in 2013.",
+                "description": "2013 - Berry (supposedly goji and strawberry) flavor.",
                 "role": "Game Fuel (Electrifying Berry)"
             },
             "ksg": {
                 "name": "Kickstart (Grape)",
-                "description": "Nationally released as Midnight Grape in 2016 and renamed to Grape in 2021.",
+                "description": "2016 - Initially known as Midnight Grape.",
                 "role": "Kickstart (Grape)"
             },
             "pblack": {
                 "name": "Pitch Black",
-                "description": "Released LTO as a black grape flavor in 2004 and 2011, and as dark fruit 2016-2021. Sold in MY.",
+                "description": "2004 - Grape DEW re-released as 'dark fruit' in 2016.",
                 "role": "Pitch Black"
             },
             "pblackii": {
                 "name": "Pitch Black II",
-                "description": "Sour grape flavor released as an LTO in 2005.",
+                "description": "2005 - The rehashed sequel of a drink. Pitch Black, but sour.",
                 "role": "Pitch Black II"
             },
             "risebb": {
                 "name": "RISE Berry Blitz",
-                "description": "Acai berry flavor nationally released in 2021.",
+                "description": "2021 - Acai berry flavored energy drink.",
                 "role": "RISE Berry Blitz"
             },
             "violet": {
                 "name": "Violet",
-                "description": "Grape and elderberry flavor released to Japan 2019-2020.",
+                "description": "2019 - Grape and elderberry flavored DEW.",
                 "role": "Violet"
             }
         }
@@ -553,92 +553,92 @@
         "1": {
             "ampsl": {
                 "name": "AMP (Strawberry Limeade)",
-                "description": "AMP flavor regionally released in 2015 and discontinued in 2021.",
+                "description": "2015 - AMP flavor regionally available 'til 2021.",
                 "role": "AMP (Strawberry Limeade)"
             },
             "btwister": {
                 "name": "Berry Twister",
-                "description": "Strawberry watermelon (?) flavor released to Circle K Canada locations and discontinued (?) in 2020.",
+                "description": "2020 - Strawberry watermelon(?) DEW from Circle K Canada.",
                 "role": "Berry Twister"
             },
             "dsnova": {
                 "name": "Diet Supernova",
-                "description": "Sugar-free strawberry melon flavor nationally released as an LTO in 2011 and for one month in 2012.",
+                "description": "2011 - Sugar-free strawberry melon DEW.",
                 "role": "Diet Supernova"
             },
             "gfcs": {
                 "name": "GAME FUEL (Courageous Sherbet)",
-                "description": "New-generation GAME FUEL flavor released as an online-order-exclusive in 2021.",
+                "description": "2021 - Online-only CouRageJD-themed GAME FUEL.",
                 "role": "GAME FUEL (Courageous Sherbet)"
             },
             "gfzcs": {
                 "name": "GAME FUEL ZERO (Courageous Sherbet)",
-                "description": "New-generation sugar-free GAME FUEL flavor released as an online-order-exclusive in 2021.",
+                "description": "2021 - Sugar-free, online-only CouRageJD GAME FUEL",
                 "role": "GAME FUEL ZERO (Courageous Sherbet)"
             },
             "gfzcrl": {
                 "name": "GAME FUEL ZERO (Raspberry Lemonade)",
-                "description": "New-generation sugar-free GAME FUEL flavor nationally released in 2020.",
+                "description": "2020 - New-generation sugar-free GAME FUEL flavor.",
                 "role": "GAME FUEL ZERO (Charged Raspberry Lemonade)"
             },
             "gfzcws": {
                 "name": "GAME FUEL ZERO (Watermelon Shock)",
-                "description": "New-generation sugar-free GAME FUEL flavor nationally released in 2020.",
+                "description": "2020 - New-generation sugar-free GAME FUEL flavor.",
                 "role": "GAME FUEL ZERO (Charged Watermelon Shock)"
             },
             "gcstrawberry": {
                 "name": "Goji Citrus Strawberry",
-                "description": "Half-diet fountain flavor released to certain gas stations and other locations beginning in 2017.",
+                "description": "2017 - Half-diet fountain DEW sold at gas stations.",
                 "role": "Goji Citrus Strawberry"
             },
             "ksrcitrus": {
                 "name": "Kickstart (Raspberry Citrus)",
-                "description": "Nationally released in 2017 and discontinued in 2021.",
+                "description": "2017 - discontinued in 2021.",
                 "role": "Kickstart Hydrating Boost (Raspberry Citrus)"
             },
             "ksskiwi": {
                 "name": "Kickstart (Strawberry Kiwi)",
-                "description": "Nationally released in 2015 and discontinued in 2017.",
+                "description": "2015 - discontinued in 2017.",
                 "role": "Kickstart Hydrating Boost (Strawberry Kiwi)"
             },
             "kswatermelon": {
                 "name": "Kickstart (Watermelon)",
-                "description": "Nationally released in 2016 and discontinued in 2018.",
+                "description": "2016 - Hydrating boost? Puts the water in watermelon.",
                 "role": "Kickstart Hydrating Boost (Watermelon)"
             },
             "mmelon": {
                 "name": "Major Melon",
-                "description": "Watermelon flavor nationally released in 2021.",
+                "description": "2021 - 'Life-changing' watermelon flavor.",
                 "role": "Major Melon"
             },
             "mmelonzs": {
                 "name": "Major Melon Zero Sugar",
-                "description": "Sugar-free watermelon flavor nationally released in 2021.",
+                "description": "2021 - Sugar-free watermelon flavored DEW.",
                 "role": "Major Melon Zero Sugar"
             },
             "risesms": {
                 "name": "RISE Strawberry Melon Spark",
-                "description": "Nationally released in 2021.",
+                "description": "2021 - Strawberry-melon energy drink.",
                 "role": "RISE Strawberry Melon Spark"
             },
             "spark": {
                 "name": "Spark",
-                "description": "Raspberry lemonade flavor released LTO to Speedway locations in 2020 and 2021.",
+                "description": "2020 - Limited-time raspberry lemonade DEW from Speedway.",
                 "role": "Spark"
             },
             "srlemonade": {
                 "name": "Spiked (Raspberry Lemonade)",
-                "description": "Raspberry lemonade and prickly pear flavor nationally released in 2017 and discontinued in 2018.",
+                "description": "2017 - Short-lived DEW 'spiked' with prickly pear flavor.",
                 "role": "Spiked (Raspberry Lemonade)"
             },
             "snova": {
                 "name": "Supernova",
-                "description": "Strawberry melon and ginseng flavor nationally released as an LTO in 2008 and 2011. (CA: 2013, 2014)",
+                "description": "2008 - DEWmocracy contestant. Strawberry melon with ginseng.",
                 "role": "Supernova"
             },
             "typhoon": {
                 "name": "Typhoon",
-                "description": "Strawberry pineapple flavor nationally available as an LTO in 2010 and 2011.",
+                "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
                 "role": "Typhoon"
             }
         }
@@ -647,48 +647,48 @@
     "whiteclear": {
         "1": {
             "csmash": {
-                "name": "Cake Smash",
-                "description": "",
+                "name": "Cake-Smash",
+                "description": "2021 - Birthday cake DEW Store exclusive.",
                 "role": "Cake Smash"
             },
             "dewshine": {
                 "name": "DEWshine",
-                "description": "",
+                "description": "2015 - Clear citrus glass-bottle DEW.",
                 "role": "DEWshine"
             },
             "ice": {
                 "name": "ICE",
-                "description": "",
+                "description": "2018 - Sprite.",
                 "role": "ICE"
             },
             "icec": {
                 "name": "ICE Cherry",
-                "description": "",
+                "description": "2018 - 7UP Cherry.",
                 "role": "ICE Cherry"
             },
             "voodew19": {
                 "name": "VooDEW (2019)",
-                "description": "",
+                "description": "2019 - Candy corn flavor.",
                 "role": "VooDEW (2019)"
             },
             "voodew20": {
                 "name": "VooDEW (2020)",
-                "description": "",
+                "description": "2020 - 'Fruit candy explosion' / Skittles-esque flavor.",
                 "role": "VooDEW (2020)"
             },
             "voodew21": {
                 "name": "VooDEW (2021)",
-                "description": "",
+                "description": "2021 - Unannounced mystery flavor.",
                 "role": "VooDEW (2021)"
             },
             "wlabel": {
                 "name": "White Label",
-                "description": "",
+                "description": "2017 - Tropical citrus DEW.",
                 "role": "White Label"
             },
             "wout": {
                 "name": "White Out",
-                "description": "",
+                "description": "2010 - DEWmocracy II winner. Smooth citrus DEW.",
                 "role": "White Out"
             }
         }
