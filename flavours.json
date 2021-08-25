@@ -46,6 +46,11 @@
                 "description": "2002 - Sugar-free cherry DEW. Currently regional.",
                 "role": "Diet Code Red"
             },
+            "flaminhot": {
+                "name": "Flamin' Hot",
+                "description": "2021 - Spicy citrus (?) DEW Store exclusive.",
+                "role": "Flamin' Hot"
+            },
             "gblast": {
                 "name": "Game Blast",
                 "description": "2015 - Citrus-cherry flavor from Sweden.",
@@ -268,7 +273,7 @@
             },
             "vibe": {
                 "name": "Vibe",
-                "description": "Lemon DEW exclusively served at Which Wich fountains.",
+                "description": "2021 - Lemon DEW exclusive to Which Wich fountains.",
                 "role": "Vibe"
             }
         }
