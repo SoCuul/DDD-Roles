@@ -131,6 +131,11 @@
                 "description": "2021 - Baja Blast-inspired tropical punch flavor.",
                 "role": "Baja Punch"
             },
+            "flaminhot": {
+                "name": "Flamin' Hot",
+                "description": "2021 - Spicy citrus (?) DEW Store exclusive.",
+                "role": "Flamin' Hot"
+            },
             "gfmh": {
                 "name": "Game Fuel (Mango Heat)",
                 "description": "2016 - Spicy mango habañero flavor.",
