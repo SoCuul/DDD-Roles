@@ -666,6 +666,11 @@
                 "description": "2015 - Clear citrus glass-bottle DEW.",
                 "role": "DEWshine"
             },
+            "snapd": {
+                "name": "Gingerbread Snap'd",
+                "description": "2021 - Gingerbread cookie flavor.",
+                "role": "Gingerbread Snap'd"
+            },
             "ice": {
                 "name": "ICE",
                 "description": "2018 - Sprite.",
