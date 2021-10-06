@@ -120,6 +120,11 @@
                 "name": "Typhoon",
                 "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
                 "role": "Typhoon"
+            },
+            "uproar": {
+                "name": "Uproar",
+                "description": "2021 - Berry kiwi Food Lion-exclusive DEW.",
+                "role": "Uproar"
             }
         }
     },
@@ -133,7 +138,7 @@
             },
             "flaminhot": {
                 "name": "Flamin' Hot",
-                "description": "2021 - Spicy citrus (?) DEW Store exclusive.",
+                "description": "2021 - Spicy citrus DEW Store exclusive.",
                 "role": "Flamin' Hot"
             },
             "gfmh": {
@@ -650,6 +655,11 @@
                 "name": "Typhoon",
                 "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
                 "role": "Typhoon"
+            }
+            "uproar": {
+                "name": "Uproar",
+                "description": "2021 - Berry kiwi Food Lion-exclusive DEW.",
+                "role": "Uproar"
             }
         }
     },
