@@ -650,6 +650,11 @@
                 "name": "Typhoon",
                 "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
                 "role": "Typhoon"
+            },
+            "uproar": {
+                "name": "Uproar",
+                "description": "2021 - Berry kiwi Food Lion-exclusive DEW.",
+                "role": "Uproar"
             }
         }
     },
