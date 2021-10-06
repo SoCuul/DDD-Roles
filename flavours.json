@@ -128,9 +128,9 @@
             }
         },
         "2": {
-            "darn": {
-                "name": "Darn Dew",
-                "description": "Pepsi Blue.",
+            "test": {
+                "name": "Test Dew",
+                "description": "Never Gonna Give You Up",
                 "role": "nevergonnagiveyouup"
             }
         }
