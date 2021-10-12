@@ -186,6 +186,11 @@
                 "description": "2003 - Orange-flavored DEW. Also sold in NZ & MY.",
                 "role": "LiveWire"
             },
+            "am": {
+                "name": "Mountain Dew A.M.",
+                "description": "2012 - Tropicana and original DEW mixed at Taco Bell.",
+                "role": "Mountain Dew A.M."
+            },
             "pfrenzy": {
                 "name": "Passionfruit Frenzy",
                 "description": "2012 - New Zealand-exclusive passionfruit DEW.",
