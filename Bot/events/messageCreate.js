@@ -7,6 +7,9 @@ function truncateString(str, num) {
 }
 
 module.exports = async (client, message) => {
+    //Check for valid command instance
+    if (!message.guild || message.author.bot) return
+    
     //Random messages
     if (message.mentions.users.has(client.user.id)) message.channel.send(
         client.random(client.msgs.randomMessages)
@@ -14,9 +17,6 @@ module.exports = async (client, message) => {
 
     //Define prefix
     let prefix = client.config.prefix
-
-    //Check for valid command instance
-    if (!message.guild || message.author.bot) return
 
     //Ignore messages without prefixes
     if (!message.content.startsWith(prefix)) return;
