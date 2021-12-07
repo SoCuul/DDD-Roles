@@ -71,12 +71,14 @@
             "emoji": "",
             "style": 4,
             "role": "Region: USA"
-        },{
+        },
+        {
             "name": "Canada",
             "emoji": "",
             "style": 4,
             "role": "Region: Canada"
-        },{
+        },
+        {
             "name": "Europe",
             "emoji": "",
             "style": 4,
