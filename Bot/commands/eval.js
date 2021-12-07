@@ -1,31 +1,29 @@
+const Discord = require('discord.js')
+function truncateString(str, num) {
+    if (str.length <= num) {
+        return str
+    }
+    return str.slice(0, num) + '...'
+}
+
 module.exports = {
     aliases: [],
-    async run(client, message, args, sendError) {
-        const Discord = require("discord.js");
-        const { performance } = require('perf_hooks');
-
-        //Truncate string
-        function truncateString(str, num) {
-            if (str.length <= num) {
-                return str
-            }
-            return str.slice(0, num) + '...'
-        }
+    async run (client, message, args, sendError) {
+        const { performance } = require('perf_hooks')
 
         if (message.author.id === client.config.ownerID){
-            const { inspect } = require('util');
-
+            //Log eval
             console.log(`Eval executed by ${message.author.tag}`)
 
             try {
                 let t0 = performance.now()
                 let evaled = await eval(args.join(' '))
                 let t1 = performance.now()
-
+        
                 //Inspect eval
                 let type = typeof evaled !== 'undefined' ? typeof evaled : 'N/A'
                 if (typeof evaled !== "string") evaled = require("util").inspect(evaled)
-
+        
                 const embed = new Discord.MessageEmbed()
                 .setColor('GREEN')
                 .setTitle('Eval Succeeded')
@@ -34,7 +32,7 @@ module.exports = {
                 .addField(`⌨️  Type`, `\`${type}\``)
                 .setTimestamp()
                 message.reply({
-                    embeds: [embed]
+                    embeds: [ embed ]
                 })
             }
             catch (error) {
@@ -44,7 +42,7 @@ module.exports = {
                 .setDescription(`\`\`\`js\n${truncateString(error.toString(), 2030)}\n\`\`\``)
                 .setTimestamp()
                 message.reply({
-                    embeds: [embed]
+                    embeds: [ embed ]
                 })
             }
         }

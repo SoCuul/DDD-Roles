@@ -1,7 +1,7 @@
 {
   "name": "ddd-roles",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.0.0",
+  "description": "Broctopus gaming",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,8 @@
   "author": "SoCuul",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
-    "discord.js": "^13.0.0-dev.t1627689836.ee3cdc8",
+    "axios": "^0.24.0",
+    "discord.js": "^13.3.1",
     "dotenv": "^10.0.0"
   }
 }

@@ -1,11 +1,11 @@
-module.exports = (client) => {
-    const Discord = require('discord.js')
+const Discord = require('discord.js')
 
-    console.log(`DDD Roles is online.`)
+module.exports = async (client) => {
+    console.log(`${client.user.username} is online.`)
     console.log(`${client.guilds.cache.reduce((a, c) => a + c.memberCount, 0)} users`)
 
     //Set first status
-    try{
+    try {
         client.user.setPresence({
             activities: [
                 {
@@ -15,13 +15,16 @@ module.exports = (client) => {
             ]
         })
     }
-    catch(error){
+    catch (error) {
         console.log('[Status Error] Could not set status')
     }
 
     //Set status each hour
-    setInterval(() => {
-        try{
+    while (true) {
+        await client.wait(3600000)
+
+        //Set status
+        try {
             client.user.setPresence({
                 activities: [
                     {
@@ -31,8 +34,8 @@ module.exports = (client) => {
                 ]
             })
         }
-        catch(error){
+        catch (error) {
             console.log('[Status Error] Could not set status')
         }
-    }, 3600000);
+    }
 };

@@ -1,0 +1,112 @@
+{
+    "dew-themed": [
+        {
+            "name": "Dew Collector",
+            "emoji": "",
+            "style": 1,
+            "role": "Dew Collector"
+        },
+        {
+            "name": "Dew Mixologist",
+            "emoji": "",
+            "style": 1,
+            "role": "DEW Mixologist"
+        },
+        {
+            "name": "Dew Insider",
+            "emoji": "",
+            "style": 1,
+            "role": "Dew Insider"
+        },
+        {
+            "name": "Dew Market Insider",
+            "emoji": "",
+            "style": 1,
+            "role": "Dew Market Insider"
+        }
+    ],
+    "pronoun": [
+        {
+            "name": "He/Him",
+            "emoji": "",
+            "style": 3,
+            "role": "He/Him"
+        },
+        {
+            "name": "She/Her",
+            "emoji": "",
+            "style": 3,
+            "role": "She/Her"
+        },
+        {
+            "name": "They/Them",
+            "emoji": "",
+            "style": 3,
+            "role": "They/Them"
+        },
+        {
+            "name": "Other (Ask for my pronouns!)",
+            "emoji": "",
+            "style": 3,
+            "role": "Ask for my pronouns!"
+        }
+    ],
+    "misc": [
+        {
+            "name": "Gay Baby",
+            "emoji": "",
+            "style": 2,
+            "role": "Gay Baby"
+        },
+        {
+            "name": "Weeb",
+            "emoji": "",
+            "style": 2,
+            "role": "Weeb"
+        }
+    ],
+    "regional": [
+        {
+            "name": "US",
+            "emoji": "",
+            "style": 4,
+            "role": "Region: USA"
+        },{
+            "name": "Canada",
+            "emoji": "",
+            "style": 4,
+            "role": "Region: Canada"
+        },{
+            "name": "Europe",
+            "emoji": "",
+            "style": 4,
+            "role": "Region: Europe"
+        },
+        {
+            "name": "International (Other)",
+            "emoji": "",
+            "style": 4,
+            "role": "Region: International"
+        }
+    ],
+    "monthly": [
+        {
+            "name": "Team Holiday Brew",
+            "emoji": "",
+            "style": 1,
+            "role": "Team Holiday Brew"
+        },
+        {
+            "name": "Team Merry Mash-Up",
+            "emoji": "",
+            "style": 1,
+            "role": "Team Merry Mash-Up"
+        },
+        {
+            "name": "Team Gingerbread Snap'd",
+            "emoji": "",
+            "style": 1,
+            "role": "Team Gingerbread Snap'd"
+        }
+    ]
+}

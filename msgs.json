@@ -19,5 +19,41 @@
     },
     "roleGiven": {
         "title": "Role Given"
-    }
+    },
+
+    "selfAssignRoles": {
+        "title": "Assign Your Own Roles",
+
+        "aboutTitle": "About this channel...",
+        "aboutDescription": "This channel will allow you to select from a variety of optional roles. Please select only the ones that apply to you.\nClicking a role button will either give/remove the role to/from you, depending on if you already have it.",
+
+        "section1Title": "Dew-Themed Roles",
+        "section1Description": "***Dew Insider*** will notify you about the latest DEW News as soon as it hits.\n***Dew Market Insider*** will notify you about changes made to #dew-market.\n\n• Dew Collector\n• Dew Mixologist\n• Dew Insider\n• Dew Market Insider",
+
+        "section2Title": "Pronoun Roles",
+        "section2Description": "• He/Him\n• She/Her\n• They/Them\n• Other (Ask for my pronouns!)",
+
+        "section3Title": "Miscellaneous Roles",
+        "section3Description": "• Gay Baby\n• Weeb",
+
+        "section4Title": "Regional Roles",
+        "section4Description": "• US\n• Canada\n• Europe\n• International (Other)",
+
+        "section5Title": "Monthly Team Roles",
+        "section5Description": "*Represent your favorite holiday MTN DEW flavor with its respective team role.*\n*Team topic will refresh in early January 2022.*\n• Team Holiday Brew (Original DEW + Code Red; 2017)\n• Team Merry Mash-Up (Cranberry Pomegranate; 2018-2020)\n• Team Gingerbread Snap'd (Take a Wild Guess; 2021)"
+    },
+
+    "randomMessages": [
+        "Pitch Black is overrated",
+        "I could beat Bro Crab in a fight",
+        "Bring back Revolution!",
+        "Baja Blast is for normies",
+        "I wonder if we'll ever know the 50 flavors in Liberty Brew.",
+        "Regionals and store exclusives are lame",
+        "I hope they make LiveWire and White Out national",
+        "Guys: what if they brought back the old Dewmocracy flavors?",
+        "Merry Mash-Up > Snap'd",
+        "Baja Punch > Baja Flash",
+        "Honestly, they should just replace Major Melon with Uproar"
+    ]
 }

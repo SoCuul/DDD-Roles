@@ -1,29 +1,47 @@
+const { MessageEmbed } = require('discord.js');
+function truncateString(str, num) {
+    if (str.length <= num) {
+        return str
+    }
+    return str.slice(0, num) + '...'
+}
+
 module.exports = async (client, message) => {
-    //MessageEmbeds
-    const Discord = require("discord.js");
-
-    //Ignore all bots
-    if (message.author.bot) return;
-
-    //Ignore DM channels
-    if (message.channel.dm) return;
+    //Random messages
+    if (message.mentions.users.has(client.user.id)) message.channel.send(
+        client.random(client.msgs.randomMessages)
+    )
 
     //Define prefix
     let prefix = client.config.prefix
 
-    //Ignore messages without prefixes
-    const cmdPrefix = message.content.startsWith(prefix);
-    if (!cmdPrefix) return;
+    //Check for valid command instance
+    if (!message.guild || message.author.bot) return
 
-    //Our standard argument/command name definition.
+    //Ignore messages without prefixes
+    if (!message.content.startsWith(prefix)) return;
+
+    //Get command name/args
     const args = message.content.slice(prefix.length).trim().split(/ +/g);
     const command = args.shift().toLowerCase();
 
-    //Grab the command data from the client.commands map
-    const cmd = client.commands.get(command) || client.commands.find(cmd => cmd.aliases && cmd.aliases.includes(command));
+    //Error Messages
+    function sendError (input, cmd) {
+        if(!input || !cmd) return
 
-    //If that command doesn't exist, silently exit and do nothing
-    if (!cmd) return;
+        return new MessageEmbed()
+        .setColor('RED')
+        .setTitle('Error')
+        .setDescription(input)
+        .addField('Usage', `\`${prefix}${cmd}\``)
+        .setFooter(client.user.username, client.user.displayAvatarURL({ dynamic: true }))
+    }
+
+    //Grab the command data from the client.commands map
+    const cmd = client.commands.get(command)
+  
+    //If that command doesn't exist, return
+    if (!cmd) return
 
     //Check for message author permission
     if(!client.config.admins.includes(message.author.id)) return message.reply('You don\'t have permission to do that')
@@ -32,40 +50,20 @@ module.exports = async (client, message) => {
     if(!message.guild.me.permissionsIn(message.channel).has("SEND_MESSAGES")) return
     if(!message.guild.me.permissionsIn(message.channel).has("EMBED_LINKS")) return message.reply(`I don't have permission to embed links.\nPlease ask an admin to configure my permissions.`)
 
-    //Error Messages
-    function sendError(input) {
-        const errortick = '`'
-        let parts = input.split('||', 2);
-        const error = new Discord.MessageEmbed()
-        .setColor('RED')
-        .setTitle('Error')
-        .setDescription(parts[0])
-        .addField('Usage', `${errortick}${prefix}${parts[1]}${errortick}`)
-        .setFooter(client.user.username, client.user.avatarURL({ dynamic: true }));
-        message.react('❌').catch(error => { console.log(`There was an error reacting to the message.`) })
-        message.reply({embeds: [error]})
-    }
-
     //Run the command
-    try{
-        await cmd.run(client, message, args, sendError);
+    try {
+        await cmd.run(client, message, args, sendError)
     }
-    catch(error){
-        //Truncate string
-        function truncateString(str, num) {
-            if (str.length <= num) {
-                return str
-            }
-            return str.slice(0, num) + '...'
-        }
-
+    catch (error) {
         //Send embed
-        const embed = new Discord.MessageEmbed()
+        const embed = new MessageEmbed()
         .setColor('RED')
         .setTitle('Execution Error')
         .setDescription('There was an error running the command.')
         .addField('Error', truncateString(error.toString(), 1021))
         .setTimestamp()
-        message.channel.send({embeds: [embed]})
+        message.reply({
+            embeds: [embed]
+        })
     }
 };
