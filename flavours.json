@@ -197,14 +197,14 @@
                 "role": "Passionfruit Frenzy"
             },
             "riseob": {
-                "name": "RISE Orange Breeze",
-                "description": "2021 - What is this, the 4th 'energy drink' DEW?",
-                "role": "RISE Orange Breeze"
+                "name": "RISE/ENERGY Orange Breeze",
+                "description": "2021 - Orange and (supposedly) grapefruit energy drink.",
+                "role": "ENERGY Orange Breeze"
             },
             "risepmd": {
-                "name": "RISE Peach Mango Dawn",
-                "description": "2021 - Exactly what it says on the tin.",
-                "role": "RISE Peach Mango Dawn"
+                "name": "RISE/ENERGY Peach Mango Dawn",
+                "description": "2021 - Peach-mango energy drink.",
+                "role": "ENERGY Peach Mango Dawn"
             },
             "fi_snova": {
                 "name": "Supernova (Finland)",
@@ -277,9 +277,9 @@
                 "role": "Passionfruit Frenzy"
             },
             "risets": {
-                "name": "RISE Tropical Sunrise",
-                "description": "2021 - Tropical pineapple flavor.",
-                "role": "RISE Tropical Sunrise"
+                "name": "RISE/ENERGY Tropical Sunrise",
+                "description": "2021 - Tropical pineapple energy drink.",
+                "role": "ENERGY Tropical Sunrise"
             },
             "slemonade": {
                 "name": "Spiked (Lemonade)",
@@ -512,9 +512,9 @@
                 "role": "Revolution"
             },
             "risepbb": {
-                "name": "RISE Pomegranate Blue Burst",
+                "name": "RISE/ENERGY Pomegranate Blue Burst",
                 "description": "2021 - Blueberry pomegranate energy drink.",
-                "role": "RISE Pomegranate Blue Burst"
+                "role": "ENERGY Pomegranate Blue Burst"
             },
             "voltage": {
                 "name": "Voltage",
@@ -562,9 +562,9 @@
                 "role": "Pitch Black II"
             },
             "risebb": {
-                "name": "RISE Berry Blitz",
-                "description": "2021 - Acai berry flavored energy drink.",
-                "role": "RISE Berry Blitz"
+                "name": "RISE/ENERGY Berry Blitz",
+                "description": "2021 - Acai berry energy drink.",
+                "role": "ENERGY Berry Blitz"
             },
             "violet": {
                 "name": "Violet",
@@ -642,9 +642,9 @@
                 "role": "Major Melon Zero Sugar"
             },
             "risesms": {
-                "name": "RISE Strawberry Melon Spark",
-                "description": "2021 - Strawberry-melon energy drink.",
-                "role": "RISE Strawberry Melon Spark"
+                "name": "RISE/ENERGY Strawberry Melon Spark",
+                "description": "2021 - Strawberry melon energy drink.",
+                "role": "ENERGY Strawberry Melon Spark"
             },
             "spark": {
                 "name": "Spark",
