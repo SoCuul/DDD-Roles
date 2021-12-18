@@ -30,6 +30,8 @@ module.exports = {
                     console.log(error)
                     message.reply('❌ Could not reload dew flavours. Try again in a little bit.')
                 }
+                
+                break
             }
             case 'sar': {
                 try {
@@ -50,6 +52,8 @@ module.exports = {
                     console.log(error)
                     message.reply('❌ Could not reload self assign roles. Try again in a little bit.')
                 }
+                
+                break
             }
             case 'msgs': {
                 try {
@@ -70,11 +74,13 @@ module.exports = {
                     console.log(error)
                     message.reply('❌ Could not reload bot messages. Try again in a little bit.')
                 }
+                
+                break
             }
             default: {
                 return message.reply({
                     embeds: [
-                        sendError('Please enter a value to reload.', 'reload <flavours/sar/msgs>')
+                        sendError('Please enter a value to reload.', 'reloadinfo <flavours/sar/msgs>')
                     ]
                 })
             }
