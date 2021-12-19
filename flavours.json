@@ -648,8 +648,13 @@
             },
             "spark": {
                 "name": "Spark",
-                "description": "2020 - Limited-time raspberry lemonade DEW from Speedway.",
+                "description": "2020 - Raspberry lemonade DEW.",
                 "role": "Spark"
+            },
+            "sparkzs": {
+                "name": "Spark Zero Sugar",
+                "description": "2022 - Sugar-free raspberry lemonade DEW.",
+                "role": "Spark Zero Sugar",
             },
             "srlemonade": {
                 "name": "Spiked (Raspberry Lemonade)",
