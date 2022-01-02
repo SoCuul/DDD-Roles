@@ -93,22 +93,22 @@
     ],
     "monthly": [
         {
-            "name": "Team Holiday Brew",
+            "name": "Team MTN DEW Zero",
             "emoji": "",
             "style": 1,
-            "role": "Team Holiday Brew"
+            "role": "Team MTN DEW Zero"
         },
         {
-            "name": "Team Merry Mash-Up",
+            "name": "Team Major Melon Zero",
             "emoji": "",
             "style": 1,
-            "role": "Team Merry Mash-Up"
+            "role": "Team Major Melon Zero"
         },
         {
-            "name": "Team Gingerbread Snap'd",
+            "name": "Team Spark Zero",
             "emoji": "",
             "style": 1,
-            "role": "Team Gingerbread Snap'd"
+            "role": "Team Spark Zero"
         }
     ]
 }
