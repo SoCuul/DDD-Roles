@@ -353,7 +353,7 @@
             },
             "gft": {
                 "name": "Game Fuel (Tropical)",
-                "description": "2011 - Released for a limited time.",
+                "description": "2011 - Lime? flavored DEW released for a limited time.",
                 "role": "Game Fuel (Tropical)"
             },
             "gfcod": {
@@ -483,7 +483,7 @@
             },
             "gfbl": {
                 "name": "Game Fuel (Berry Lime)",
-                "description": "2015 - Limited time offer.",
+                "description": "2015 - Limited-time berry and lime Game Fuel.",
                 "role": "Game Fuel (Berry Lime)"
             },
             "gfwf": {
@@ -698,12 +698,12 @@
             },
             "ice": {
                 "name": "ICE",
-                "description": "2018 - Sprite.",
+                "description": "2018 - Sprite, now with caffeine!",
                 "role": "ICE"
             },
             "icec": {
                 "name": "ICE Cherry",
-                "description": "2018 - 7UP Cherry.",
+                "description": "2018 - 7UP Cherry, now with caffeine!",
                 "role": "ICE Cherry"
             },
             "voodew19": {
