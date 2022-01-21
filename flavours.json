@@ -31,6 +31,11 @@
                 "description": "2001 - The original, infamous cherry DEW.",
                 "role": "Code Red"
             },
+            "credzs": {
+                "name": "Code Red Zero Sugar",
+                "description": "2021 - The tastier descendant of Diet Code Red.",
+                "role": "Code Red Zero Sugar"
+            },
             "nz_cred": {
                 "name": "Code Red (NZ)",
                 "description": "2009 - Citrus-berry-cola flavor from New Zealand.",
@@ -43,8 +48,13 @@
             },
             "dcred": {
                 "name": "Diet Code Red",
-                "description": "2002 - Sugar-free cherry DEW. Currently regional.",
+                "description": "2002 - Sugar-free cherry DEW. Discontinued in 2021.",
                 "role": "Diet Code Red"
+            },
+            "risecll": {
+                "name": "ENERGY Cherry Lime Lift",
+                "description": "2021 - Cherry-lime energy drink.",
+                "role": "ENERGY Cherry Lime Lift"
             },
             "flaminhot": {
                 "name": "Flamin' Hot",
@@ -92,9 +102,9 @@
                 "role": "Merry Mash-Up"
             },
             "risesms": {
-                "name": "RISE Strawberry Melon Spark",
+                "name": "ENERGY Strawberry Melon Spark",
                 "description": "2021 - Strawberry-melon energy drink.",
-                "role": "RISE Strawberry Melon Spark"
+                "role": "ENERGY Strawberry Melon Spark"
             },
             "sblast": {
                 "name": "Sangrita Blast",
@@ -115,7 +125,9 @@
                 "name": "Spiked (Raspberry Lemonade)",
                 "description": "2017 - Short-lived DEW 'spiked' with prickly pear flavor.",
                 "role": "Spiked (Raspberry Lemonade)"
-            },
+            }
+        },
+        "2": {
             "typhoon": {
                 "name": "Typhoon",
                 "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
@@ -197,12 +209,12 @@
                 "role": "Passionfruit Frenzy"
             },
             "riseob": {
-                "name": "RISE/ENERGY Orange Breeze",
+                "name": "ENERGY Orange Breeze",
                 "description": "2021 - Orange and (supposedly) grapefruit energy drink.",
                 "role": "ENERGY Orange Breeze"
             },
             "risepmd": {
-                "name": "RISE/ENERGY Peach Mango Dawn",
+                "name": "ENERGY Peach Mango Dawn",
                 "description": "2021 - Peach-mango energy drink.",
                 "role": "ENERGY Peach Mango Dawn"
             },
@@ -277,7 +289,7 @@
                 "role": "Passionfruit Frenzy"
             },
             "risets": {
-                "name": "RISE/ENERGY Tropical Sunrise",
+                "name": "ENERGY Tropical Sunrise",
                 "description": "2021 - Tropical pineapple energy drink.",
                 "role": "ENERGY Tropical Sunrise"
             },
@@ -512,7 +524,7 @@
                 "role": "Revolution"
             },
             "risepbb": {
-                "name": "RISE/ENERGY Pomegranate Blue Burst",
+                "name": "ENERGY Pomegranate Blue Burst",
                 "description": "2021 - Blueberry pomegranate energy drink.",
                 "role": "ENERGY Pomegranate Blue Burst"
             },
@@ -562,9 +574,9 @@
                 "role": "Pitch Black II"
             },
             "risebb": {
-                "name": "RISE/ENERGY Berry Blitz",
+                "name": "ENERGY Berry Blitz",
                 "description": "2021 - Acai berry energy drink. Discontinued in 2021.",
-                "role": "RISE Berry Blitz"
+                "role": "ENERGY Berry Blitz"
             },
             "violet": {
                 "name": "Violet",
@@ -642,7 +654,7 @@
                 "role": "Major Melon Zero Sugar"
             },
             "risesms": {
-                "name": "RISE/ENERGY Strawberry Melon Spark",
+                "name": "ENERGY Strawberry Melon Spark",
                 "description": "2021 - Strawberry melon energy drink.",
                 "role": "ENERGY Strawberry Melon Spark"
             },
