@@ -70,25 +70,25 @@
             "name": "US",
             "emoji": "",
             "style": 4,
-            "role": "Region: USA"
+            "role": "Region: USA 🌭"
         },
         {
             "name": "Canada",
             "emoji": "",
             "style": 4,
-            "role": "Region: Canada"
+            "role": "Region: Canada 🍁"
         },
         {
             "name": "Europe",
             "emoji": "",
             "style": 4,
-            "role": "Region: Europe"
+            "role": "Region: Europe 🏰"
         },
         {
             "name": "International (Other)",
             "emoji": "",
             "style": 4,
-            "role": "Region: International"
+            "role": "Region: International 🥝"
         }
     ],
     "monthly": [
