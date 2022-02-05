@@ -93,22 +93,22 @@
     ],
     "monthly": [
         {
-            "name": "Team MTN DEW Zero",
+            "name": "Team OG",
             "emoji": "",
             "style": 1,
-            "role": "Team MTN DEW Zero"
+            "role": "Team OG"
         },
         {
-            "name": "Team Major Melon Zero",
+            "name": "Team Cherry",
             "emoji": "",
             "style": 1,
-            "role": "Team Major Melon Zero"
+            "role": "Team Cherry"
         },
         {
-            "name": "Team Spark Zero",
+            "name": "Team Melon",
             "emoji": "",
             "style": 1,
-            "role": "Team Spark Zero"
+            "role": "Team Melon"
         }
     ]
 }
