@@ -428,6 +428,11 @@
                 "description": "2020 - Original DEW, with none of the sugar.",
                 "role": "Mountain Dew Zero Sugar"
             },
+            "moutainlighting": {
+                "name": "Mountain Lightning",
+                "description": "Need I say more?",
+                "role": "Mountain Lightning"
+            },
             "tapple": {
                 "name": "Thrashed Apple",
                 "description": "2021 - Green apple Kroger-exclusive DEW.",
