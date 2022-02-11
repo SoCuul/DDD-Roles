@@ -148,11 +148,6 @@
                 "description": "2021 - Baja Blast-inspired tropical punch flavor.",
                 "role": "Baja Punch"
             },
-            "dewitos": {
-                "name": "DEWitos",
-                "description": "2014 - Nacho cheese flavor. Taste-tested for a limited time.",
-                "role": "DEWitos"
-            },
             "flaminhot": {
                 "name": "Flamin' Hot",
                 "description": "2021 - Spicy citrus DEW Store exclusive.",
@@ -427,11 +422,6 @@
                 "name": "Mountain Dew Zero Sugar",
                 "description": "2020 - Original DEW, with none of the sugar.",
                 "role": "Mountain Dew Zero Sugar"
-            },
-            "moutainlighting": {
-                "name": "Mountain Lightning",
-                "description": "Need I say more?",
-                "role": "Mountain Lightning"
             },
             "tapple": {
                 "name": "Thrashed Apple",
