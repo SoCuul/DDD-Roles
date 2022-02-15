@@ -23,6 +23,12 @@
             "emoji": "",
             "style": 1,
             "role": "Dew Market Insider"
+        },
+        {
+            "name": "DEWsigner",
+            "emoji": "",
+            "style": 1,
+            "role": "DEWsigner"
         }
     ],
     "pronoun": [
