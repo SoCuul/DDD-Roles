@@ -563,6 +563,11 @@
                 "description": "2016 - Initially known as Midnight Grape.",
                 "role": "Kickstart (Grape)"
             },
+            "legend": {
+                "name": "Legend",
+                "description": "2022 - Blackberry lime. Buffalo Wild Wings exclusive.",
+                "role": "Legend"
+            },
             "pblack": {
                 "name": "Pitch Black",
                 "description": "2004 - Grape DEW re-released as 'dark fruit' in 2016.",
@@ -717,6 +722,11 @@
                 "name": "ICE Cherry",
                 "description": "2018 - 7UP Cherry, now with caffeine!",
                 "role": "ICE Cherry"
+            },
+            "legend": {
+                "name": "Legend",
+                "description": "2022 - Blackberry lime. Buffalo Wild Wings exclusive.",
+                "role": "Legend"
             },
             "voodew19": {
                 "name": "VooDEW (2019)",
