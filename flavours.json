@@ -56,10 +56,20 @@
                 "description": "2021 - Cherry-lime energy drink.",
                 "role": "ENERGY Cherry Lime Lift"
             },
+            "risesms": {
+                "name": "ENERGY Strawberry Melon Spark",
+                "description": "2021 - Strawberry-melon energy drink.",
+                "role": "ENERGY Strawberry Melon Spark"
+            },
             "flaminhot": {
                 "name": "Flamin' Hot",
                 "description": "2021 - Spicy citrus (?) DEW Store exclusive.",
                 "role": "Flamin' Hot"
+            },
+            "fuzzysbrew": {
+                "name": "Fuzzy's Brew",
+                "description": "2022 - Citrus punch Casey's exclusive.",
+                "role": "Fuzzy's Brew"
             },
             "gblast": {
                 "name": "Game Blast",
@@ -81,6 +91,11 @@
                 "description": "2017 - Half-diet fountain DEW sold at gas stations.",
                 "role": "Goji Citrus Strawberry"
             },
+            "hardbc": {
+                "name": "Hard Black Cherry",
+                "description": "2022 - Alcoholic black cherry DEW.",
+                "role": "Hard Black Cherry"
+            },
             "hbrew": {
                 "name": "Holiday Brew",
                 "description": "2017 - A holiday blend of Code Red and Original DEW.",
@@ -101,11 +116,6 @@
                 "description": "2018 - Cranberry pomegranate holiday DEW.",
                 "role": "Merry Mash-Up"
             },
-            "risesms": {
-                "name": "ENERGY Strawberry Melon Spark",
-                "description": "2021 - Strawberry-melon energy drink.",
-                "role": "ENERGY Strawberry Melon Spark"
-            },
             "sblast": {
                 "name": "Sangrita Blast",
                 "description": "2013 - Citrus punch fountain DEW formerly at Taco Bell.",
@@ -120,14 +130,14 @@
                 "name": "Southern Shock",
                 "description": "2020 - Tropical punch DEW served at Bojangles.",
                 "role": "Southern Shock"
-            },
+            }
+        },
+        "2": {
             "srlemonade": {
                 "name": "Spiked (Raspberry Lemonade)",
                 "description": "2017 - Short-lived DEW 'spiked' with prickly pear flavor.",
                 "role": "Spiked (Raspberry Lemonade)"
-            }
-        },
-        "2": {
+            },
             "typhoon": {
                 "name": "Typhoon",
                 "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
@@ -147,6 +157,16 @@
                 "name": "Baja Punch",
                 "description": "2021 - Baja Blast-inspired tropical punch flavor.",
                 "role": "Baja Punch"
+            },
+            "riseob": {
+                "name": "ENERGY Orange Breeze",
+                "description": "2021 - Orange and (supposedly) grapefruit energy drink.",
+                "role": "ENERGY Orange Breeze"
+            },
+            "risepmd": {
+                "name": "ENERGY Peach Mango Dawn",
+                "description": "2021 - Peach-mango energy drink.",
+                "role": "ENERGY Peach Mango Dawn"
             },
             "flaminhot": {
                 "name": "Flamin' Hot",
@@ -208,16 +228,6 @@
                 "description": "2012 - New Zealand-exclusive passionfruit DEW.",
                 "role": "Passionfruit Frenzy"
             },
-            "riseob": {
-                "name": "ENERGY Orange Breeze",
-                "description": "2021 - Orange and (supposedly) grapefruit energy drink.",
-                "role": "ENERGY Orange Breeze"
-            },
-            "risepmd": {
-                "name": "ENERGY Peach Mango Dawn",
-                "description": "2021 - Peach-mango energy drink.",
-                "role": "ENERGY Peach Mango Dawn"
-            },
             "fi_snova": {
                 "name": "Supernova (Finland)",
                 "description": "2012 - Raspberry lemon DEW from Finland, AKA \"Euronova.\"",
@@ -242,6 +252,11 @@
                 "name": "Baja Flash",
                 "description": "2021 - Baja Blast-inspired pineapple coconut flavor.",
                 "role": "Baja Flash"
+            },
+            "risets": {
+                "name": "ENERGY Tropical Sunrise",
+                "description": "2021 - Tropical pineapple energy drink.",
+                "role": "ENERGY Tropical Sunrise"
             },
             "gfl": {
                 "name": "Game Fuel (Lemonade)",
@@ -287,11 +302,6 @@
                 "name": "Passionfruit Frenzy",
                 "description": "2012 - New Zealand-exclusive passionfruit DEW.",
                 "role": "Passionfruit Frenzy"
-            },
-            "risets": {
-                "name": "ENERGY Tropical Sunrise",
-                "description": "2021 - Tropical pineapple energy drink.",
-                "role": "ENERGY Tropical Sunrise"
             },
             "slemonade": {
                 "name": "Spiked (Lemonade)",
@@ -382,6 +392,16 @@
                 "name": "Green Label",
                 "description": "2017 - Green apple kiwi DEW sold 'til 2019.",
                 "role": "Green Label"
+            },
+            "hardbb": {
+                "name": "Hard Baja Blast",
+                "description": "2022 - Alcoholic tropical lime DEW.",
+                "role": "Hard Baja Blast"
+            },
+            "hardmd": {
+                "name": "Hard MTN DEW",
+                "description": "2022 - Alcoholic classic DEW.",
+                "role": "Hard MTN DEW"
             },
             "kslimeade": {
                 "name": "Kickstart (Limeade)",
@@ -478,11 +498,17 @@
                 "description": "2011 - Sugar-free Voltage. Lost a vote to Diet Supernova.",
                 "role": "Diet Voltage"
             },
+            "risepbb": {
+                "name": "ENERGY Pomegranate Blue Burst",
+                "description": "2021 - Blueberry pomegranate energy drink.",
+                "role": "ENERGY Pomegranate Blue Burst"
+            },
             "fbite": {
                 "name": "Frost Bite",
                 "description": "2020 - Walmart exclusive honeydew melon flavor.",
                 "role": "Frost Bite"
             },
+            
             "fbitezs": {
                 "name": "Frost Bite Zero Sugar",
                 "description": "2021 - Walmart-only, sugar-free honeydew melon flavor.",
@@ -508,6 +534,11 @@
                 "description": "2019 - New-generation GAME FUEL flavor.",
                 "role": "GAME FUEL (Charged Berry Blast)"
             },
+            "hardbb": {
+                "name": "Hard Baja Blast",
+                "description": "2022 - Alcoholic tropical lime DEW.",
+                "role": "Hard Baja Blast"
+            },
             "ksbp": {
                 "name": "Kickstart (Blueberry Pomegranate)",
                 "description": "2016 - discontinued in 2021.",
@@ -522,11 +553,6 @@
                 "name": "Revolution",
                 "description": "2008 - Wild berry flavor with ginseng from DEWmocracy.",
                 "role": "Revolution"
-            },
-            "risepbb": {
-                "name": "ENERGY Pomegranate Blue Burst",
-                "description": "2021 - Blueberry pomegranate energy drink.",
-                "role": "ENERGY Pomegranate Blue Burst"
             },
             "voltage": {
                 "name": "Voltage",
@@ -553,6 +579,11 @@
                 "description": "2009 - Sugar-free mixed berry flavor.",
                 "role": "Diet Ultra Violet"
             },
+            "risebb": {
+                "name": "ENERGY Berry Blitz",
+                "description": "2021 - Acai berry energy drink. Discontinued in 2021.",
+                "role": "ENERGY Berry Blitz"
+            },
             "gfeb": {
                 "name": "Game Fuel (Electrifying Berry)",
                 "description": "2013 - Berry (supposedly goji and strawberry) flavor.",
@@ -577,11 +608,6 @@
                 "name": "Pitch Black II",
                 "description": "2005 - The rehashed sequel of a drink. Pitch Black, but sour.",
                 "role": "Pitch Black II"
-            },
-            "risebb": {
-                "name": "ENERGY Berry Blitz",
-                "description": "2021 - Acai berry energy drink. Discontinued in 2021.",
-                "role": "ENERGY Berry Blitz"
             },
             "violet": {
                 "name": "Violet",
@@ -608,6 +634,11 @@
                 "description": "2011 - Sugar-free strawberry melon DEW.",
                 "role": "Diet Supernova"
             },
+            "risesms": {
+                "name": "ENERGY Strawberry Melon Spark",
+                "description": "2021 - Strawberry melon energy drink.",
+                "role": "ENERGY Strawberry Melon Spark"
+            },
             "gfcs": {
                 "name": "GAME FUEL (Courageous Sherbet)",
                 "description": "2021 - Online-only CouRageJD-themed GAME FUEL.",
@@ -633,6 +664,11 @@
                 "description": "2017 - Half-diet fountain DEW sold at gas stations.",
                 "role": "Goji Citrus Strawberry"
             },
+            "hardwm": {
+                "name": "Hard Watermelon",
+                "description": "2022 - Alcoholic watermelon DEW.",
+                "role": "Hard Watermelon"
+            },
             "ksrcitrus": {
                 "name": "Kickstart (Raspberry Citrus)",
                 "description": "2017 - discontinued in 2021.",
@@ -657,11 +693,6 @@
                 "name": "Major Melon Zero Sugar",
                 "description": "2021 - Sugar-free watermelon flavored DEW.",
                 "role": "Major Melon Zero Sugar"
-            },
-            "risesms": {
-                "name": "ENERGY Strawberry Melon Spark",
-                "description": "2021 - Strawberry melon energy drink.",
-                "role": "ENERGY Strawberry Melon Spark"
             },
             "spark": {
                 "name": "Spark",
