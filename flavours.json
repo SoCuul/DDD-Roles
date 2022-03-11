@@ -173,6 +173,11 @@
                 "description": "2021 - Spicy citrus DEW Store exclusive.",
                 "role": "Flamin' Hot"
             },
+            "fuzzysbrew": {
+                "name": "Fuzzy's Brew",
+                "description": "2022 - Citrus punch Casey's exclusive.",
+                "role": "Fuzzy's Brew"
+            },
             "gfmh": {
                 "name": "Game Fuel (Mango Heat)",
                 "description": "2016 - Spicy mango habañero flavor.",
