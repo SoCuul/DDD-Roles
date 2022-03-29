@@ -65,8 +65,8 @@ module.exports = async (client, i) => {
                                 value: 'pink',
                             },
                             {
-                                label: 'White/Clear',
-                                description: 'Select from a list of White or Clear Dews.',
+                                label: 'Other',
+                                description: 'Select from a list of White, Black, or Clear Dews.',
                                 value: 'whiteclear',
                             },
                         ]),
