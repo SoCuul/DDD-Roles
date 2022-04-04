@@ -99,22 +99,22 @@
     ],
     "monthly": [
         {
-            "name": "Team Original",
+            "name": "Team Legend",
             "emoji": "",
             "style": 1,
-            "role": "Team Original"
+            "role": "Team Legend"
         },
         {
-            "name": "Team Distortion",
+            "name": "Team Overdrive",
             "emoji": "",
             "style": 1,
-            "role": "Team Distortion"
+            "role": "Team Overdrive"
         },
         {
-            "name": "Team Thrashed",
+            "name": "Team Thunder",
             "emoji": "",
             "style": 1,
-            "role": "Team Thrashed"
+            "role": "Team Thunder"
         }
 
     ]
