@@ -694,6 +694,11 @@
                 "description": "2021 - Sugar-free watermelon flavored DEW.",
                 "role": "Major Melon Zero Sugar"
             },
+            "purplethunder": {
+                "name": "Purple Thunder",
+                "description": "2022 - Berry-plum Circle K exclusive.",
+                "role": "Purple Thunder"
+            },
             "spark": {
                 "name": "Spark",
                 "description": "2020 - Raspberry lemonade DEW.",
@@ -701,7 +706,7 @@
             },
             "sparkzs": {
                 "name": "Spark Zero Sugar",
-                "description": "2022- Sugar-free raspberry lemonade DEW.",
+                "description": "2022 - Sugar-free raspberry lemonade DEW.",
                 "role": "Spark Zero Sugar"
             },
             "srlemonade": {
