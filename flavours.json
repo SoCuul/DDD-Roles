@@ -609,6 +609,11 @@
                 "description": "2005 - The rehashed sequel of a drink. Pitch Black, but sour.",
                 "role": "Pitch Black II"
             },
+            "purplethunder": {
+                "name": "Purple Thunder",
+                "description": "2022 - Berry-plum Circle K exclusive.",
+                "role": "Purple Thunder"
+            },
             "violet": {
                 "name": "Violet",
                 "description": "2019 - Grape and elderberry flavored DEW.",
@@ -693,11 +698,6 @@
                 "name": "Major Melon Zero Sugar",
                 "description": "2021 - Sugar-free watermelon flavored DEW.",
                 "role": "Major Melon Zero Sugar"
-            },
-            "purplethunder": {
-                "name": "Purple Thunder",
-                "description": "2022 - Berry-plum Circle K exclusive.",
-                "role": "Purple Thunder"
             },
             "spark": {
                 "name": "Spark",
