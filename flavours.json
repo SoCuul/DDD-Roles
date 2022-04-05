@@ -66,11 +66,6 @@
                 "description": "2021 - Spicy citrus (?) DEW Store exclusive.",
                 "role": "Flamin' Hot"
             },
-            "fuzzysbrew": {
-                "name": "Fuzzy's Brew",
-                "description": "2022 - Citrus punch Casey's exclusive.",
-                "role": "Fuzzy's Brew"
-            },
             "gblast": {
                 "name": "Game Blast",
                 "description": "2015 - Citrus-cherry flavor from Sweden.",
@@ -115,6 +110,11 @@
                 "name": "Merry Mash-Up",
                 "description": "2018 - Cranberry pomegranate holiday DEW.",
                 "role": "Merry Mash-Up"
+            },
+            "fuzzysbrew": {
+                "name": "Overdrive",
+                "description": "2022 - Citrus punch Casey's exclusive.",
+                "role": "Overdrive"
             },
             "sblast": {
                 "name": "Sangrita Blast",
