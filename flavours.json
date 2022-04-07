@@ -76,6 +76,11 @@
                 "description": "2007 - Full-sugar formula, former yearly game tie-in.",
                 "role": "Game Fuel (Citrus Cherry)"
             },
+            "gfccc": {
+                "name": "GAME FUEL (Championship Citrus Cherry)",
+                "description": "2022 - Online-only Dr Disrespect-themed GAME FUEL.",
+                "role": "GAME FUEL (Championship Citrus Cherry)"
+            },
             "gfccb": {
                 "name": "GAME FUEL (Cherry Burst)",
                 "description": "2019 - New-GAME FUEL drink. No relation to Citrus Cherry.",
@@ -125,14 +130,14 @@
                 "name": "Solar Flare",
                 "description": "2014 - Tropical punch 7-Eleven fountain flavor.",
                 "role": "Solar Flare"
-            },
-            "sshock": {
-                "name": "Southern Shock",
-                "description": "2020 - Tropical punch DEW served at Bojangles.",
-                "role": "Southern Shock"
             }
         },
         "2": {
+             "sshock": {
+                "name": "Southern Shock",
+                "description": "2020 - Tropical punch DEW served at Bojangles.",
+                "role": "Southern Shock"
+            },
             "srlemonade": {
                 "name": "Spiked (Raspberry Lemonade)",
                 "description": "2017 - Short-lived DEW 'spiked' with prickly pear flavor.",
