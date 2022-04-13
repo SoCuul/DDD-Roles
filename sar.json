@@ -69,6 +69,12 @@
             "emoji": "",
             "style": 2,
             "role": "Weeb"
+        },
+        {
+            "name": "SnackBuster Insider",
+            "emoji": "",
+            "style": 2,
+            "role": "SnackBuster Insider"
         }
     ],
     "regional": [
