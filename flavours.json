@@ -125,14 +125,14 @@
                 "name": "Sangrita Blast",
                 "description": "2013 - Citrus punch fountain DEW formerly at Taco Bell.",
                 "role": "Sangrita Blast"
-            },
+            }
+        },
+        "2": {
             "sflare": {
                 "name": "Solar Flare",
                 "description": "2014 - Tropical punch 7-Eleven fountain flavor.",
                 "role": "Solar Flare"
-            }
-        },
-        "2": {
+            },
              "sshock": {
                 "name": "Southern Shock",
                 "description": "2020 - Tropical punch DEW served at Bojangles.",
