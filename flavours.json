@@ -564,6 +564,11 @@
                 "description": "2008 - Wild berry flavor with ginseng from DEWmocracy.",
                 "role": "Revolution"
             },
+            "thin_ice_freeze": {
+                "name": "Thin Ice Freeze",
+                "description": "2009 - Mixed berry flavor infused with Dragonfruit, Açaí, and Pomegranate flavors.",
+                "role": "Thin Ice Freeze"
+            },
             "voltage": {
                 "name": "Voltage",
                 "description": "2008 - DEWmocracy winner. Raspberry citrus w/ ginseng.",
