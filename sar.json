@@ -105,22 +105,22 @@
     ],
     "monthly": [
         {
-            "name": "Team Solar Flare",
+            "name": "Team Flare",
             "emoji": "",
             "style": 1,
-            "role": "Team Solar Flare"
+            "role": "Team Flare"
         },
         {
-            "name": "Team Southern Shock",
+            "name": "Team Shock",
             "emoji": "",
             "style": 1,
-            "role": "Team Southern Shock"
+            "role": "Team Shock"
         },
         {
-            "name": "Team Baja Punch",
+            "name": "Team Punch",
             "emoji": "",
             "style": 1,
-            "role": "Team Baja Punch"
+            "role": "Team Punch"
         }
 
     ]
