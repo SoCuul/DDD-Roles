@@ -158,6 +158,11 @@
 
     "orange": {
         "1": {
+            "bmgem": {
+                "name": "Baja Mango Gem",
+                "description": "2022 - Baja Blast-inspired mango flavor.",
+                "role": "Baja Mango Gem"
+            },
             "bpunch": {
                 "name": "Baja Punch",
                 "description": "2021 - Baja Blast-inspired tropical punch flavor.",
@@ -262,6 +267,11 @@
                 "name": "Baja Flash",
                 "description": "2021 - Baja Blast-inspired pineapple coconut flavor.",
                 "role": "Baja Flash"
+            },
+            "bgold": {
+                "name": "Baja Gold",
+                "description": "2022 - Baja Blast-inspired pineapple flavor.",
+                "role": "Baja Gold"
             },
             "risets": {
                 "name": "ENERGY Tropical Sunrise",
@@ -383,6 +393,11 @@
                 "description": "2014 - DEW mixed with green apple syrup served at Villa Pizza.",
                 "role": "Electric Apple"
             },
+            "risebaja": {
+                "name": "ENERGY Baja Blast",
+                "description": "Baja Blast-flavored energy drink.",
+                "role": "ENERGY Baja Blast"
+            },
             "gft": {
                 "name": "Game Fuel (Tropical)",
                 "description": "2011 - Lime? flavored DEW released for a limited time.",
@@ -452,12 +467,14 @@
                 "name": "Mountain Dew Zero Sugar",
                 "description": "2020 - Original DEW, with none of the sugar.",
                 "role": "Mountain Dew Zero Sugar"
-            },
+            }
+        },
+        "2": {
             "tapple": {
                 "name": "Thrashed Apple",
                 "description": "2021 - Green apple Kroger-exclusive DEW.",
                 "role": "Thrashed Apple"
-            } 
+            }
         }
     },
     
@@ -507,6 +524,11 @@
                 "name": "Diet Voltage",
                 "description": "2011 - Sugar-free Voltage. Lost a vote to Diet Supernova.",
                 "role": "Diet Voltage"
+            },
+            "risebaja": {
+                "name": "ENERGY Baja Blast",
+                "description": "Baja Blast-flavored energy drink.",
+                "role": "ENERGY Baja Blast"
             },
             "risepbb": {
                 "name": "ENERGY Pomegranate Blue Burst",
