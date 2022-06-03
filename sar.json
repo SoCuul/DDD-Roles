@@ -105,22 +105,22 @@
     ],
     "monthly": [
         {
-            "name": "Team Flare",
+            "name": "Team Gem",
             "emoji": "",
             "style": 1,
-            "role": "Team Flare"
+            "role": "Team Gem"
         },
         {
-            "name": "Team Shock",
+            "name": "Team Gold",
             "emoji": "",
             "style": 1,
-            "role": "Team Shock"
+            "role": "Team Gold"
         },
         {
-            "name": "Team Punch",
+            "name": "Team Energy",
             "emoji": "",
             "style": 1,
-            "role": "Team Punch"
+            "role": "Team Energy"
         }
 
     ]
