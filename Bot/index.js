@@ -1,122 +1,54 @@
-const fs = require('fs')
-const path = require('path')
-const axios = require('axios')
+//Modules
+import Discord from 'discord.js'
+import recursive from 'recursive-readdir'
+import 'dotenv/config'
 
-const Discord = require('discord.js')
+import * as log from './utils/log.js'
+import * as fetchConfigData from './utils/fetchConfigData.js'
+import * as config from './config.js'
+
+//Check for required variables
+if (!process.env.TOKEN) {
+    console.log(log.error('No token was found in ".env". Please enter one and try again.'))
+    process.exit(1)
+}
+
+//Create client
 const client = new Discord.Client({
-	intents: [
-        'GUILDS',  
-	    'GUILD_MESSAGES'
-	],
+    intents: config?.intents,
     allowedMentions: { repliedUser: false }
 })
+client.config = config
 
-//Attach to client
-client.config = require('./config.json')
-client.wait = ms => new Promise(resolve => setTimeout(resolve, ms));
-client.random = arr => arr[Math.floor(Math.random() * arr.length)]
-client.sendError = function (input) {
-    if(!input) return
-    
-    return new Discord.MessageEmbed()
-    .setColor('RED')
-    .setTitle('Error')
-    .setDescription(input)
-    .setFooter(client.user.username, client.user.displayAvatarURL({ dynamic: true }))
-}
+//Retrieve configuration files
+if (client.config.localConfig) await fetchConfigData.local(client)
+else await fetchConfigData.external(client)
 
-//Load env
-require('dotenv').config()
+console.log('')
 
 //Load events
-fs.readdir('./events/', (_err, files) => {
-    files.forEach(file => {
-        if (!file.endsWith('.js')) return;
-        
-        const event = require(`./events/${file}`);
-        let eventName = file.split('.')[0];
+import { loadEvents } from './utils/loadFiles.js'
+const eventsInfo = await recursive('./events/')
 
-        client.on(eventName, event.bind(null, client));
-        console.log(`Event loaded: ${eventName}`);
-    });
-});
-
-client.commands = new Discord.Collection();
+await loadEvents(eventsInfo, client, true)
 
 //Load commands
-fs.readdir('./commands/', async (_err, files) => {
-    files.forEach(file => {
-        if (!file.endsWith('.js')) return;
+client.commands = new Discord.Collection()
+const commandsInfo = await recursive('./commands/')
 
-        let props = require(`./commands/${file}`);
-        let commandName = file.split('.')[0];
+import { loadCommands } from './utils/loadFiles.js'
 
-        client.commands.set(commandName, props);
-        console.log(`Command loaded: ${commandName}`);
-    });
-});
-
-//Bot Informaation Files
-if (client.config.localMode) {
-    client.flavours = require(path.join(process.cwd(), '/../flavours.json'))
-    client.sar = require(path.join(process.cwd(), '/../sar.json'))
-    client.msgs = require(path.join(process.cwd(), '/../msgs.json'))
-}
-else {
-    //Download flavour list
-    axios.get('https://raw.githubusercontent.com/SoCuul/DDD-Roles/main/flavours.json')
-    .then(response => {
-        if (response && response.data) {
-            client.flavours = response.data
-        }
-        else {
-            console.log('[Error] Could not download flavour list. Try again in a little bit.')
-            process.exit(1)
-        }
-    })
-    .catch(() => {
-        console.log('[Error] Could not download flavour list. Try again in a little bit.')
-        process.exit(1)
-    })
-
-    //Download self assign roles list
-    axios.get('https://raw.githubusercontent.com/SoCuul/DDD-Roles/main/sar.json')
-    .then(response => {
-        if (response && response.data) {
-            client.sar = response.data
-        }
-        else {
-            console.log('[Error] Could not download self assign roles list. Try again in a little bit.')
-            process.exit(1)
-        }
-    })
-    .catch(() => {
-        console.log('[Error] Could not download self assign roles list. Try again in a little bit.')
-        process.exit(1)
-    })
-
-    //Download bot messages list
-    axios.get('https://raw.githubusercontent.com/SoCuul/DDD-Roles/main/msgs.json')
-    .then(response => {
-        if (response && response.data) {
-            client.msgs = response.data
-        }
-        else {
-            console.log('[Error] Could not download bot messages list. Try again in a little bit.')
-            process.exit(1)
-        }
-    })
-    .catch(() => {
-        console.log('[Error] Could not download bot messages list. Try again in a little bit.')
-        process.exit(1)
-    })
-}
+await loadCommands(client.commands, commandsInfo, true)
 
 //Client Login
+console.log('')
+
 try {
-    client.login(process.env.TOKEN)
+    await client.login(process.env.TOKEN)
 }
 catch (error) {
-    console.log('[Error] Could not login. Please make sure the token is valid.')
+    console.log(log.error('Could not login. Please make sure the token is valid.'))
+    console.log(error)
+
     process.exit(1)
 }

@@ -1,16 +1,28 @@
 {
   "name": "ddd-roles",
-  "version": "2.0.0",
-  "description": "Broctopus gaming",
+  "version": "3.0.0",
+  "description": "Broctopus gaming.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node .",
+    "deploy": "node deploy.js"
   },
+  "keywords": [
+    "discord",
+    "discord-bots",
+    "discord-js"
+  ],
   "author": "SoCuul",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.24.0",
-    "discord.js": "^13.3.1",
-    "dotenv": "^10.0.0"
+    "@discordjs/rest": "^0.4.1",
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "discord-api-types": "^0.33.2",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "lodash.chunk": "^4.2.0",
+    "recursive-readdir": "^2.2.2"
   }
 }
