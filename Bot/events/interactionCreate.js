@@ -1,6 +1,7 @@
 //Modules
 import { MessageEmbed } from 'discord.js'
 import { truncateString } from '../utils/misc.js'
+import * as log from '../utils/log.js'
 import * as dddRoleFuncs from '../utils/dddRoleFuncs.js'
 
 export const name = 'interactionCreate'
@@ -37,6 +38,9 @@ export const execute = async (client, i) => {
         await cmd.execute(client, i)
     }
     catch (error) {
+        console.log(log.error('Execution Error'))
+        console.log(error)
+
         //Send embed
         const embed = new MessageEmbed()
             .setColor('RED')

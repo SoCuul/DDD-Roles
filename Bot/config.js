@@ -26,5 +26,6 @@ export const localConfig = false
 //The intents the bot will use to connect to the gateway
 export const intents = [
     Intents.FLAGS.GUILDS,
-    Intents.FLAGS.GUILD_MEMBERS
+    Intents.FLAGS.GUILD_MEMBERS,
+    Intents.FLAGS.GUILD_MESSAGES
 ]
