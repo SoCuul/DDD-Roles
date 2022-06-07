@@ -21,7 +21,7 @@ export const staff = ["490559747473539099", "187399608249483265"]
 export const owners = ["490559747473539099"]
 
 //Where the bot will retrieve it's configuration files
-export const localConfig = true
+export const localConfig = false
 
 //The intents the bot will use to connect to the gateway
 export const intents = [
