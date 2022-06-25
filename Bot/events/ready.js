@@ -26,11 +26,11 @@ export const execute = async (client) => {
             console.log(log.error('Could not set status.'))
             console.log(error)
         }
-
-        //Set status again on next interval
-        setInterval(setStatus, client.config.presences.switchActivityInterval)
     }
 
     //Set first status
     await setStatus()
+
+    //Set status on intervals
+    await setInterval(setStatus, client.config.presences.switchActivityInterval)
 }
