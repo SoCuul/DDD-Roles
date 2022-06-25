@@ -1,8 +1,8 @@
 //Modules
 import { MessageEmbed, MessageActionRow, MessageButton } from 'discord.js'
 import chunk from 'lodash.chunk'
-import { truncateString, sendError } from '../utils/misc.js'
-import * as log from '../utils/log.js'
+import { truncateString, sendError } from '../../utils/misc.js'
+import * as log from '../../utils/log.js'
 
 export const info = {
     name: 'sendmsg',

@@ -13,7 +13,7 @@ export const external = async (client) => {
         const responses = await Promise.all([
             await axios.get('https://raw.githubusercontent.com/SoCuul/DDD-Roles/main/msgs.json'),
             await axios.get('https://raw.githubusercontent.com/SoCuul/DDD-Roles/main/flavours.json'),
-            await axios.get('https://raw.githubusercontent.com/SoCuul/DDD-Roles/main/sar.json')
+            await axios.get('https://raw.githubusercontent.com/SoCuul/DDD-Roles/main/sar.json'),
         ])
 
         //Retrieve response data

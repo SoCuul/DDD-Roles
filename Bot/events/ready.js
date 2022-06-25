@@ -5,13 +5,15 @@ import { random, wait } from '../utils/misc.js'
 
 export const name = 'ready'
 
+export const once = true
+
 export const execute = async (client) => {
     //Online message
     console.log(log.success(`${client.user.tag} is online.`))
     console.log(log.info(`${client.guilds.cache.size} servers`))
     console.log(log.info(`${client.guilds.cache.reduce((a, c) => a + c.memberCount, 0)} users`))
 
-    //Set first status
+    /* //Set first status
     try {
         await client.user.setPresence({
             activities: [
@@ -42,5 +44,5 @@ export const execute = async (client) => {
             console.log(log.error('Could not set status.'))
             console.log(error)
         }
-    }
+    } */
 }

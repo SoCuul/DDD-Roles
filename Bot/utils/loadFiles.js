@@ -37,9 +37,6 @@ export const loadCommands = async (map, commandsInfo, logActions) => {
     for (const cmdPath of commandsInfo) {
         const fileName = cmdPath?.split('/')?.slice(-1)[0] 
     
-        //Verify file type
-        if (!fileName.endsWith('.js')) break
-    
         try {
             //Get command info
             const cmdInfo = await import(`${process.cwd()}/${cmdPath}`)
@@ -81,7 +78,8 @@ export const loadEvents = async (eventsInfo, client, logActions) => {
             }
     
             //Load event onto client
-            client.on(eventInfo.name, (...args) => eventInfo.execute(client, ...args))
+            if (eventInfo.once) client.once(eventInfo.name, (...args) => eventInfo.execute(client, ...args))
+            else client.on(eventInfo.name, (...args) => eventInfo.execute(client, ...args))
 
             if (logActions) console.log(log.file(`Loaded event: ${eventInfo.name}`)) 
         }

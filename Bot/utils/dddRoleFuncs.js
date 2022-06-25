@@ -43,9 +43,9 @@ export const dewRole = async (client, i) => {
             value: 'pink',
         },
         {
-            label: 'White/Clear',
-            description: 'Select from a list of White or Clear Dews.',
-            value: 'whiteclear',
+            label: 'White/Other',
+            description: 'Select from a list of White or Other Dews.',
+            value: 'whiteother',
         }
     ]
 

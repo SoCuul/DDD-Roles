@@ -1,7 +1,7 @@
 //Modules
 import { MessageEmbed } from 'discord.js'
-import { sendError } from '../utils/misc.js'
-import { external } from '../utils/fetchConfigData.js'
+import { sendError } from '../../utils/misc.js'
+import { external } from '../../utils/fetchConfigData.js'
 
 export const info = {
     name: 'reloaddata',
