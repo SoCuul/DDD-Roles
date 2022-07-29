@@ -12,7 +12,7 @@ export const getCommandsInfo = async (commandsInfo) => {
     
         try {
             //Get command info
-            const cmdInfo = await import(`${process.cwd()}/${cmdPath}`)
+            const cmdInfo = await import(`file:///${process.cwd()}/${cmdPath}`)
     
             //Check for required data
             if (!cmdInfo?.info || !cmdInfo?.info.name || !cmdInfo?.info.description || !cmdInfo?.execute) {
@@ -39,7 +39,7 @@ export const loadCommands = async (map, commandsInfo, logActions) => {
     
         try {
             //Get command info
-            const cmdInfo = await import(`${process.cwd()}/${cmdPath}`)
+            const cmdInfo = await import(`file:///${process.cwd()}/${cmdPath}`)
     
             //Check for required data
             if (!cmdInfo?.info || !cmdInfo?.info.name || !cmdInfo?.execute) {
@@ -69,7 +69,7 @@ export const loadEvents = async (eventsInfo, client, logActions) => {
     
         try {
             //Get event info
-            const eventInfo = await import(`${process.cwd()}/${eventPath}`)
+            const eventInfo = await import(`file:///${process.cwd()}/${eventPath}`)
     
             //Check for required data
             if (!eventInfo?.name || !eventInfo?.execute) {

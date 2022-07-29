@@ -32,5 +32,5 @@ export const execute = async (client) => {
     await setStatus()
 
     //Set status on intervals
-    await setInterval(setStatus, client.config.presences.switchActivityInterval)
+    await setInterval(setStatus, client.config.presences(client).switchActivityInterval)
 }
