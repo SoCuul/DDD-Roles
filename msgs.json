@@ -28,19 +28,19 @@
         "aboutDescription": "This channel will allow you to select from a variety of optional roles. Please select only the ones that apply to you.\nClicking a role button will either give/remove the role to/from you, depending on if you already have it.",
 
         "section1Title": "Dew-Themed Roles",
-        "section1Description": "***Dew Insider*** will notify you about the latest DEW News as soon as it hits.\n***Market Insider*** will notify you about important changes made to #dew-market.\n\n• Dew Collector\n• Dew Mixologist\n• Dew Insider\n• Market Insider",
+        "section1Description": "*Dew Insider* will notify you about the latest DEW News as soon as it hits.\n*Market Insider* will notify you about important changes made to #dew-market.\n*Dew Collector* will let others know that you collect, and authorize you to post in #dew-collectors.\n*DEWsigner*, our artist/graphic designer role, will allow you to post images in #dewsigners.",
 
         "section2Title": "Pronoun Roles",
-        "section2Description": "• He/Him\n• She/Her\n• They/Them\n• Other (Ask for my pronouns!)",
+        "section2Description": "Choose one or multiple of these to let others know how they should refer to you!",
 
         "section3Title": "Miscellaneous Roles",
-        "section3Description": "***SnackBuster Insider*** will notify you about the latest DEW News as soon as it hits.\nThe other two roles will grant access to private LGBTQ+ and anime/manga discussion channels.\n\n• Gay Baby\n• Weeb",
+        "section3Description": "*SnackBuster Insider* will notify you about all drink releases and restocks in #snackbuster-shop.\n*MountySoder Insider* will notify you about important updates and changes made to the DDD Store.\nThe other two roles, *Gay Baby* and *Weeb*, will grant access to private LGBTQ+ and anime/manga discussion channels respectively.",
 
         "section4Title": "Regional Roles",
-        "section4Description": "• US\n• Canada\n• Europe\n• International (Other)",
+        "section4Description": "Choose one of these to let others know where you're from!",
 
         "section5Title": "Monthly Team Roles",
-        "section5Description": "*Baja Summer is finally here! Represent your favorite new Baja flavor with its respective team role.*\n*Team topic will refresh in early July.*\n• Team Gem (Baja Mango Gem, Mango Flavor)\n• Team Gold (Baja Gold, Pineapple Flavor)\n• Team Energy (ENERGY Baja Blast, Baja Blast Flavor)"
+        "section5Description": "*Represent your favorite DEW Store drop thus far with its respective team role.*\n*Team topic will refresh in early August.*\n• Team Cake (Cake Smash)\n• Team Flame (Flamin' Hot, 2021 Formula)\n• Team Typhoon (Typhoon, 2022 Formula)"
     },
 
     "randomMessages": [
@@ -53,6 +53,6 @@
         "Pitch black should replace major melon fr",
         "Oh snap'd, you made me drop my dew!",
         "Want some vibe with your meat balr?",
-        "Little Casears exclusive dew when?"
+        "Little Caesars exclusive dew when?"
     ]
 }

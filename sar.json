@@ -75,6 +75,12 @@
             "emoji": "",
             "style": 2,
             "role": "SnackBuster Insider"
+        },
+        {
+            "name": "MountySoder Insider",
+            "emoji": "",
+            "style": 2,
+            "role": "MountySoder Insider"
         }
     ],
     [
@@ -105,22 +111,22 @@
     ],
     [
         {
-            "name": "Team Gem",
+            "name": "Team Smash",
             "emoji": "",
             "style": 1,
-            "role": "Team Gem"
+            "role": "Team Smash"
         },
         {
-            "name": "Team Gold",
+            "name": "Team Flame",
             "emoji": "",
             "style": 1,
-            "role": "Team Gold"
+            "role": "Team Flame"
         },
         {
-            "name": "Team Energy",
+            "name": "Team Typhoon",
             "emoji": "",
             "style": 1,
-            "role": "Team Energy"
+            "role": "Team Typhoon"
         }
 
     ]
