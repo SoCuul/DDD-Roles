@@ -141,14 +141,9 @@
             "role": "Spiked (Raspberry Lemonade)"
         },
         {
-            "name": "Typhoon (2010)",
+            "name": "Typhoon",
             "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
-            "role": "Typhoon (2010)"
-        },
-        {
-            "name": "Typhoon (2022)",
-            "description": "2022 - Strawberry pineapple flavor from the DEW Store.",
-            "role": "Typhoon (2022)"
+            "role": "Typhoon"
         },
         {
             "name": "Uproar",
