@@ -184,11 +184,6 @@
             "role": "Flamin' Hot"
         },
         {
-            "name": "Fuzzy's Brew",
-            "description": "2022 - Citrus punch Casey's exclusive.",
-            "role": "Fuzzy's Brew"
-        },
-        {
             "name": "Game Fuel (Mango Heat)",
             "description": "2016 - Spicy mango habañero flavor.",
             "role": "Game Fuel (Mango Heat)"
@@ -237,6 +232,11 @@
             "name": "Mountain Dew A.M.",
             "description": "2012 - Tropicana and original DEW mixed at Taco Bell.",
             "role": "Mountain Dew A.M."
+        },
+        {
+            "name": "Overdrive",
+            "description": "2022 - Citrus punch Casey's exclusive.",
+            "role": "Overdrive"
         },
         {
             "name": "Passionfruit Frenzy",
