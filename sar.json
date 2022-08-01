@@ -59,6 +59,24 @@
     ],
     [
         {
+            "name": "SnackBuster Insider",
+            "emoji": "",
+            "style": 2,
+            "role": "SnackBuster Insider"
+        },
+        {
+            "name": "DDD Store Insider",
+            "emoji": "",
+            "style": 2,
+            "role": "DDD Store Insider"
+        },
+        {
+            "name": "Community Events",
+            "emoji": "",
+            "style": 2,
+            "role": "Community Events"
+        },
+        {
             "name": "Gay Baby",
             "emoji": "",
             "style": 2,
@@ -69,18 +87,6 @@
             "emoji": "",
             "style": 2,
             "role": "Weeb"
-        },
-        {
-            "name": "SnackBuster Insider",
-            "emoji": "",
-            "style": 2,
-            "role": "SnackBuster Insider"
-        },
-        {
-            "name": "MountySoder Insider",
-            "emoji": "",
-            "style": 2,
-            "role": "MountySoder Insider"
         }
     ],
     [
