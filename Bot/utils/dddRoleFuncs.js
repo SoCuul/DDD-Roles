@@ -1,5 +1,5 @@
 //Modules
-import { MessageEmbed, MessageActionRow, MessageSelectMenu, MessageButton } from 'discord.js'
+import { MessageEmbed, MessageActionRow, MessageSelectMenu } from 'discord.js'
 import chunk from 'lodash.chunk'
 import { truncateString } from '../utils/misc.js'
 import * as log from '../utils/log.js'
@@ -119,7 +119,7 @@ export const dewSelectedColour = async (client, i) => {
         //Format flavour menus
         const flavourMenus = []
 
-        for (const chunkedFlavourOptions of flavourOptions) {
+        for (const chunkedFlavourOptions in flavourOptions) {
             if (flavourMenus.length >= 5) break
 
             flavourMenus.push(
@@ -127,8 +127,8 @@ export const dewSelectedColour = async (client, i) => {
                     .addComponents(
                         new MessageSelectMenu()
                             .setCustomId(`dew_selected_flavour_${flavourMenus.length}`)
-                            .setPlaceholder(client.msgs.selectFlavour.selectPlaceholder)
-                            .addOptions(chunkedFlavourOptions)
+                            .setPlaceholder(client.msgs.selectFlavour.selectPlaceholder + ` (pg. ${Number(chunkedFlavourOptions) + 1})`)
+                            .addOptions(flavourOptions[chunkedFlavourOptions])
                     )
             )
         }

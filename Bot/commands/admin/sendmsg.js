@@ -17,7 +17,17 @@ export const info = {
         {
             type: '3',
             name: 'type',
-            description: 'The type of message you would like to send ("flavour", "sar")',
+            description: 'The type of message you would like to send',
+            choices: [
+                {
+                    name: 'Change Your Flavour',
+                    value: 'flavour'
+                },
+                {
+                    name: 'Self-Assign Roles',
+                    value: 'sar'
+                }
+            ],
             required: true
         }
     ]
