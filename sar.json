@@ -117,22 +117,22 @@
     ],
     [
         {
-            "name": "Team Smash",
+            "name": "Team Aurora",
             "emoji": "",
             "style": 1,
-            "role": "Team Smash"
+            "role": "Team Aurora"
         },
         {
-            "name": "Team Flame",
+            "name": "Team Golden",
             "emoji": "",
             "style": 1,
-            "role": "Team Flame"
+            "role": "Team Golden"
         },
         {
-            "name": "Team Typhoon",
+            "name": "Team Ginger",
             "emoji": "",
             "style": 1,
-            "role": "Team Typhoon"
+            "role": "Team Ginger"
         }
 
     ]
