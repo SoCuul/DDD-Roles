@@ -216,7 +216,7 @@
         {
             "name": "Kickstart (Strawberry Kiwi)",
             "description": "2015 - Featuring a 'hydrating boost'.",
-            "role": "Kickstart Hydrating Boost (Strawberry Kiwi)"
+            "role": "Kickstart (Strawberry Kiwi)"
         },
         {
             "name": "LiveWire",
@@ -350,6 +350,11 @@
             "role": "Baja Blast Zero Sugar"
         },
         {
+            "name": "Baja Deep Dive",
+            "description": "2022 - Mystery Baja flavor, giveaway-exclusive.",
+            "role": "Baja Deep Dive"
+        },
+        {
             "name": "Berry Monsoon",
             "description": "2018 - Berry lime DEW only at Sam's Club fountains.",
             "role": "Berry Monsoon"
@@ -425,14 +430,14 @@
             "role": "Kickstart (Limeade)"
         },
         {
-            "name": "Kickstart (Original Dew)",
+            "name": "Kickstart (Original DEW)",
             "description": "2018 - an 'energy drink' take on OG DEW.",
-            "role": "Kickstart (Original Dew)"
+            "role": "Kickstart (Original DEW)"
         },
         {
             "name": "Kickstart (Watermelon)",
             "description": "2016 - Hydrating boost? Puts the water in watermelon.",
-            "role": "Kickstart Hydrating Boost (Watermelon)"
+            "role": "Kickstart (Watermelon)"
         },
         {
             "name": "Mountain Dew",
@@ -481,6 +486,11 @@
             "name": "Baja Blast Zero Sugar",
             "description": "2019 - Same deal as above, without the sugar.",
             "role": "Baja Blast Zero Sugar"
+        },
+        {
+            "name": "Baja Deep Dive",
+            "description": "2022 - Mystery Baja flavor, giveaway-exclusive.",
+            "role": "Baja Deep Dive"
         },
         {
             "name": "Berry Monsoon",
@@ -560,7 +570,7 @@
         {
             "name": "Kickstart (Blueberry Pomegranate)",
             "description": "2016 - discontinued in 2021.",
-            "role": "Kickstart Recharge (Blueberry Pomegranate)"
+            "role": "Kickstart (Blueberry Pomegranate)"
         },
         {
             "name": "Liberty Brew",
@@ -580,6 +590,11 @@
     ],
 
     "purple": [
+        {
+            "name": "Baja Deep Dive",
+            "description": "2022 - Mystery Baja flavor, giveaway-exclusive.",
+            "role": "Baja Deep Dive"
+        },
         {
             "name": "Black Label",
             "description": "2016 - Refined dark berry DEW, discontinued in 2020.",
@@ -686,17 +701,17 @@
         {
             "name": "Kickstart (Raspberry Citrus)",
             "description": "2017 - discontinued in 2021.",
-            "role": "Kickstart Hydrating Boost (Raspberry Citrus)"
+            "role": "Kickstart (Raspberry Citrus)"
         },
         {
             "name": "Kickstart (Strawberry Kiwi)",
             "description": "2015 - discontinued in 2017.",
-            "role": "Kickstart Hydrating Boost (Strawberry Kiwi)"
+            "role": "Kickstart (Strawberry Kiwi)"
         },
         {
             "name": "Kickstart (Watermelon)",
             "description": "2016 - Hydrating boost? Puts the water in watermelon.",
-            "role": "Kickstart Hydrating Boost (Watermelon)"
+            "role": "Kickstart (Watermelon)"
         },
         {
             "name": "Major Melon",
