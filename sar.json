@@ -117,22 +117,22 @@
     ],
     [
         {
-            "name": "Team Aurora",
+            "name": "Team Raspberry",
             "emoji": "",
             "style": 1,
-            "role": "Team Aurora"
+            "role": "Team Raspberry"
         },
         {
-            "name": "Team Golden",
+            "name": "Team RaspBerry",
             "emoji": "",
             "style": 1,
-            "role": "Team Golden"
+            "role": "Team RaspBerry"
         },
         {
-            "name": "Team Ginger",
+            "name": "Team Rasp Berry",
             "emoji": "",
             "style": 1,
-            "role": "Team Ginger"
+            "role": "Team Rasp Berry"
         }
 
     ]
