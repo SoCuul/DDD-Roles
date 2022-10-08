@@ -6,7 +6,7 @@ export const name = 'messageCreate'
 export const execute = async (client, message) => {
     try {
         //Respond to pitch black msgs
-        if (message?.content?.toLowerCase()?.match(/tastes|taste like (pitch black)|pb/g)) {
+        if (message?.content?.toLowerCase()?.match('((tastes|taste) like ((pitch black)|pb))')) {
             await message.react('997376586800168990')
         }
 
