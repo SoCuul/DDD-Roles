@@ -17,7 +17,7 @@
         },
         {
             "name": "Berry Twister",
-            "description": "2020 - Strawberry watermelon(?) DEW from Circle K Canada. Discontinued in 2021.",
+            "description": "2020 - Strawberry watermelon DEW from Circle K Canada. Discontinued in 2021.",
             "role": "Berry Twister"
         },
         {
@@ -556,6 +556,11 @@
             "name": "Frost Bite Zero Sugar",
             "description": "2021 - Walmart-only, sugar-free honeydew melon flavor.",
             "role": "Frost Bite Zero Sugar"
+        },
+        {
+            "name": "Fruit Quake",
+            "description": "2022 - Fruitcake flavored holiday DEW.",
+            "role": "Fruit Quake"
         },
         {
             "name": "Game Fuel (Arctic Burst)",
