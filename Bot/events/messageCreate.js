@@ -1,5 +1,5 @@
 //Modules
-import { random } from '../utils/misc.js'
+import { random, truncateString } from '../utils/misc.js'
 
 export const name = 'messageCreate'
 
@@ -11,7 +11,16 @@ export const execute = async (client, message) => {
             if (!message?.content?.toLowerCase()?.startsWith('wtb') && !message?.content?.toLowerCase()?.startsWith('wtt') && !message?.content?.toLowerCase()?.startsWith('wts')) {
                 //Notify user
                 try {
-                    await message?.author?.send(`>>> Hey DEWd!\nTo post in a shop channel, your message must start with **WTS** (Sell), **WTB** (Buy) or **WTT** (Trade), depending on your intentions.\nFor more information, please visit: <#994699935603765318>`)
+                    await message?.author?.send(`
+>>> Hey DEWd!
+To post in a shop channel, your message must start with **WTS** (Sell), **WTB** (Buy) or **WTT** (Trade), depending on your intentions.
+For more information, please visit: <#994699935603765318>
+
+**Your message:**
+\`\`\`
+${message?.content ? truncateString(message.content, 1500) : 'No message sent'}
+\`\`\`
+                    `)
                 }
                 catch (e) {}
                 
