@@ -9,13 +9,13 @@ export const info = {
     description: 'Send a role prompt message.',
     options: [
         {
-            type: '7',
+            type: 7,
             name: 'channel',
             description: 'The channel you\'d like to send the message to',
             required: true,
         },
         {
-            type: '3',
+            type: 3,
             name: 'type',
             description: 'The type of message you would like to send',
             choices: [

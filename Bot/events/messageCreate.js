@@ -1,6 +1,9 @@
 //Modules
 import { random, truncateString } from '../utils/misc.js'
 
+//Message prefixes
+const shopPrefix = ['wtb', 'wtt', 'wts']
+
 export const name = 'messageCreate'
 
 export const execute = async (client, message) => {
@@ -8,7 +11,7 @@ export const execute = async (client, message) => {
         //Check if message is in a buy/trade/sell channel
         if (message?.channel?.name?.toLowerCase()?.includes('buy-trade-sell')) {
             //Check if message includes required prefix
-            if (!message?.content?.toLowerCase()?.startsWith('wtb') && !message?.content?.toLowerCase()?.startsWith('wtt') && !message?.content?.toLowerCase()?.startsWith('wts')) {
+            if (shopPrefix.every(prefix => !message?.content?.toLowerCase().startsWith(prefix))) {
                 //Notify user
                 try {
                     await message?.author?.send(`

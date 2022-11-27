@@ -9,7 +9,7 @@ export const info = {
     description: 'Evaluate JavaScript code (Owner only)',
     options: [
         {
-            type: '3',
+            type: 3,
             name: 'code',
             description: 'The JavaScript code to eval',
             required: true
