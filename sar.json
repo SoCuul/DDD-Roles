@@ -117,23 +117,22 @@
     ],
     [
         {
-            "name": "Team Dew Year",
+            "name": "Team Championship",
             "emoji": "",
             "style": 1,
-            "role": "Team Dew Year"
+            "role": "Team Championship"
         },
         {
-            "name": "Team Riddler",
+            "name": "Team Typhoon",
             "emoji": "",
             "style": 1,
-            "role": "Team Riddler"
+            "role": "Team Typhoon"
         },
         {
-            "name": "Team HoneyDEW",
+            "name": "Team Deep Dive",
             "emoji": "",
             "style": 1,
-            "role": "Team HoneyDEW"
+            "role": "Team Deep Dive"
         }
-
     ]
 ]
