@@ -117,22 +117,22 @@
     ],
     [
         {
-            "name": "Team Championship",
+            "name": "Team Mash-Up",
             "emoji": "",
             "style": 1,
-            "role": "Team Championship"
+            "role": "Team Mash-Up"
         },
         {
-            "name": "Team Typhoon",
+            "name": "Team Snap'd",
             "emoji": "",
             "style": 1,
-            "role": "Team Typhoon"
+            "role": "Team Snap'd"
         },
         {
-            "name": "Team Deep Dive",
+            "name": "Team Quake",
             "emoji": "",
             "style": 1,
-            "role": "Team Deep Dive"
+            "role": "Team Quake"
         }
     ]
 ]
