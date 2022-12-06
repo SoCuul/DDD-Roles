@@ -31,7 +31,7 @@ export const execute = async (client, i) => {
     
     try {
         const t0 = performance.now()
-        let evaled = await eval(`(async () => {\nreturn ${code}\n})();`)
+        let evaled = await eval(code)
         const t1 = performance.now()
 
         //Inspect eval
