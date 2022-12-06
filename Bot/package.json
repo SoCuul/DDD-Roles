@@ -1,6 +1,6 @@
 {
   "name": "ddd-roles",
-  "version": "3.8.1",
+  "version": "3.8.2",
   "description": "Broctopus gaming.",
   "type": "module",
   "main": "index.js",
