@@ -23,12 +23,15 @@ export const execute = async (client, i) => {
     //Check for owner perms
     if (!client.config.owners.includes(i?.user?.id)) return
 
+    //Defer reply
+    await i.deferReply()
+
     //Log action
     console.log(log.info(`Eval executed by ${i?.user?.tag}`))
     
     try {
         const t0 = performance.now()
-        let evaled = await eval(code)
+        let evaled = await eval(`(async () => {\n${code}\n})();`)
         const t1 = performance.now()
 
         //Inspect eval
@@ -43,12 +46,12 @@ export const execute = async (client, i) => {
             ${truncateString(evaled.toString(), 2030)}
             \`\`\`
         `)
-        .addField(`⏲️  Completed in`, `**${(t1 - t0).toFixed(4)}ms**`)
-        .addField(`⌨️  Type`, `\`${type}\``)
+        .addFields({ name: '⏲️  Completed in', value: `**${(t1 - t0).toFixed(4)}ms**` })
+        .addFields({ name:  '⌨️  Type', value: `\`${type}\`` })
         .setTimestamp()
 
         //Send response
-        await i.reply({
+        await i.editReply({
             embeds: [ embed ]
         })
     }
@@ -69,7 +72,7 @@ export const execute = async (client, i) => {
         .setTimestamp()
 
         //Send response
-        await i.reply({
+        await i.editReply({
             embeds: [ embed ]
         })
     }
