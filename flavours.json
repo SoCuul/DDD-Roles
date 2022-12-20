@@ -121,6 +121,11 @@
             "role": "Kickstart (Fruit Punch)"
         },
         {
+            "name": "Kickstart (Strawberry Start-Up)",
+            "description": "2023 - Strawberry lemonade energy drink. First Kickstart in 6 years!",
+            "role": "Kickstart (Strawberry Start-Up)"
+        },
+        {
             "name": "Merry Mash-Up",
             "description": "2018 - Cranberry pomegranate holiday DEW.",
             "role": "Merry Mash-Up"
@@ -212,6 +217,11 @@
             "name": "GAME FUEL ZERO (Courageous Sherbet)",
             "description": "2021 - Sugar-free, online-only CouRageJD GAME FUEL",
             "role": "GAME FUEL ZERO (Courageous Sherbet)"
+        },
+        {
+            "name": "Hard LiveWire",
+            "description": "2022 - Alcoholic orange DEW.",
+            "role": "Hard LiveWire"
         },
         {
             "name": "Jumpstart (Blood Orange)",
@@ -631,6 +641,11 @@
             "role": "ENERGY Berry Blitz"
         },
         {
+            "name": "ENERGY Pitch Black",
+            "description": "2023 - Dark fruit energy drink.",
+            "role": "ENERGY Pitch Black"
+        },
+        {
             "name": "Game Fuel (Electrifying Berry)",
             "description": "2013 - Berry (supposedly goji and strawberry) flavor.",
             "role": "Game Fuel (Electrifying Berry)"
@@ -649,6 +664,11 @@
             "name": "Pitch Black II",
             "description": "2005 - The rehashed sequel of a drink. Pitch Black, but sour.",
             "role": "Pitch Black II"
+        },
+        {
+            "name": "Pitch Black Zero Sugar",
+            "description": "2023 - Dark fruit DEW, now in zero sugar.",
+            "role": "Pitch Black Zero Sugar"
         },
         {
             "name": "Purple Thunder",
@@ -677,6 +697,11 @@
             "name": "Diet Supernova",
             "description": "2011 - Sugar-free strawberry melon DEW.",
             "role": "Diet Supernova"
+        },
+        {
+            "name": "ENERGY Major Melon",
+            "description": "2023 - Watermelon energy drink.",
+            "role": "ENERGY Major Melon"
         },
         {
             "name": "ENERGY Strawberry Melon Spark",
@@ -722,6 +747,11 @@
             "name": "Kickstart (Strawberry Kiwi)",
             "description": "2015 - discontinued in 2017.",
             "role": "Kickstart (Strawberry Kiwi)"
+        },
+        {
+            "name": "Kickstart (Strawberry Start-Up)",
+            "description": "2023 - Strawberry lemonade energy drink. First Kickstart in 6 years!",
+            "role": "Kickstart (Strawberry Start-Up)"
         },
         {
             "name": "Kickstart (Watermelon)",
@@ -782,6 +812,11 @@
             "role": "DEWshine"
         },
         {
+            "name": "ENERGY Pitch Black",
+            "description": "2023 - Dark fruit energy drink.",
+            "role": "ENERGY Pitch Black"
+        },
+        {
             "name": "Gingerbread Snap'd",
             "description": "2021 - Gingerbread cookie flavor.",
             "role": "Gingerbread Snap'd"
@@ -803,8 +838,13 @@
         },
         {
             "name": "Pitch Black",
-            "description": "2004 - Grape DEW re-released as 'dark fruit' in 2016.",
+            "description": "2004 - Dark fruit DEW re-released in 2016 and 2023.",
             "role": "Pitch Black"
+        },
+        {
+            "name": "Pitch Black Zero Sugar",
+            "description": "2023 - Dark fruit DEW, now in zero sugar.",
+            "role": "Pitch Black Zero Sugar"
         },
         {
             "name": "Pitch Black II",
