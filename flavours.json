@@ -23,7 +23,7 @@
         {
             "name": "Citrus Cherry",
             "description": "2016 - Half-diet DEW formerly under the Game Fuel brand.",
-            "role": "Citrus Cherry"
+            "role": "Game Fuel (Citrus Cherry)"
         },
         {
             "name": "Code Red",
@@ -38,7 +38,7 @@
         {
             "name": "Code Red (NZ)",
             "description": "2009 - Citrus-berry-cola flavor from New Zealand.",
-            "role": "Code Red (NZ)"
+            "role": "Code Red"
         },
         {
             "name": "Cyclone",
@@ -224,11 +224,6 @@
             "role": "Hard LiveWire"
         },
         {
-            "name": "Jumpstart (Blood Orange)",
-            "description": "2018 - Blood orange energy drink exclusive to Finland.",
-            "role": "Jumpstart (Blood Orange)"
-        },
-        {
             "name": "Kickstart (Blood Orange)",
             "description": "2016 - Blood orange DEW available 'til 2018.",
             "role": "Kickstart (Blood Orange)"
@@ -312,16 +307,6 @@
             "role": "GAME FUEL (Charged Tropical Strike)"
         },
         {
-            "name": "Johnson City Gold",
-            "description": "2012 - Limited-time malt-flavored DEW.",
-            "role": "Johnson City Gold"
-        },
-        {
-            "name": "Jumpstart (Citrus)",
-            "description": "2020 - Citrus energy drink exclusive to Finland.",
-            "role": "Jumpstart (Citrus)"
-        },
-        {
             "name": "Kickstart (Mango Lime)",
             "description": "2017 - discontinued in 2021.",
             "role": "Kickstart (Mango Lime)"
@@ -397,7 +382,7 @@
         {
             "name": "Citrus Blast",
             "description": "2010 - The European version of Mountain Dew.",
-            "role": "Citrus Blast"
+            "role": "Mountain Dew"
         },
         {
             "name": "Diet Mountain Dew",
@@ -868,13 +853,13 @@
         },
         {
             "name": "VooDEW (2022)",
-            "description": "2022 - Mystery flavor.",
+            "description": "2022 - 'Sour Candy' / SPK-esque flavor.",
             "role": "VooDEW (2022)"
         },
         {
             "name": "VooDEW (2022) Zero Sugar",
-            "description": "2022 - Sugar-free mystery flavor.",
-            "role": "VooDEW (2022) Zero Sugar"
+            "description": "2022 - Sugar-free 'sour candy' flavor.",
+            "role": "VooDEW (2022)"
         },
         {
             "name": "White Label",
