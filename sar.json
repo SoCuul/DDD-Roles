@@ -111,22 +111,22 @@
     ],
     [
         {
-            "name": "Team Mash-Up",
+            "name": "Team PB Energy",
             "emoji": "",
             "style": 1,
-            "role": "Team Mash-Up"
+            "role": "Team PB"
         },
         {
-            "name": "Team Snap'd",
+            "name": "Team Melon Energy",
             "emoji": "",
             "style": 1,
-            "role": "Team Snap'd"
+            "role": "Team Melon"
         },
         {
-            "name": "Team Quake",
+            "name": "Team Strawberry Start-Up",
             "emoji": "",
             "style": 1,
-            "role": "Team Quake"
+            "role": "Team Strawberry Start-Up"
         }
     ]
 ]
