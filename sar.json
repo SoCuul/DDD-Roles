@@ -114,19 +114,19 @@
             "name": "Team PB Energy",
             "emoji": "",
             "style": 1,
-            "role": "Team PB"
+            "role": "Team PB Energy"
         },
         {
-            "name": "Team Melon Energy",
+            "name": "Team MM Energy",
             "emoji": "",
             "style": 1,
-            "role": "Team Melon"
+            "role": "Team MM Energy"
         },
         {
-            "name": "Team Strawberry Start-Up",
+            "name": "Team Strawberry",
             "emoji": "",
             "style": 1,
-            "role": "Team Strawberry Start-Up"
+            "role": "Team Strawberry"
         }
     ]
 ]
