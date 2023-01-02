@@ -36,11 +36,6 @@
             "role": "Code Red Zero Sugar"
         },
         {
-            "name": "Code Red (NZ)",
-            "description": "2009 - Citrus-berry-cola flavor from New Zealand.",
-            "role": "Code Red"
-        },
-        {
             "name": "Cyclone",
             "description": "2019 - Citrus punch Speedway fountain flavor.",
             "role": "Cyclone"
@@ -380,11 +375,6 @@
             "role": "Berry Monsoon Zero Sugar"
         },
         {
-            "name": "Citrus Blast",
-            "description": "2010 - The European version of Mountain Dew.",
-            "role": "Mountain Dew"
-        },
-        {
             "name": "Diet Mountain Dew",
             "description": "1976 - Initially \"Sugar-Free\", renamed to Diet in 1984.",
             "role": "Diet Mountain Dew"
@@ -463,11 +453,6 @@
             "name": "Mountain Dew Caffeine-Free",
             "description": "1976 - Caffeine-free original DEW.",
             "role": "Mountain Dew Caffeine-Free"
-        },
-        {
-            "name": "Mountain Dew MDX",
-            "description": "2005 - Citrus energy drink in a bottle.",
-            "role": "Mountain Dew MDX"
         },
         {
             "name": "Mountain Dew Real Sugar",
@@ -854,11 +839,6 @@
         {
             "name": "VooDEW (2022)",
             "description": "2022 - 'Sour Candy' / SPK-esque flavor.",
-            "role": "VooDEW (2022)"
-        },
-        {
-            "name": "VooDEW (2022) Zero Sugar",
-            "description": "2022 - Sugar-free 'sour candy' flavor.",
             "role": "VooDEW (2022)"
         },
         {
