@@ -21,11 +21,6 @@
             "role": "Berry Twister"
         },
         {
-            "name": "Citrus Cherry",
-            "description": "2016 - Half-diet DEW formerly under the Game Fuel brand.",
-            "role": "Game Fuel (Citrus Cherry)"
-        },
-        {
             "name": "Code Red",
             "description": "2001 - The original, infamous cherry DEW.",
             "role": "Code Red"
@@ -69,11 +64,6 @@
             "name": "Fruit Quake",
             "description": "2022 - Fruitcake flavored holiday DEW.",
             "role": "Fruit Quake"
-        },
-        {
-            "name": "Game Blast",
-            "description": "2015 - Citrus-cherry flavor from Sweden.",
-            "role": "Game Blast"
         },
         {
             "name": "Game Fuel (Citrus Cherry)",
