@@ -111,22 +111,22 @@
     ],
     [
         {
-            "name": "Team PB Energy",
+            "name": "Team Spark",
             "emoji": "",
             "style": 1,
-            "role": "Team PB Energy"
+            "role": "Team Spark"
         },
         {
-            "name": "Team MM Energy",
+            "name": "Team Melon",
             "emoji": "",
             "style": 1,
-            "role": "Team MM Energy"
+            "role": "Team Melon"
         },
         {
-            "name": "Team Strawberry",
+            "name": "Team Goji",
             "emoji": "",
             "style": 1,
-            "role": "Team Strawberry"
+            "role": "Team Goji"
         }
     ]
 ]
