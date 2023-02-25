@@ -578,6 +578,16 @@
             "role": "Revolution"
         },
         {
+            "name": "Summer Freeze",
+            "description": "2023 - Rocket pop / bomb pop flavor.",
+            "role": "Summer Freeze"
+        },
+        {
+            "name": "Summer Freeze Zero Sugar",
+            "description": "2023 - Sugar-free rocket pop / bomb pop flavor.",
+            "role": "Summer Freeze Zero Sugar"
+        },
+        {
             "name": "Voltage",
             "description": "2008 - DEWmocracy winner. Raspberry citrus w/ ginseng.",
             "role": "Voltage"
