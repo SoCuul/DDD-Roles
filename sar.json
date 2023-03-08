@@ -111,22 +111,22 @@
     ],
     [
         {
-            "name": "Team Spark",
+            "name": "Team Kickstart OG Dew",
             "emoji": "",
             "style": 1,
-            "role": "Team Spark"
+            "role": "Team Kickstart"
         },
         {
-            "name": "Team Melon",
+            "name": "Team Game Fuel OG Dew",
             "emoji": "",
             "style": 1,
-            "role": "Team Melon"
+            "role": "Team Game Fuel"
         },
         {
-            "name": "Team Goji",
+            "name": "Team Amp Original",
             "emoji": "",
             "style": 1,
-            "role": "Team Goji"
+            "role": "Team Amp"
         }
     ]
 ]
