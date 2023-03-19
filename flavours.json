@@ -16,11 +16,6 @@
             "role": "AMP (Tropical Punch)"
         },
         {
-            "name": "Berry Twister",
-            "description": "2020 - Strawberry watermelon DEW from Circle K Canada. Discontinued in 2021.",
-            "role": "Berry Twister"
-        },
-        {
             "name": "Code Red",
             "description": "2001 - The original, infamous cherry DEW.",
             "role": "Code Red"
@@ -385,11 +380,6 @@
             "role": "Distortion"
         },
         {
-            "name": "Electric Apple",
-            "description": "2014 - DEW mixed with green apple syrup served at Villa Pizza.",
-            "role": "Electric Apple"
-        },
-        {
             "name": "ENERGY Baja Blast",
             "description": "Baja Blast-flavored energy drink.",
             "role": "ENERGY Baja Blast"
@@ -511,11 +501,6 @@
             "name": "Dark Berry Bash",
             "description": "2021 - Blue-razz/blackberry flavor at Applebee's fountains.",
             "role": "Dark Berry Bash"
-        },
-        {
-            "name": "Diet Voltage",
-            "description": "2011 - Sugar-free Voltage. Lost a vote to Diet Supernova.",
-            "role": "Diet Voltage"
         },
         {
             "name": "ENERGY Baja Blast",
@@ -662,16 +647,6 @@
             "name": "AMP (Strawberry Limeade)",
             "description": "2015 - AMP flavor regionally available 'til 2021.",
             "role": "AMP (Strawberry Limeade)"
-        },
-        {
-            "name": "Berry Twister",
-            "description": "2020 - Strawberry watermelon(?) DEW from Circle K Canada.",
-            "role": "Berry Twister"
-        },
-        {
-            "name": "Diet Supernova",
-            "description": "2011 - Sugar-free strawberry melon DEW.",
-            "role": "Diet Supernova"
         },
         {
             "name": "ENERGY Major Melon",
