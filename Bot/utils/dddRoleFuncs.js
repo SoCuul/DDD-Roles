@@ -205,7 +205,7 @@ export const dewSelectedFlavour = async (client, i) => {
                     .setDescription(errors.length ? `There was an error.\nYou may or may not have received the **${truncateString(roleName, 50)}** role.` : `You have received the **${i.values[0]}** role.`)
                     .setTimestamp()
 
-                if(errors.length) embed.addField('Errors', errors.join('\n'))
+                if(errors.length) embed.addFields({ name: 'Errors', value: errors.join('\n') })
 
                 await i.update({
                     embeds: [ embed ],

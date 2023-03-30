@@ -112,12 +112,12 @@ export const execute = async (client, i) => {
                 const embed = new MessageEmbed()
                     .setColor('GREEN')
                     .setTitle('Assign Your Own Roles')
-                    .addField(client.msgs.selfAssignRoles.aboutTitle, client.msgs.selfAssignRoles.aboutDescription)
-                    .addField(client.msgs.selfAssignRoles.section1Title, client.msgs.selfAssignRoles.section1Description)
-                    .addField(client.msgs.selfAssignRoles.section2Title, client.msgs.selfAssignRoles.section2Description)
-                    .addField(client.msgs.selfAssignRoles.section3Title, client.msgs.selfAssignRoles.section3Description)
-                    .addField(client.msgs.selfAssignRoles.section4Title, client.msgs.selfAssignRoles.section4Description)
-                    .addField(client.msgs.selfAssignRoles.section5Title, client.msgs.selfAssignRoles.section5Description)
+                    .addFields({ name: client.msgs.selfAssignRoles.aboutTitle, value: client.msgs.selfAssignRoles.aboutDescription })
+                    .addFields({ name: client.msgs.selfAssignRoles.section1Title, value: client.msgs.selfAssignRoles.section1Description })
+                    .addFields({ name: client.msgs.selfAssignRoles.section2Title, value: client.msgs.selfAssignRoles.section2Description })
+                    .addFields({ name: client.msgs.selfAssignRoles.section3Title, value: client.msgs.selfAssignRoles.section3Description })
+                    .addFields({ name: client.msgs.selfAssignRoles.section4Title, value: client.msgs.selfAssignRoles.section4Description })
+                    .addFields({ name: client.msgs.selfAssignRoles.section5Title, value: client.msgs.selfAssignRoles.section5Description })
 
                 
                 //Prepare button lists
