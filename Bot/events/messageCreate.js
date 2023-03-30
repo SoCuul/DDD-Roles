@@ -37,11 +37,6 @@ ${message?.content ? truncateString(message.content, 1500) : 'No message sent'}
             }
         }
 
-        //Respond to pitch black msgs
-        if (message?.content?.toLowerCase()?.match('((tastes|taste|tasted) like ((pitch black)|pb|(mtn dew pitch black)|(mtn dew pb)|(mountain dew pitch black)|(mountain dew pb)))')) {
-            await message.react('997376586800168990')
-        }
-
         //Respond on ping
         if (message.mentions.users.first()?.id === client.user.id) {
             await message.channel.send(

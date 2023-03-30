@@ -34,13 +34,13 @@
         "section2Description": "Choose one or multiple of these to let others know how they should refer to you!",
 
         "section3Title": "Miscellaneous Roles",
-        "section3Description": "*SnackBuster Insider* will notify you about all drink releases and restocks in #snackbuster-shop.\n*DDD Store Insider* will notify you about important updates and changes made to the DDD Store.\n*Community Events* will ping you when a community engagement event happens (e.g. a giveaway, or Team Supernova goes live to play Jackbox with watchers.)\nThe other two roles, *Gay Baby* and *Weeb*, will grant access to private LGBTQ+ and anime/manga discussion channels respectively.",
+        "section3Description": "*DDD Merch Insider* will notify you about important updates and changes made to DDD Merch.\n*Community Events* will ping you when a community engagement event happens (e.g. a giveaway, or Team Supernova goes live to play Jackbox with watchers.)\nThe other two roles, *Gay Baby* and *Weeb*, will grant access to private LGBTQ+ and anime/manga discussion channels respectively.",
 
         "section4Title": "Regional Roles",
         "section4Description": "Choose one of these to let others know where you're from!",
 
         "section5Title": "Monthly Team Roles",
-        "section5Description": "* Happy New Year! Represent the upcoming spinoff flavor you're most excited for with its respective team role.*\n*Team topic will refresh in early February.*\n• Team PB Energy (ENERGY Pitch Black)\n• Team MM Energy (ENERGY Major Melon)\n• Team Strawberry (Kickstart Strawberry Start-Up)"
+        "section5Description": "*It's the luck month! Represent your favorite of these citrus-inspired green flavors with its respective team role.*\n*Team topic will refresh in early April.*\n• Team Kickstart Original DEW\n• Team GAME FUEL Original DEW\n• Team MTN DEW AMP"
     },
 
     "randomMessages": [
@@ -53,6 +53,10 @@
         "Pitch black should replace major melon fr",
         "Oh snap'd, you made me drop my dew!",
         "Want some vibe with your meat balr?",
-        "Little Caesars exclusive dew when?"
+        "Little Caesars exclusive dew when?",
+        "It can't be a coincidance that pitch black tastes like purple thunder",
+        "I could beat Bro Crab in a fight",
+        "meat balr",
+        "bitch plack"
     ]
 }

@@ -16,11 +16,6 @@
             "role": "AMP (Tropical Punch)"
         },
         {
-            "name": "Berry Twister",
-            "description": "2020 - Strawberry watermelon DEW from Circle K Canada. Discontinued in 2021.",
-            "role": "Berry Twister"
-        },
-        {
             "name": "Code Red",
             "description": "2001 - The original, infamous cherry DEW.",
             "role": "Code Red"
@@ -51,9 +46,9 @@
             "role": "ENERGY Code Red"
         },
         {
-            "name": "ENERGY Strawberry Melon Spark",
+            "name": "ENERGY Strawberry Melon Sharp",
             "description": "2021 - Strawberry-melon energy drink.",
-            "role": "ENERGY Strawberry Melon Spark"
+            "role": "ENERGY Strawberry Melon Sharp"
         },
         {
             "name": "Flamin' Hot",
@@ -277,6 +272,11 @@
             "role": "ENERGY Tropical Sunrise"
         },
         {
+            "name": "Funyuns",
+            "description": "Funyuns Funyuns Funyuns Funyuns Funyuns Funyuns",
+            "role": "Funyuns"
+        },
+        {
             "name": "Game Fuel (Lemonade)",
             "description": "2014 - Limited-time lemonade Game Fuel.",
             "role": "Game Fuel (Lemonade)"
@@ -378,11 +378,6 @@
             "name": "Distortion",
             "description": "2010 - DEWmocracy II participant, lime flavored DEW.",
             "role": "Distortion"
-        },
-        {
-            "name": "Electric Apple",
-            "description": "2014 - DEW mixed with green apple syrup served at Villa Pizza.",
-            "role": "Electric Apple"
         },
         {
             "name": "ENERGY Baja Blast",
@@ -508,11 +503,6 @@
             "role": "Dark Berry Bash"
         },
         {
-            "name": "Diet Voltage",
-            "description": "2011 - Sugar-free Voltage. Lost a vote to Diet Supernova.",
-            "role": "Diet Voltage"
-        },
-        {
             "name": "ENERGY Baja Blast",
             "description": "Baja Blast-flavored energy drink.",
             "role": "ENERGY Baja Blast"
@@ -571,6 +561,16 @@
             "name": "Revolution",
             "description": "2008 - Wild berry flavor with ginseng from DEWmocracy.",
             "role": "Revolution"
+        },
+        {
+            "name": "Summer Freeze",
+            "description": "2023 - Rocket pop / bomb pop flavor.",
+            "role": "Summer Freeze"
+        },
+        {
+            "name": "Summer Freeze Zero Sugar",
+            "description": "2023 - Sugar-free rocket pop / bomb pop flavor.",
+            "role": "Summer Freeze Zero Sugar"
         },
         {
             "name": "Voltage",
@@ -649,24 +649,14 @@
             "role": "AMP (Strawberry Limeade)"
         },
         {
-            "name": "Berry Twister",
-            "description": "2020 - Strawberry watermelon(?) DEW from Circle K Canada.",
-            "role": "Berry Twister"
-        },
-        {
-            "name": "Diet Supernova",
-            "description": "2011 - Sugar-free strawberry melon DEW.",
-            "role": "Diet Supernova"
-        },
-        {
             "name": "ENERGY Major Melon",
             "description": "2023 - Watermelon energy drink.",
             "role": "ENERGY Major Melon"
         },
         {
-            "name": "ENERGY Strawberry Melon Spark",
-            "description": "2021 - Strawberry melon energy drink.",
-            "role": "ENERGY Strawberry Melon Spark"
+            "name": "ENERGY Strawberry Melon Sharp",
+            "description": "2021 - Strawberry-melon energy drink.",
+            "role": "ENERGY Strawberry Melon Sharp"
         },
         {
             "name": "GAME FUEL (Courageous Sherbet)",
