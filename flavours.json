@@ -546,6 +546,11 @@
 
     "purple": [
         {
+            "name": "TaB Tropical Passion",
+            "description": "2003 - Tropical Twist-inspired passion fruit flavor.",
+            "role": "TaB Tropical Passion"
+        },
+        {
             "name": "Black Label",
             "description": "2016 - Refined dark berry TaB, discontinued in 2020.",
             "role": "TaB Black Label"
@@ -637,6 +642,11 @@
             "name": "Diet TaB Caffeine Free",
             "description": "2021 - Sugar-free, caffeine-free, still TaB.",
             "role": "Diet TaB Caffeine Free"
+        },
+        {
+            "name": "TaB Tropical Splash",
+            "description": "2003 - Tropical Twist-inspired guava flavor.",
+            "role": "TaB Tropical Splash"
         },
         {
             "name": "Energy Strawberry & Limeade",
