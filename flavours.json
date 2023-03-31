@@ -581,6 +581,11 @@
             "role": "Black Label"
         },
         {
+            "name": "Baja Passionfruit Punch",
+            "description": "2023 - Baja Blast-inspired passionfruit flavor.",
+            "role": "Baja Passionfruit Punch"
+        },
+        {
             "name": "DEW-S-A",
             "description": "2017 - Collision of Code Red, White Out, and Voltage.",
             "role": "DEW-S-A"
@@ -642,6 +647,11 @@
             "name": "AMP (Strawberry Limeade)",
             "description": "2015 - AMP flavor regionally available 'til 2021.",
             "role": "AMP (Strawberry Limeade)"
+        },
+        {
+            "name": "Baja Caribbean Splash",
+            "description": "2023 - Baja Blast-inspired guava flavor.",
+            "role": "Baja Caribbean Splash"
         },
         {
             "name": "ENERGY Major Melon",
