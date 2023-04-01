@@ -46,7 +46,7 @@ export const execute = async (client, i) => {
             .setColor('RED')
             .setTitle('Execution Error')
             .setDescription('There was an error running the command.')
-            .addField('Error', truncateString(error.toString(), 1021))
+            .addFields({ name: 'Error', value: truncateString(error.toString(), 1021) })
             .setTimestamp()
 
         return await i.channel.send({

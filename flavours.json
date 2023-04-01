@@ -335,6 +335,11 @@
             "role": "TaB Energy Citrus"
         },
         {
+            "name": "AMP (Original)",
+            "description": "2001 - The original Mountain Dew energy drink.",
+            "role": "AMP (Original)"
+        },
+        {
             "name": "Tropical Twist",
             "description": "1984 - The Pup 'n' Taco drink. Tropical lime flavor.",
             "role": "TaB Tropical Twist"
