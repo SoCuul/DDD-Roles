@@ -52,7 +52,7 @@
         },
         {
             "name": "Flamin' Hot",
-            "description": "2021 - Spicy citrus (?) DEW Store exclusive.",
+            "description": "2021 - Spicy citrus DEW.",
             "role": "Flamin' Hot"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
             "name": "Game Fuel (Citrus Cherry)",
-            "description": "2007 - Full-sugar formula, former yearly game tie-in.",
+            "description": "2007 - Former yearly game tie-in.",
             "role": "Game Fuel (Citrus Cherry)"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "name": "Kickstart (Black Cherry)",
-            "description": "2014 - Black cherry 'energy drink'.",
+            "description": "2014 - Black cherry morning soda.",
             "role": "Kickstart (Black Cherry)"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
             "name": "Kickstart (Strawberry Start-Up)",
-            "description": "2023 - Strawberry lemonade energy drink. First Kickstart in 6 years!",
+            "description": "2023 - Strawberry lemon Kickstart, first one in 6 years!",
             "role": "Kickstart (Strawberry Start-Up)"
         },
         {
@@ -160,7 +160,7 @@
         },
         {
             "name": "ENERGY Orange Breeze",
-            "description": "2021 - Orange and (supposedly) grapefruit energy drink.",
+            "description": "2021 - Orange-grapefruit energy drink.",
             "role": "ENERGY Orange Breeze"
         },
         {
@@ -170,18 +170,13 @@
         },
         {
             "name": "Flamin' Hot",
-            "description": "2021 - Spicy citrus DEW Store exclusive.",
+            "description": "2021 - Spicy citrus DEW.",
             "role": "Flamin' Hot"
         },
         {
             "name": "Game Fuel (Mango Heat)",
             "description": "2016 - Spicy mango habañero flavor.",
             "role": "Game Fuel (Mango Heat)"
-        },
-        {
-            "name": "Game Fuel (Raspberry-Citrus)",
-            "description": "2012 - United Kingdom exclusive raspberry DEW.",
-            "role": "Game Fuel (Raspberry-Citrus)"
         },
         {
             "name": "GAME FUEL (Orange Storm)",
@@ -245,12 +240,12 @@
         },
         {
             "name": "Sweet Lightning",
-            "description": "2019 - Peach/honey flavor exclusive to KFC fountains.",
+            "description": "2019 - Peach-honey flavor exclusive to KFC fountains.",
             "role": "Sweet Lightning"
         },
         {
             "name": "Typhoon",
-            "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
+            "description": "2010 - Strawberry-pineapple flavor from DEWmocracy II.",
             "role": "Typhoon"
         }
     ],
@@ -268,12 +263,12 @@
         },
         {
             "name": "ENERGY Tropical Sunrise",
-            "description": "2021 - Tropical pineapple energy drink.",
+            "description": "2021 - Pineapple-guava energy drink.",
             "role": "ENERGY Tropical Sunrise"
         },
         {
             "name": "Funyuns",
-            "description": "Funyuns Funyuns Funyuns Funyuns Funyuns Funyuns",
+            "description": "1969 - Funyuns Funyuns Funyuns Funyuns Funyuns",
             "role": "Funyuns"
         },
         {
@@ -336,7 +331,7 @@
     "green": [
         {
             "name": "AMP (Original)",
-            "description": "2001 - Citrus-flavored AMP energy drink.",
+            "description": "2001 - The original Mountain Dew energy drink.",
             "role": "AMP (Original)"
         },
         {
@@ -381,7 +376,7 @@
         },
         {
             "name": "ENERGY Baja Blast",
-            "description": "Baja Blast-flavored energy drink.",
+            "description": "2022 - Baja Blast-flavored energy drink.",
             "role": "ENERGY Baja Blast"
         },
         {
@@ -421,7 +416,7 @@
         },
         {
             "name": "Kickstart (Original DEW)",
-            "description": "2018 - an 'energy drink' take on OG DEW.",
+            "description": "2018 - Take in the morning DEW. (Literally)",
             "role": "Kickstart (Original DEW)"
         },
         {
@@ -504,22 +499,22 @@
         },
         {
             "name": "ENERGY Baja Blast",
-            "description": "Baja Blast-flavored energy drink.",
+            "description": "2022 - Baja Blast-flavored energy drink.",
             "role": "ENERGY Baja Blast"
         },
         {
             "name": "ENERGY Pomegranate Blue Burst",
-            "description": "2021 - Blueberry pomegranate energy drink.",
+            "description": "2021 - Blueberry-pomegranate energy drink.",
             "role": "ENERGY Pomegranate Blue Burst"
         },
         {
             "name": "Frost Bite",
-            "description": "2020 - Walmart exclusive honeydew melon flavor.",
+            "description": "2020 - Walmart exclusive cool melon flavor.",
             "role": "Frost Bite"
         },
         {
             "name": "Frost Bite Zero Sugar",
-            "description": "2021 - Walmart-only, sugar-free honeydew melon flavor.",
+            "description": "2021 - Walmart-only, sugar-free cool melon flavor.",
             "role": "Frost Bite Zero Sugar"
         },
         {
@@ -586,6 +581,11 @@
             "role": "Black Label"
         },
         {
+            "name": "Baja Passionfruit Punch",
+            "description": "2023 - Baja Blast-inspired passionfruit flavor.",
+            "role": "Baja Passionfruit Punch"
+        },
+        {
             "name": "DEW-S-A",
             "description": "2017 - Collision of Code Red, White Out, and Voltage.",
             "role": "DEW-S-A"
@@ -602,7 +602,7 @@
         },
         {
             "name": "ENERGY Pitch Black",
-            "description": "2023 - Dark fruit energy drink.",
+            "description": "2023 - Dark citrus punch energy drink.",
             "role": "ENERGY Pitch Black"
         },
         {
@@ -617,7 +617,7 @@
         },
         {
             "name": "Pitch Black",
-            "description": "2004 - Grape DEW re-released as 'dark fruit' in 2016.",
+            "description": "2004 - The beloved grape/dark citrus punch DEW.",
             "role": "Pitch Black"
         },
         {
@@ -627,7 +627,7 @@
         },
         {
             "name": "Pitch Black Zero Sugar",
-            "description": "2023 - Dark fruit DEW, now in zero sugar.",
+            "description": "2023 - Dark citrus punch DEW, now in zero sugar.",
             "role": "Pitch Black Zero Sugar"
         },
         {
@@ -637,7 +637,7 @@
         },
         {
             "name": "Violet",
-            "description": "2019 - Grape and elderberry flavored DEW.",
+            "description": "2019 - Grape and elderberry flavored Japanese DEW.",
             "role": "Violet"
         }
     ],
@@ -647,6 +647,11 @@
             "name": "AMP (Strawberry Limeade)",
             "description": "2015 - AMP flavor regionally available 'til 2021.",
             "role": "AMP (Strawberry Limeade)"
+        },
+        {
+            "name": "Baja Caribbean Splash",
+            "description": "2023 - Baja Blast-inspired guava flavor.",
+            "role": "Baja Caribbean Splash"
         },
         {
             "name": "ENERGY Major Melon",
@@ -700,7 +705,7 @@
         },
         {
             "name": "Kickstart (Strawberry Start-Up)",
-            "description": "2023 - Strawberry lemonade energy drink. First Kickstart in 6 years!",
+            "description": "Strawberry lemon Kickstart, first one in 6 years!",
             "role": "Kickstart (Strawberry Start-Up)"
         },
         {
@@ -763,7 +768,7 @@
         },
         {
             "name": "ENERGY Pitch Black",
-            "description": "2023 - Dark fruit energy drink.",
+            "description": "2023 - Dark citrus punch energy drink.",
             "role": "ENERGY Pitch Black"
         },
         {
@@ -773,7 +778,7 @@
         },
         {
             "name": "ICE",
-            "description": "2018 - Sprite, now with caffeine!",
+            "description": "2018 - Mountain Dew's take on lemon-lime soda.",
             "role": "ICE"
         },
         {
@@ -788,18 +793,18 @@
         },
         {
             "name": "Pitch Black",
-            "description": "2004 - Dark fruit DEW re-released in 2016 and 2023.",
+            "description": "2004 - The beloved grape/dark citrus punch DEW.",
             "role": "Pitch Black"
-        },
-        {
-            "name": "Pitch Black Zero Sugar",
-            "description": "2023 - Dark fruit DEW, now in zero sugar.",
-            "role": "Pitch Black Zero Sugar"
         },
         {
             "name": "Pitch Black II",
             "description": "2005 - The rehashed sequel of a drink. Pitch Black, but sour.",
             "role": "Pitch Black II"
+        },
+        {
+            "name": "Pitch Black Zero Sugar",
+            "description": "2023 - Dark citrus punch DEW, now in zero sugar.",
+            "role": "Pitch Black Zero Sugar"
         },
         {
             "name": "VooDEW (2019)",
