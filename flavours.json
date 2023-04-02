@@ -1,865 +1,835 @@
 {
     "red": [
         {
-            "name": "Energy Sour Cherry",
-            "description": "1995 - TaB Energy with sour cherry. Regional.",
-            "role": "TaB Energy Sour Cherry"
+            "name": "AMP (Cherry Blast)",
+            "description": "2015 - Half-diet AMP flavor. Regional.",
+            "role": "AMP (Cherry Blast)"
         },
         {
-            "name": "Energy Strawberry & Limeade",
-            "description": "1995 - TaB flavor regionally available 'til 2001.",
-            "role": "TaB Energy Strawberry & Limeade"
+            "name": "AMP (Strawberry Limeade)",
+            "description": "2015 - AMP flavor regionally available 'til 2021.",
+            "role": "AMP (Strawberry Limeade)"
         },
         {
-            "name": "Energy Tropical Punch",
-            "description": "1996 - TaB flavor regionally available 'til 1998.",
-            "role": "TaB Energy Tropical Punch"
+            "name": "AMP (Tropical Punch)",
+            "description": "2016 - AMP flavor regionally available 'til 2018.",
+            "role": "AMP (Tropical Punch)"
         },
         {
-            "name": "Cherry",
-            "description": "1981 - The classic cherry TaB variant.",
-            "role": "TaB Cherry"
+            "name": "Code Red",
+            "description": "2001 - The original, infamous cherry DEW.",
+            "role": "Code Red"
         },
         {
-            "name": "Cherry Zero",
-            "description": "2001 - Still easier to find than CRZS.",
-            "role": "TaB Cherry Zero"
+            "name": "Code Red Zero Sugar",
+            "description": "2021 - The tastier descendant of Diet Code Red.",
+            "role": "Code Red Zero Sugar"
         },
         {
-            "name": "Tropical Whirlpool",
-            "description": "1999 - Balatant clone of TaB Tropical Sangria.",
-            "role": "TaB Tropical Whirlpool"
+            "name": "Cyclone",
+            "description": "2019 - Citrus punch Speedway fountain flavor.",
+            "role": "Cyclone"
         },
         {
-            "name": "Diet Cherry",
-            "description": "1982 - Sugar-free cherry TaB. Discontinued in 2001.",
-            "role": "Diet TaB Cherry"
+            "name": "Diet Code Red",
+            "description": "2002 - Sugar-free cherry DEW. Discontinued in 2021.",
+            "role": "Diet Code Red"
         },
         {
-            "name": "Energy Cherry & Lime",
-            "description": "2001 - Cherry-lime energy drink.",
-            "role": "TaB Energy Cherry & Lime"
+            "name": "ENERGY Cherry Lime Lift",
+            "description": "2021 - Cherry-lime energy drink.",
+            "role": "ENERGY Cherry Lime Lift"
         },
         {
-            "name": "Energy Cherry",
-            "description": "2002 - TaB Cherry-inspired energy drink.",
-            "role": "TaB Energy Cherry"
+            "name": "ENERGY Code Red",
+            "description": "2022 - Code Red-inspired energy drink.",
+            "role": "ENERGY Code Red"
         },
         {
-            "name": "Energy Strawberry & Watermelon",
-            "description": "2001 - Strawberry-melon energy drink.",
-            "role": "TaB Energy Strawberry & Watermelon"
+            "name": "ENERGY Strawberry Melon Sharp",
+            "description": "2021 - Strawberry-melon energy drink.",
+            "role": "ENERGY Strawberry Melon Sharp"
         },
         {
-            "name": "Spicy",
-            "description": "2001 - Spicy world of TaB exclusive.",
-            "role": "TaB Spicy"
+            "name": "Flamin' Hot",
+            "description": "2021 - Spicy citrus (?) DEW Store exclusive.",
+            "role": "Flamin' Hot"
         },
         {
-            "name": "Fruitcake",
-            "description": "2002 - Fruitcake flavored holiday TaB.",
-            "role": "TaB Fruitcake"
+            "name": "Fruit Quake",
+            "description": "2022 - Fruitcake flavored holiday DEW.",
+            "role": "Fruit Quake"
         },
         {
-            "name": "Gaming Cherry Cola",
-            "description": "1997 - Former yearly game tie-in.",
-            "role": "TaB Gaming Cherry Cola"
+            "name": "Game Fuel (Citrus Cherry)",
+            "description": "2007 - Full-sugar formula, former yearly game tie-in.",
+            "role": "Game Fuel (Citrus Cherry)"
         },
         {
-            "name": "Gaming Energy Cherry Cola",
-            "description": "2002 - World of TaB Vice City-themed energy drink.",
-            "role": "TaB Gaming Energy Cherry Cola"
+            "name": "GAME FUEL (Championship Citrus Cherry)",
+            "description": "2022 - Online-only Dr Disrespect-themed GAME FUEL.",
+            "role": "GAME FUEL (Championship Citrus Cherry)"
         },
         {
-            "name": "Gaming Energy Cherry",
-            "description": "1999 - New-TaB Gaming drink. No relation to Cherry Cola.",
-            "role": "TaB Gaming Energy Cherry"
+            "name": "GAME FUEL (Cherry Burst)",
+            "description": "2019 - New-GAME FUEL drink. No relation to Citrus Cherry.",
+            "role": "GAME FUEL (Charged Cherry Burst)"
         },
         {
-            "name": "Goji & Strawberry",
-            "description": "1997 - Fountain TaB sold at gas stations.",
-            "role": "TaB Goji & Strawberry"
+            "name": "Goji Citrus Strawberry",
+            "description": "2017 - Half-diet fountain DEW sold at gas stations.",
+            "role": "Goji Citrus Strawberry"
         },
         {
-            "name": "Alcopop Black Cherry",
-            "description": "2002 - Alcoholic black cherry TaB.",
-            "role": "TaB Alcopop Black Cherry"
+            "name": "Hard Black Cherry",
+            "description": "2022 - Alcoholic black cherry DEW.",
+            "role": "Hard Black Cherry"
         },
         {
-            "name": "Christmas Cheer",
-            "description": "1997 - A holiday blend of TaB Cherry and Lime.",
-            "role": "TaB Christmas Cheer"
+            "name": "Holiday Brew",
+            "description": "2017 - A holiday blend of Code Red and Original DEW.",
+            "role": "Holiday Brew"
         },
         {
-            "name": "Awaken Black Cherry",
-            "description": "1994 - Black cherry 'energy drink'.",
-            "role": "TaB Awaken Black Cherry"
+            "name": "Kickstart (Black Cherry)",
+            "description": "2014 - Black cherry 'energy drink'.",
+            "role": "Kickstart (Black Cherry)"
         },
         {
-            "name": "Awaken Fruit Punch",
-            "description": "1993 - Fruit punch concoction.",
-            "role": "TaB Awaken Fruit Punch"
+            "name": "Kickstart (Fruit Punch)",
+            "description": "2013 - Fruit punch concoction.",
+            "role": "Kickstart (Fruit Punch)"
         },
         {
-            "name": "Awaken Strawberry & Lemonade",
-            "description": "2003 - Strawberry lemonade energy drink. First TaB Awaken in 6 years!",
-            "role": "TaB Awaken Strawberry & Lemonade"
+            "name": "Kickstart (Strawberry Start-Up)",
+            "description": "2023 - Strawberry lemonade energy drink. First Kickstart in 6 years!",
+            "role": "Kickstart (Strawberry Start-Up)"
         },
         {
-            "name": "Cranberry & Pomegranate",
-            "description": "1998 - Cranberry pomegranate holiday TaB.",
-            "role": "TaB Cranberry & Pomegranate"
+            "name": "Merry Mash-Up",
+            "description": "2018 - Cranberry pomegranate holiday DEW.",
+            "role": "Merry Mash-Up"
         },
         {
-            "name": "Raspberry & Mango",
-            "description": "2002 - Raspberry Mango, Hess gas station exclusive.",
-            "role": "TaB Raspberry & Mango"
+            "name": "Overdrive",
+            "description": "2022 - Citrus punch Casey's exclusive.",
+            "role": "Overdrive"
         },
         {
-            "name": "Tropical Sangria",
-            "description": "1993 - Citrus punch fountain TaB formerly at McDonald's.",
-            "role": "TaB Tropical Sangria"
+            "name": "Sangrita Blast",
+            "description": "2013 - Citrus punch fountain DEW formerly at Taco Bell.",
+            "role": "Sangrita Blast"
         },
         {
-            "name": "Fruit Punch",
-            "description": "1994 - Fruit punch Amoco fountain flavor.",
-            "role": "TaB Fruit Punch"
+            "name": "Solar Flare",
+            "description": "2014 - Tropical punch 7-Eleven fountain flavor.",
+            "role": "Solar Flare"
         },
         {
-            "name": "Southern Punch",
-            "description": "2000 - Tropical punch TaB served at Bojangles.",
-            "role": "TaB Southern Punch"
+            "name": "Southern Shock",
+            "description": "2020 - Tropical punch DEW served at Bojangles.",
+            "role": "Southern Shock"
         },
         {
-            "name": "Cactus & Raspberry",
-            "description": "1997 - Short-lived TaB with prickly cactus flavor.",
-            "role": "TaB Cactus & Raspberry"
+            "name": "Spiked (Raspberry Lemonade)",
+            "description": "2017 - Short-lived DEW 'spiked' with prickly pear flavor.",
+            "role": "Spiked (Raspberry Lemonade)"
         },
         {
-            "name": "Strawberry & Pineapple",
-            "description": "1990 - Strawberry pineapple flavor from TaBulations II.",
-            "role": "TaB Strawberry & Pineapple"
+            "name": "Typhoon",
+            "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
+            "role": "Typhoon"
         },
         {
-            "name": "Strawberry & Kiwi",
-            "description": "2001 - Berry kiwi Food Lion-exclusive TaB.",
-            "role": "TaB Strawberry & Kiwi"
+            "name": "Uproar",
+            "description": "2021 - Berry kiwi Food Lion-exclusive DEW.",
+            "role": "Uproar"
         }
     ],
 
     "orange": [
         {
-            "name": "Tropical Gem",
-            "description": "2002 - Tropical Twist-inspired mango flavor.",
-            "role": "TaB Tropical Gem"
+            "name": "Baja Mango Gem",
+            "description": "2022 - Baja Blast-inspired mango flavor.",
+            "role": "Baja Mango Gem"
         },
         {
-            "name": "Tropical Punch",
-            "description": "2001 - Tropical Twist-inspired tropical punch flavor.",
-            "role": "TaB Tropical Punch"
+            "name": "Baja Punch",
+            "description": "2021 - Baja Blast-inspired tropical punch flavor.",
+            "role": "Baja Punch"
         },
         {
-            "name": "Energy Orange & Grapefruit",
-            "description": "2001 - Orange and grapefruit energy drink.",
-            "role": "TaB Energy Orange & Grapefruit"
+            "name": "ENERGY Orange Breeze",
+            "description": "2021 - Orange and (supposedly) grapefruit energy drink.",
+            "role": "ENERGY Orange Breeze"
         },
         {
-            "name": "Energy Mango & Peach",
-            "description": "2001 - Peach-mango energy drink.",
-            "role": "TaB Energy Mango & Peach"
+            "name": "ENERGY Peach Mango Dawn",
+            "description": "2021 - Peach-mango energy drink.",
+            "role": "ENERGY Peach Mango Dawn"
         },
         {
-            "name": "Spicy",
-            "description": "2001 - Spicy world of TaB exclusive.",
-            "role": "TaB Spicy"
+            "name": "Flamin' Hot",
+            "description": "2021 - Spicy citrus DEW Store exclusive.",
+            "role": "Flamin' Hot"
         },
         {
-            "name": "Gaming Mango & Habanero",
-            "description": "1996 - Spicy mango habañero flavor.",
-            "role": "TaB Gaming Mango & Habanero"
+            "name": "Game Fuel (Mango Heat)",
+            "description": "2016 - Spicy mango habañero flavor.",
+            "role": "Game Fuel (Mango Heat)"
         },
         {
-            "name": "Gaming Energy Orange",
-            "description": "1999 - New-generation TaB Gaming.",
-            "role": "TaB Gaming Energy Orange"
+            "name": "Game Fuel (Raspberry-Citrus)",
+            "description": "2012 - United Kingdom exclusive raspberry DEW.",
+            "role": "Game Fuel (Raspberry-Citrus)"
         },
         {
-            "name": "Gaming Energy Sherbet",
-            "description": "2001 - World of TaB only TaB Gaming Energy.",
-            "role": "TaB Gaming Energy Sherbet"
+            "name": "GAME FUEL (Orange Storm)",
+            "description": "2019 - New-generation GAME FUEL.",
+            "role": "GAME FUEL (Charged Orange Storm)"
         },
         {
-            "name": "Gaming Energy Sherbet Zero",
-            "description": "2001 - Sugar-free, Atlanta only TaB Gaming Energy",
-            "role": "TaB Gaming Energy Sherbet Zero"
+            "name": "GAME FUEL (Courageous Sherbet)",
+            "description": "2021 - Online-only CouRageJD-themed GAME FUEL.",
+            "role": "GAME FUEL (Courageous Sherbet)"
         },
         {
-            "name": "Alcopop Orange",
-            "description": "2002 - Alcoholic TaB Orange.",
-            "role": "TaB Alcopop Orange"
+            "name": "GAME FUEL ZERO (Courageous Sherbet)",
+            "description": "2021 - Sugar-free, online-only CouRageJD GAME FUEL",
+            "role": "GAME FUEL ZERO (Courageous Sherbet)"
         },
         {
-            "name": "Awaken Blood Orange",
-            "description": "1996 - Blood orange TaB available 'til 1998.",
-            "role": "TaB Awaken Blood Orange"
+            "name": "Hard LiveWire",
+            "description": "2022 - Alcoholic orange DEW.",
+            "role": "Hard LiveWire"
         },
         {
-            "name": "Awaken Orange",
-            "description": "1993 - TaB's equivalent to OJ in the morning.",
-            "role": "TaB Awaken Orange"
+            "name": "Kickstart (Blood Orange)",
+            "description": "2016 - Blood orange DEW available 'til 2018.",
+            "role": "Kickstart (Blood Orange)"
         },
         {
-            "name": "Awaken Strawberry & Kiwi",
-            "description": "1995 - Featuring a 'hydrating boost'.",
-            "role": "TaB Awaken Strawberry & Kiwi"
+            "name": "Kickstart (Orange Citrus)",
+            "description": "2013 - It's got orange! It's got citrus!",
+            "role": "Kickstart (Orange Citrus)"
         },
         {
-            "name": "Orange",
-            "description": "1983 - Orange-flavored TaB.",
-            "role": "TaB Orange"
+            "name": "Kickstart (Strawberry Kiwi)",
+            "description": "2015 - Featuring a 'hydrating boost'.",
+            "role": "Kickstart (Strawberry Kiwi)"
         },
         {
-            "name": "Awaken Orange Cola",
-            "description": "1996 - TaB Awaken with some mezzo mixed in.",
-            "role": "TaB Awaken Orange Cola"
+            "name": "LiveWire",
+            "description": "2003 - Orange-flavored DEW. Also sold in NZ & MY.",
+            "role": "LiveWire"
         },
         {
-            "name": "Raspberry & Mango",
-            "description": "2002 - Raspberry Mango, Hess gas station exclusive.",
-            "role": "TaB Raspberry & Mango"
+            "name": "Mountain Dew A.M.",
+            "description": "2012 - Tropicana and original DEW mixed at Taco Bell.",
+            "role": "Mountain Dew A.M."
         },
         {
-            "name": "Passion Fruit",
-            "description": "1992 - New Zealand-exclusive passionfruit TaB.",
-            "role": "TaB Passion Fruit"
+            "name": "Overdrive",
+            "description": "2022 - Citrus punch Casey's exclusive.",
+            "role": "Overdrive"
         },
         {
-            "name": "Lemon & Raspberry",
-            "description": "1992 - Raspberry lemon TaB from Finland.",
-            "role": "TaB Lemon & Raspberry"
+            "name": "Passionfruit Frenzy",
+            "description": "2012 - New Zealand-exclusive passionfruit DEW.",
+            "role": "Passionfruit Frenzy"
         },
         {
-            "name": "Peach & Honey",
-            "description": "1999 - Peach/honey flavor exclusive to Kenny Rogers Roasters.",
-            "role": "TaB Peach & Honey"
+            "name": "Supernova (Finland)",
+            "description": "2012 - Raspberry lemon DEW from Finland, AKA \"Euronova.\"",
+            "role": "Supernova (Finland)"
         },
         {
-            "name": "Strawberry & Pineapple",
-            "description": "1990 - Strawberry pineapple flavor from TaBulations II.",
-            "role": "TaB Strawberry & Pineapple"
+            "name": "Sweet Lightning",
+            "description": "2019 - Peach/honey flavor exclusive to KFC fountains.",
+            "role": "Sweet Lightning"
+        },
+        {
+            "name": "Typhoon",
+            "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
+            "role": "Typhoon"
         }
     ],
 
     "yellow": [
         {
-            "name": "Tropical Flash",
-            "description": "2001 - Tropical Twist-inspired pineapple coconut flavor.",
-            "role": "TaB Tropical Flash"
+            "name": "Baja Flash",
+            "description": "2021 - Baja Blast-inspired pineapple coconut flavor.",
+            "role": "Baja Flash"
         },
         {
-            "name": "Tropical Gold",
-            "description": "2002 - Tropical Twist-inspired pineapple flavor.",
-            "role": "TaB Tropical Gold"
+            "name": "Baja Gold",
+            "description": "2022 - Baja Blast-inspired pineapple flavor.",
+            "role": "Baja Gold"
         },
         {
-            "name": "Energy Pineapple & Guava",
-            "description": "2001 - Pineapple guava energy drink.",
-            "role": "TaB Energy Pineapple & Guava"
+            "name": "ENERGY Tropical Sunrise",
+            "description": "2021 - Tropical pineapple energy drink.",
+            "role": "ENERGY Tropical Sunrise"
         },
         {
-            "name": "Onion & Garlic",
-            "description": "2001 - Shrek film tie-in.",
-            "role": "TaB Onion & Garlic"
+            "name": "Funyuns",
+            "description": "Funyuns Funyuns Funyuns Funyuns Funyuns Funyuns",
+            "role": "Funyuns"
         },
         {
-            "name": "Gaming Lemonade",
-            "description": "1994 - Limited-time lemonade TaB Gaming.",
-            "role": "TaB Gaming Lemonade"
+            "name": "Game Fuel (Lemonade)",
+            "description": "2014 - Limited-time lemonade Game Fuel.",
+            "role": "Game Fuel (Lemonade)"
         },
         {
-            "name": "Gaming Pineapple & Mango",
-            "description": "1997 - Pineapple mango flavor.",
-            "role": "TaB Gaming Pineapple & Mango"
+            "name": "Game Fuel (Tropical Smash)",
+            "description": "2017 - Half-diet pineapple mango flavor.",
+            "role": "Game Fuel (Tropical Smash)"
         },
         {
-            "name": "Gaming Energy Pineapple",
-            "description": "2019 - New-generation tropical TaB Gaming flavor.",
-            "role": "TaB Gaming Energy Pineapple"
+            "name": "GAME FUEL (Tropical Strike)",
+            "description": "2019 - New-generation tropical GAME FUEL flavor.",
+            "role": "GAME FUEL (Charged Tropical Strike)"
         },
         {
-            "name": "Awaken Mango & Lime",
-            "description": "1997 - discontinued in 2001.",
-            "role": "TaB Awaken Mango & Lime"
+            "name": "Kickstart (Mango Lime)",
+            "description": "2017 - discontinued in 2021.",
+            "role": "Kickstart (Mango Lime)"
         },
         {
-            "name": "Awaken Pineapple & Mango",
-            "description": "1995 - Also includes coconut water.",
-            "role": "TaB Awaken Pineapple & Mango"
+            "name": "Kickstart (Pineapple Orange Mango)",
+            "description": "2015 - Also includes coconut water.",
+            "role": "Kickstart (Pineapple Orange Mango)"
         },
         {
-            "name": "Pineapple",
-            "description": "1999 - Zellers-exclusive pineapple TaB.",
-            "role": "TaB Pineapple"
+            "name": "Maui Burst",
+            "description": "2019 - Dollar General-exclusive pineapple DEW.",
+            "role": "Maui Burst"
         },
         {
-            "name": "Awaken Orange Cola",
-            "description": "1996 - TaB Awaken with some mezzo mixed in.",
-            "role": "TaB Awaken Orange Cola"
+            "name": "Mountain Dew A.M.",
+            "description": "2012 - Tropicana and original DEW mixed at Taco Bell.",
+            "role": "Mountain Dew A.M."
         },
         {
-            "name": "Cactus & Lemonade",
-            "description": "1997 - Short-lived TaB with prickly cactus flavor.",
-            "role": "TaB Cactus & Lemonade"
+            "name": "Passionfruit Frenzy",
+            "description": "2012 - New Zealand-exclusive passionfruit DEW.",
+            "role": "Passionfruit Frenzy"
         },
         {
-            "name": "Passion Fruit",
-            "description": "1992 - New Zealand-exclusive passionfruit TaB.",
-            "role": "TaB Passion Fruit"
+            "name": "Spiked (Lemonade)",
+            "description": "2017 - Lemonade 'spiked' with prickly pear juice.",
+            "role": "Spiked (Lemonade)"
         },
         {
-            "name": "Peach & Honey",
-            "description": "1999 - Peach/honey flavor exclusive to Kenny Rogers Roasters.",
-            "role": "TaB Peach & Honey"
+            "name": "Sweet Lightning",
+            "description": "2019 - Peach/honey flavor exclusive to KFC fountains.",
+            "role": "Sweet Lightning"
         },
         {
-            "name": "Lemonade",
-            "description": "2001 - Lemon TaB exclusive to Quiznos fountains.",
-            "role": "TaB Lemonade"
+            "name": "Vibe",
+            "description": "2021 - Lemon DEW exclusive to Which Wich fountains.",
+            "role": "Vibe"
         }
     ],
 
     "green": [
         {
-            "name": "Energy Citrus",
-            "description": "1981 - Citrus-flavored TaB energy drink.",
-            "role": "TaB Energy Citrus"
-        },
-        {
             "name": "AMP (Original)",
-            "description": "2001 - The original Mountain Dew energy drink.",
+            "description": "2001 - Citrus-flavored AMP energy drink.",
             "role": "AMP (Original)"
         },
         {
-            "name": "Tropical Twist",
-            "description": "1984 - The Pup 'n' Taco drink. Tropical lime flavor.",
-            "role": "TaB Tropical Twist"
+            "name": "Baja Blast",
+            "description": "2004 - The Taco Bell drink. Tropical lime flavor.",
+            "role": "Baja Blast"
         },
         {
-            "name": "Tropical Twist Zero",
-            "description": "1999 - Same deal as above, now without any sugar.",
-            "role": "TaB Tropical Twist Zero"
+            "name": "Baja Blast Zero Sugar",
+            "description": "2019 - Same deal as above, now without any sugar.",
+            "role": "Baja Blast Zero Sugar"
         },
         {
-            "name": "Tropical Dive",
-            "description": "2002 - Mystery Tropical flavor, giveaway-exclusive.",
-            "role": "TaB Tropical Dive"
+            "name": "Baja Deep Dive",
+            "description": "2022 - Mystery Baja flavor, giveaway-exclusive.",
+            "role": "Baja Deep Dive"
         },
         {
-            "name": "Berry & Lime",
-            "description": "1998 - Berry lime TaB only at Price Club fountains.",
-            "role": "TaB Berry & Lime"
+            "name": "Berry Monsoon",
+            "description": "2018 - Berry lime DEW only at Sam's Club fountains.",
+            "role": "Berry Monsoon"
         },
         {
-            "name": "Berry & Lime Zero",
-            "description": "2001 - Sugar-free berry lime TaB at Price Club fountains.",
-            "role": "TaB Berry & Lime Zero"
+            "name": "Berry Monsoon Zero Sugar",
+            "description": "2021 - Sugar-free berry lime DEW at Sam's Club fountains.",
+            "role": "Berry Monsoon Zero Sugar"
         },
         {
-            "name": "TaB Lime",
-            "description": "1990 - TaBulations II participant, lime flavored TaB.",
-            "role": "TaB Lime"
+            "name": "Diet Mountain Dew",
+            "description": "1976 - Initially \"Sugar-Free\", renamed to Diet in 1984.",
+            "role": "Diet Mountain Dew"
         },
         {
-            "name": "Energy Tropical Twist",
-            "description": "2002 - Tropical Twist-flavored energy drink.",
-            "role": "TaB Energy Tropical Twist"
+            "name": "Diet Mountain Dew Caffeine-Free",
+            "description": "1989 - Sugar-free, caffeine-free, still DEW. (Maybe.)",
+            "role": "Diet Mountain Dew Caffeine-Free"
         },
         {
-            "name": "Gaming Salted Cucumber",
-            "description": "1991 - Drink the salty tears of your Street Fighter II foes.",
-            "role": "TaB Gaming Salted Cucumber"
+            "name": "Distortion",
+            "description": "2010 - DEWmocracy II participant, lime flavored DEW.",
+            "role": "Distortion"
         },
         {
-            "name": "Gaming Energy Citrus",
-            "description": "1999 - Citrus flavored TaB Gaming Energy.",
-            "role": "TaB Gaming Energy Citrus"
+            "name": "ENERGY Baja Blast",
+            "description": "Baja Blast-flavored energy drink.",
+            "role": "ENERGY Baja Blast"
         },
         {
-            "name": "Gaming Energy Watermelon Zero",
-            "description": "2000 - Sugar-free new-generation TaB Gaming flavor.",
-            "role": "TaB Gaming Energy Watermelon Zero"
+            "name": "Game Fuel (Tropical)",
+            "description": "2011 - Lime? flavored DEW released for a limited time.",
+            "role": "Game Fuel (Tropical)"
+        },
+        {
+            "name": "GAME FUEL (Original DEW)",
+            "description": "2019 - New-GAME FUEL based on original DEW.",
+            "role": "GAME FUEL (Charged Original DEW)"
+        },
+        {
+            "name": "GAME FUEL ZERO (Watermelon Shock)",
+            "description": "2020 - Sugar-free new-generation GAME FUEL flavor.",
+            "role": "GAME FUEL ZERO (Charged Watermelon Shock)"
         },
         {
             "name": "Green Label",
-            "description": "2017 - Green apple kiwi TaB sold 'til 2019.",
-            "role": "TaB Green Label"
+            "description": "2017 - Green apple kiwi DEW sold 'til 2019.",
+            "role": "Green Label"
         },
         {
-            "name": "Alcopop Tropical Twist",
-            "description": "2002 - Alcoholic tropical lime TaB.",
-            "role": "TaB Alcopop Tropical Twist"
+            "name": "Hard Baja Blast",
+            "description": "2022 - Alcoholic tropical lime DEW.",
+            "role": "Hard Baja Blast"
         },
         {
-            "name": "Alcopop Citrus",
-            "description": "2002 - Alcoholic citrus TaB.",
-            "role": "TaB Alcopop Citrus"
+            "name": "Hard Mountain Dew",
+            "description": "2022 - Alcoholic classic DEW.",
+            "role": "Hard Mountain Dew"
         },
         {
-            "name": "Awaken Limeade",
-            "description": "1994 - discontinued in 2017.",
-            "role": "TaB Awaken Limeade"
+            "name": "Kickstart (Limeade)",
+            "description": "2014 - discontinued in 2017.",
+            "role": "Kickstart (Limeade)"
         },
         {
-            "name": "Awaken Citrus",
-            "description": "1998 - a citrus flavored breakfast drink.",
-            "role": "TaB Awaken Citrus"
+            "name": "Kickstart (Original DEW)",
+            "description": "2018 - an 'energy drink' take on OG DEW.",
+            "role": "Kickstart (Original DEW)"
         },
         {
-            "name": "Awaken Watermelon",
-            "description": "Gosh darn 🍁 (TaB Lime stan) you thirsty.",
-            "role": "TaB Awaken Watermelon"
+            "name": "Kickstart (Watermelon)",
+            "description": "2016 - Hydrating boost? Puts the water in watermelon.",
+            "role": "Kickstart (Watermelon)"
         },
         {
-            "name": "Green Apple",
-            "description": "2001 - Green apple Hecht's-exclusive TaB.",
-            "role": "TaB Green Apple"
+            "name": "Mountain Dew",
+            "description": "1960 - The original citrus soda we all know and love.",
+            "role": "Mountain Dew"
+        },
+        {
+            "name": "Mountain Dew Caffeine-Free",
+            "description": "1976 - Caffeine-free original DEW.",
+            "role": "Mountain Dew Caffeine-Free"
+        },
+        {
+            "name": "Mountain Dew Real Sugar",
+            "description": "2010 - Formerly known as \"Throwback.\" ",
+            "role": "Mountain Dew Real Sugar"
+        },
+        {
+            "name": "Mountain Dew Zero Sugar",
+            "description": "2020 - Original DEW, with none of the sugar.",
+            "role": "Mountain Dew Zero Sugar"
+        },
+        {
+            "name": "Thrashed Apple",
+            "description": "2021 - Green apple Kroger-exclusive DEW.",
+            "role": "Thrashed Apple"
         }
     ],
     
     "blue": [
         {
-            "name": "Blue Lemonade",
-            "description": "2000 - Blue-razz lemonade at Kwik Fill fountains.",
-            "role": "TaB Blue Lemonade"
+            "name": "Atomic Blue",
+            "description": "2020 - Blue-razz lemonade at Sheetz and Kum & Go fountains.",
+            "role": "Atomic Blue"
         },
         {
-            "name": "Tropical Twist",
-            "description": "1984 - The Pup 'n' Taco drink. Tropical lime flavor.",
-            "role": "TaB Tropical Twist"
+            "name": "Baja Blast",
+            "description": "2004 - The Taco Bell drink. Tropical lime flavor.",
+            "role": "Baja Blast"
         },
         {
-            "name": "Tropical Twist Zero",
-            "description": "1999 - Same deal as above, now without any sugar.",
-            "role": "TaB Tropical Twist Zero"
+            "name": "Baja Blast Zero Sugar",
+            "description": "2019 - Same deal as above, without the sugar.",
+            "role": "Baja Blast Zero Sugar"
         },
         {
-            "name": "Tropical Dive",
-            "description": "2002 - Mystery Tropical flavor, giveaway-exclusive.",
-            "role": "TaB Tropical Dive"
+            "name": "Baja Deep Dive",
+            "description": "2022 - Mystery Baja flavor, giveaway-exclusive.",
+            "role": "Baja Deep Dive"
         },
         {
-            "name": "Berry & Lime",
-            "description": "1998 - Berry lime TaB only at Price Club fountains.",
-            "role": "TaB Berry & Lime"
+            "name": "Berry Monsoon",
+            "description": "2018 - Berry lime DEW only at Sam's Club fountains.",
+            "role": "Berry Monsoon"
         },
         {
-            "name": "Berry & Lime Zero",
-            "description": "2001 - Sugar-free berry lime TaB at Price Club fountains.",
-            "role": "TaB Berry & Lime Zero"
+            "name": "Berry Monsoon Zero Sugar",
+            "description": "2021 - Sugar-free berry lime DEW at Sam's Club fountains.",
+            "role": "Berry Monsoon Zero Sugar"
         },
         {
-            "name": "Blue Raspberry",
-            "description": "1994 - Blue Raspberry flavored TaB.",
-            "role": "TaB Blue Raspberry"
+            "name": "Blue Shock",
+            "description": "2014 - Raspberry citrus DEW from Malaysia.",
+            "role": "Blue Shock"
         },
         {
             "name": "Dark Berry",
-            "description": "1992 - Batman Returns tie-in TaB.",
-            "role": "TaB Dark Berry"
+            "description": "2012 - Batman-themed DEW sold for a limited time.",
+            "role": "Dark Berry"
         },
         {
-            "name": "Blue Raspberry & Blackberry",
-            "description": "2001 - Blue-razz/blackberry flavor at Chili's.",
-            "role": "TaB Blue Raspberry & Blackberry"
+            "name": "Dark Berry Bash",
+            "description": "2021 - Blue-razz/blackberry flavor at Applebee's fountains.",
+            "role": "Dark Berry Bash"
         },
         {
-            "name": "Energy Tropical Twist",
-            "description": "2002 - Tropical Twist-flavored energy drink.",
-            "role": "TaB Energy Tropical Twist"
+            "name": "ENERGY Baja Blast",
+            "description": "Baja Blast-flavored energy drink.",
+            "role": "ENERGY Baja Blast"
         },
         {
-            "name": "Energy Blueberry",
-            "description": "2001 - Blueberry flavored energy drink.",
-            "role": "TaB Energy Blueberry"
+            "name": "ENERGY Pomegranate Blue Burst",
+            "description": "2021 - Blueberry pomegranate energy drink.",
+            "role": "ENERGY Pomegranate Blue Burst"
         },
         {
-            "name": "Melon",
-            "description": "2000 - Jet.com exclusive unspecified melon flavor.",
-            "role": "TaB Melon"
+            "name": "Frost Bite",
+            "description": "2020 - Walmart exclusive honeydew melon flavor.",
+            "role": "Frost Bite"
         },
         {
-            "name": "Melon Zero",
-            "description": "2001 - Jet.com-only, sugar-free melon flavor.",
-            "role": "TaB Melon Zero"
+            "name": "Frost Bite Zero Sugar",
+            "description": "2021 - Walmart-only, sugar-free honeydew melon flavor.",
+            "role": "Frost Bite Zero Sugar"
         },
         {
-            "name": "Gaming Blueberry",
-            "description": "1997 - Real gamers only drink blueberry.",
-            "role": "TaB Gaming Blueberry"
+            "name": "Game Fuel (Arctic Burst)",
+            "description": "2017 - Blueberry? Watermelon?? what the fuck is this???",
+            "role": "Game Fuel (Arctic Burst)"
         },
         {
-            "name": "Gaming Berry & Lime",
-            "description": "1995 - Real gamers love lime. (darn didn't write that)",
-            "role": "TaB Gaming Berry & Lime"
+            "name": "Game Fuel (Berry Lime)",
+            "description": "2015 - Limited-time berry and lime Game Fuel.",
+            "role": "Game Fuel (Berry Lime)"
         },
         {
-            "name": "Gaming Mixed Berry",
-            "description": "1989 - I'm blue bada bee bada bi(sencks???) or something idk",
-            "role": "TaB Gaming Mixed Berry"
+            "name": "Game Fuel (Wild Fruit)",
+            "description": "2009 - Also known as  \"Alliance Blue.\" ",
+            "role": "Game Fuel (Wild Fruit)"
         },
         {
-            "name": "Gaming Energy Blueberry",
-            "description": "1999 - New-generation TaB Gaming flavor.",
-            "role": "TaB Gaming Energy Blueberry"
+            "name": "GAME FUEL (Berry Blast)",
+            "description": "2019 - New-generation GAME FUEL flavor.",
+            "role": "GAME FUEL (Charged Berry Blast)"
         },
         {
-            "name": "Alcopop Tropical Twist",
-            "description": "2002 - Alcoholic tropical lime TaB.",
-            "role": "TaB Alcopop Tropical Twist"
+            "name": "Hard Baja Blast",
+            "description": "2022 - Alcoholic tropical lime DEW.",
+            "role": "Hard Baja Blast"
         },
         {
-            "name": "Awaken Blueberry",
-            "description": "1996 - discontinued in 2001.",
-            "role": "TaB Awaken Blueberry"
+            "name": "Kickstart (Blueberry Pomegranate)",
+            "description": "2016 - discontinued in 2021.",
+            "role": "Kickstart (Blueberry Pomegranate)"
         },
         {
-            "name": "50th Anniversary Edition",
+            "name": "Liberty Brew",
             "description": "2019 - Made with \"50\" cherry- and berry-inspired flavors.",
-            "role": "TaB 50th Anniversary Edition"
+            "role": "Liberty Brew"
         },
         {
-            "name": "Wild Fruit",
-            "description": "1988 - Wild berry flavor with ginseng from TaBulations I.",
-            "role": "TaB Wild Fruit"
+            "name": "Revolution",
+            "description": "2008 - Wild berry flavor with ginseng from DEWmocracy.",
+            "role": "Revolution"
         },
         {
-            "name": "Ice Lolly",
-            "description": "don't say it don't say it don't say it",
-            "role": "TaB Ice Lolly"
+            "name": "Summer Freeze",
+            "description": "2023 - Rocket pop / bomb pop flavor.",
+            "role": "Summer Freeze"
         },
         {
-            "name": "Ice Lolly Zero",
-            "description": "DON'T. SAY. IT.",
-            "role": "TaB Ice Lolly Zero"
+            "name": "Summer Freeze Zero Sugar",
+            "description": "2023 - Sugar-free rocket pop / bomb pop flavor.",
+            "role": "Summer Freeze Zero Sugar"
         },
         {
-            "name": "Raspberry & Citrus",
-            "description": "1988 - TaBulations I winner. Raspberry citrus & ginseng.",
-            "role": "TaB Raspberry & Citrus"
+            "name": "Voltage",
+            "description": "2008 - DEWmocracy winner. Raspberry citrus w/ ginseng.",
+            "role": "Voltage"
         }
     ],
 
     "purple": [
         {
-            "name": "TaB Tropical Passion",
-            "description": "2003 - Tropical Twist-inspired passion fruit flavor.",
-            "role": "TaB Tropical Passion"
-        },
-        {
             "name": "Black Label",
-            "description": "2016 - Refined dark berry TaB, discontinued in 2020.",
-            "role": "TaB Black Label"
+            "description": "2016 - Refined dark berry DEW, discontinued in 2020.",
+            "role": "Black Label"
         },
         {
-            "name": "Patriotic Punch",
-            "description": "1997 - Collision of the iconic red, white, and blue TaBs.",
-            "role": "TaB Patriotic Punch"
+            "name": "DEW-S-A",
+            "description": "2017 - Collision of Code Red, White Out, and Voltage.",
+            "role": "DEW-S-A"
         },
         {
-            "name": "Diet Mixed Berry",
-            "description": "1989 - Sugar-free mixed berry flavor.",
-            "role": "Diet TaB Mixed Berry"
+            "name": "Diet Ultra Violet",
+            "description": "2009 - Sugar-free mixed berry flavor.",
+            "role": "Diet Ultra Violet"
         },
         {
-            "name": "Energy Acai Berry",
-            "description": "2001 - Acai berry energy drink. Discontinued that year.",
-            "role": "TaB Energy Acai Berry"
+            "name": "ENERGY Berry Blitz",
+            "description": "2021 - Acai berry energy drink. Discontinued in 2021.",
+            "role": "ENERGY Berry Blitz"
         },
         {
-            "name": "Energy Grape",
-            "description": "2003 - Grape energy drink.",
-            "role": "TaB Energy Grape"
+            "name": "ENERGY Pitch Black",
+            "description": "2023 - Dark fruit energy drink.",
+            "role": "ENERGY Pitch Black"
         },
         {
-            "name": "Gaming Goji & Strawberry",
-            "description": "1993 - Goji and strawberry flavor, for GAMERS.",
+            "name": "Game Fuel (Electrifying Berry)",
+            "description": "2013 - Berry (supposedly goji and strawberry) flavor.",
             "role": "Game Fuel (Electrifying Berry)"
         },
         {
-            "name": "Awaken Grape",
-            "description": "1996 - Originally marketed for night shift workers.",
-            "role": "TaB Awaken Grape"
+            "name": "Kickstart (Grape)",
+            "description": "2016 - Initially known as Midnight Grape.",
+            "role": "Kickstart (Grape)"
         },
         {
-            "name": "Grape",
-            "description": "1984 - Grape TaB. Yep, nothing more to it.",
-            "role": "TaB Grape"
+            "name": "Pitch Black",
+            "description": "2004 - Grape DEW re-released as 'dark fruit' in 2016.",
+            "role": "Pitch Black"
         },
         {
-            "name": "Sour Grape",
-            "description": "1985 - If Pitch Black is so good why isn't there Pitch Black 2?",
-            "role": "TaB Sour Grape"
+            "name": "Pitch Black II",
+            "description": "2005 - The rehashed sequel of a drink. Pitch Black, but sour.",
+            "role": "Pitch Black II"
         },
         {
-            "name": "Grape Zero",
-            "description": "2003 - Grape TaB, now in zero sugar.",
-            "role": "TaB Grape Zero"
+            "name": "Pitch Black Zero Sugar",
+            "description": "2023 - Dark fruit DEW, now in zero sugar.",
+            "role": "Pitch Black Zero Sugar"
         },
         {
-            "name": "Berry & Plum",
-            "description": "2002 - Berry-plum Holiday exclusive.",
-            "role": "TaB Berry & Plum"
+            "name": "Purple Thunder",
+            "description": "2022 - Berry-plum Circle K exclusive.",
+            "role": "Purple Thunder"
         },
         {
-            "name": "Elderberry & Grape",
-            "description": "1999 - Grape and elderberry flavored Japanese TaB.",
-            "role": "TaB Elderberry & Grape"
+            "name": "Violet",
+            "description": "2019 - Grape and elderberry flavored DEW.",
+            "role": "Violet"
         }
     ],
     
     "pink": [
         {
-            "name": "TaB",
-            "description": "1963 - The original diet cola we all know and love.",
-            "role": "TaB"
+            "name": "AMP (Strawberry Limeade)",
+            "description": "2015 - AMP flavor regionally available 'til 2021.",
+            "role": "AMP (Strawberry Limeade)"
         },
         {
-            "name": "TaB Caffeine Free",
-            "description": "1983 - Caffeine-free original TaB.",
-            "role": "TaB Caffeine Free"
+            "name": "ENERGY Major Melon",
+            "description": "2023 - Watermelon energy drink.",
+            "role": "ENERGY Major Melon"
         },
         {
-            "name": "TaB Sweetened with Splenda",
-            "description": "2005 - A saccharin/aspartame-free alternative.",
-            "role": "TaB Sweetened with Splenda"
+            "name": "ENERGY Strawberry Melon Sharp",
+            "description": "2021 - Strawberry-melon energy drink.",
+            "role": "ENERGY Strawberry Melon Sharp"
         },
         {
-            "name": "TaB Zero",
-            "description": "what",
-            "role": "TaB Zero"
+            "name": "GAME FUEL (Courageous Sherbet)",
+            "description": "2021 - Online-only CouRageJD-themed GAME FUEL.",
+            "role": "GAME FUEL (Courageous Sherbet)"
         },
         {
-            "name": "Diet TaB",
-            "description": "2020 - Turns out the market demands even less calories.",
-            "role": "Diet TaB"
+            "name": "GAME FUEL ZERO (Courageous Sherbet)",
+            "description": "2021 - Sugar-free, online-only CouRageJD GAME FUEL",
+            "role": "GAME FUEL ZERO (Courageous Sherbet)"
         },
         {
-            "name": "Diet TaB Caffeine Free",
-            "description": "2021 - Sugar-free, caffeine-free, still TaB.",
-            "role": "Diet TaB Caffeine Free"
+            "name": "GAME FUEL ZERO (Raspberry Lemonade)",
+            "description": "2020 - New-generation sugar-free GAME FUEL flavor.",
+            "role": "GAME FUEL ZERO (Charged Raspberry Lemonade)"
         },
         {
-            "name": "TaB Tropical Splash",
-            "description": "2003 - Tropical Twist-inspired guava flavor.",
-            "role": "TaB Tropical Splash"
+            "name": "GAME FUEL ZERO (Watermelon Shock)",
+            "description": "2020 - New-generation sugar-free GAME FUEL flavor.",
+            "role": "GAME FUEL ZERO (Charged Watermelon Shock)"
         },
         {
-            "name": "Energy Strawberry & Limeade",
-            "description": "1995 - TaB flavor regionally available 'til 2001.",
-            "role": "TaB Energy Strawberry & Limeade"
+            "name": "Goji Citrus Strawberry",
+            "description": "2017 - Half-diet fountain DEW sold at gas stations.",
+            "role": "Goji Citrus Strawberry"
         },
         {
-            "name": "Energy Watermelon",
-            "description": "2003 - Watermelon energy drink.",
-            "role": "TaB Energy Watermelon"
+            "name": "Hard Watermelon",
+            "description": "2022 - Alcoholic watermelon DEW.",
+            "role": "Hard Watermelon"
         },
         {
-            "name": "Energy Strawberry & Watermelon",
-            "description": "2001 - Strawberry-melon energy drink.",
-            "role": "TaB Energy Strawberry & Watermelon"
+            "name": "Kickstart (Raspberry Citrus)",
+            "description": "2017 - discontinued in 2021.",
+            "role": "Kickstart (Raspberry Citrus)"
         },
         {
-            "name": "Gaming Energy Sherbet",
-            "description": "2001 - World of TaB only TaB Gaming Energy.",
-            "role": "TaB Gaming Energy Sherbet"
+            "name": "Kickstart (Strawberry Kiwi)",
+            "description": "2015 - discontinued in 2017.",
+            "role": "Kickstart (Strawberry Kiwi)"
         },
         {
-            "name": "Gaming Energy Sherbet Zero",
-            "description": "2001 - Sugar-free, Atlanta only TaB Gaming Energy",
-            "role": "TaB Gaming Energy Sherbet Zero"
+            "name": "Kickstart (Strawberry Start-Up)",
+            "description": "2023 - Strawberry lemonade energy drink. First Kickstart in 6 years!",
+            "role": "Kickstart (Strawberry Start-Up)"
         },
         {
-            "name": "Gaming Energy Raspberry Zero",
-            "description": "2000 - New-generation sugar-free TaB Gaming flavor.",
-            "role": "TaB Gaming Energy Raspberry Zero"
+            "name": "Kickstart (Watermelon)",
+            "description": "2016 - Hydrating boost? Puts the water in watermelon.",
+            "role": "Kickstart (Watermelon)"
         },
         {
-            "name": "Gaming Energy Watermelon Zero",
-            "description": "2000 - Sugar-free new-generation TaB Gaming flavor.",
-            "role": "TaB Gaming Energy Watermelon Zero"
+            "name": "Major Melon",
+            "description": "2021 - 'Life-changing' watermelon flavor.",
+            "role": "Major Melon"
         },
         {
-            "name": "Goji & Strawberry",
-            "description": "1997 - Fountain TaB sold at gas stations.",
-            "role": "TaB Goji & Strawberry"
+            "name": "Major Melon Zero Sugar",
+            "description": "2021 - Sugar-free watermelon flavored DEW.",
+            "role": "Major Melon Zero Sugar"
         },
         {
-            "name": "Alcopop Watermelon",
-            "description": "2002 - Alcoholic watermelon TaB.",
-            "role": "TaB Alcopop Watermelon"
+            "name": "Spark",
+            "description": "2020 - Raspberry lemonade DEW.",
+            "role": "Spark"
         },
         {
-            "name": "Awaken Raspberry",
-            "description": "1997 - discontinued in 2001.",
-            "role": "TaB Awaken Raspberry"
+            "name": "Spark Zero Sugar",
+            "description": "2022 - Sugar-free raspberry lemonade DEW.",
+            "role": "Spark Zero Sugar"
         },
         {
-            "name": "Awaken Strawberry & Kiwi",
-            "description": "1995 - discontinued in 1997.",
-            "role": "TaB Awaken Strawberry & Kiwi"
+            "name": "Spiked (Raspberry Lemonade)",
+            "description": "2017 - Short-lived DEW 'spiked' with prickly pear flavor.",
+            "role": "Spiked (Raspberry Lemonade)"
         },
         {
-            "name": "Awaken Strawberry & Lemonade",
-            "description": "2003 - Strawberry lemonade energy drink. First TaB Awaken in 6 years!",
-            "role": "TaB Awaken Strawberry & Lemonade"
+            "name": "Supernova",
+            "description": "2008 - Strawberry melon w/ ginseng from DEWmocracy.",
+            "role": "Supernova"
         },
         {
-            "name": "Awaken Watermelon",
-            "description": "1996 - Hydrating boost? You thirsty.",
-            "role": "TaB Awaken Watermelon"
+            "name": "Typhoon",
+            "description": "2010 - Strawberry pineapple flavor from DEWmocracy II.",
+            "role": "Typhoon"
         },
         {
-            "name": "Watermelon",
-            "description": "2001 - It sure is.",
-            "role": "TaB Watermelon"
-        },
-        {
-            "name": "Watermelon Zero",
-            "description": "2001 - Or is it?",
-            "role": "TaB Watermelon Zero"
-        },
-        {
-            "name": "Raspberry & Lemonade",
-            "description": "2000 - Raspberry lemonade TaB.",
-            "role": "TaB Raspberry & Lemonade"
-        },
-        {
-            "name": "Raspberry & Lemonade Zero",
-            "description": "2000 - Sugar-free raspberry lemonade TaB.",
-            "role": "TaB Raspberry & Lemonade Zero"
-        },
-        {
-            "name": "Cactus & Raspberry",
-            "description": "1997 - Short-lived TaB with prickly cactus flavor.",
-            "role": "TaB Cactus & Raspberry"
-        },
-        {
-            "name": "Strawberry & Watermelon",
-            "description": "1988 - Strawberry melon w/ ginseng from TaBulations I.",
-            "role": "TaB Strawberry & Watermelon"
-        },
-        {
-            "name": "Strawberry & Pineapple",
-            "description": "1990 - Strawberry pineapple flavor from TaBulations II.",
-            "role": "TaB Strawberry & Pineapple"
-        },
-        {
-            "name": "Strawberry & Kiwi",
-            "description": "2001 - Berry kiwi Food Lion-exclusive TaB.",
-            "role": "TaB Strawberry & Kiwi"
+            "name": "Uproar",
+            "description": "2021 - Berry kiwi Food Lion-exclusive DEW.",
+            "role": "Uproar"
         }
     ],
 
     "whiteother": [
         {
-            "name": "TaB",
-            "description": "1963 - The original diet cola we all know and love.",
-            "role": "TaB"
+            "name": "Cake-Smash",
+            "description": "2021 - Birthday cake DEW Store exclusive.",
+            "role": "Cake Smash"
         },
         {
-            "name": "TaB Caffeine Free",
-            "description": "1983 - Caffeine-free original TaB.",
-            "role": "TaB Caffeine Free"
+            "name": "DEWshine",
+            "description": "2015 - Clear citrus glass-bottle DEW.",
+            "role": "DEWshine"
         },
         {
-            "name": "TaB Sweetened with Splenda",
-            "description": "2005 - A saccharin/aspartame-free alternative.",
-            "role": "TaB Sweetened with Splenda"
+            "name": "ENERGY Pitch Black",
+            "description": "2023 - Dark fruit energy drink.",
+            "role": "ENERGY Pitch Black"
         },
         {
-            "name": "TaB Zero",
-            "description": "what",
-            "role": "TaB Zero"
+            "name": "Gingerbread Snap'd",
+            "description": "2021 - Gingerbread cookie flavor.",
+            "role": "Gingerbread Snap'd"
         },
         {
-            "name": "Diet TaB",
-            "description": "2020 - Turns out the market demands even less calories.",
-            "role": "Diet TaB"
+            "name": "ICE",
+            "description": "2018 - Sprite, now with caffeine!",
+            "role": "ICE"
         },
         {
-            "name": "Diet TaB Caffeine Free",
-            "description": "2021 - Sugar-free, caffeine-free, still TaB.",
-            "role": "Diet TaB Caffeine Free"
+            "name": "ICE Cherry",
+            "description": "2018 - 7UP Cherry, now with caffeine!",
+            "role": "ICE Cherry"
         },
         {
-            "name": "Birthday Cake",
-            "description": "2001 - Birthday cake World of TaB exclusive.",
-            "role": "TaB Birthday Cake"
+            "name": "Legend",
+            "description": "2022 - Blackberry lime. Buffalo Wild Wings exclusive.",
+            "role": "Legend"
         },
         {
-            "name": "TaBshine",
-            "description": "1995 - Limited edition Mountain Dew themed TaB.",
-            "role": "TaBshine"
+            "name": "Pitch Black",
+            "description": "2004 - Dark fruit DEW re-released in 2016 and 2023.",
+            "role": "Pitch Black"
         },
         {
-            "name": "Energy Grape",
-            "description": "2003 - Grape energy drink.",
-            "role": "TaB Energy Grape"
+            "name": "Pitch Black Zero Sugar",
+            "description": "2023 - Dark fruit DEW, now in zero sugar.",
+            "role": "Pitch Black Zero Sugar"
         },
         {
-            "name": "Ginger Ale",
-            "description": "1970s - Ginger ale TaB.",
-            "role": "TaB Ginger Ale"
+            "name": "Pitch Black II",
+            "description": "2005 - The rehashed sequel of a drink. Pitch Black, but sour.",
+            "role": "Pitch Black II"
         },
         {
-            "name": "TaB Clear",
-            "description": "1992 - Crystal Pepsi but better",
-            "role": "TaB Clear"
+            "name": "VooDEW (2019)",
+            "description": "2019 - 'Candy Corn' flavor.",
+            "role": "VooDEW (2019)"
         },
         {
-            "name": "TaB Clear Cherry",
-            "description": "let me be clear",
-            "role": "TaB Clear Cherry"
+            "name": "VooDEW (2020)",
+            "description": "2020 - 'Fruit Candy Explosion' / Skittles-esque flavor.",
+            "role": "VooDEW (2020)"
         },
         {
-            "name": "Blackberry & Lime",
-            "description": "2002 - Blackberry lime. Wingers exclusive.",
-            "role": "TaB Blackberry & Lime"
+            "name": "VooDEW (2021)",
+            "description": "2021 - 'Fruit Candy Chews' / Starburst-esque flavor.",
+            "role": "VooDEW (2021)"
         },
         {
-            "name": "Sour Grape",
-            "description": "1985 - If Pitch Black is so good why isn't there Pitch Black 2?",
-            "role": "TaB Sour Grape"
-        },
-        {
-            "name": "TaB Spooky Vol. 1",
-            "description": "1999 - 'Diet Coke' flavor.",
-            "role": "TaB Spooky Vol. 1"
-        },
-        {
-            "name": "TaB Spooky Vol. 2",
-            "description": "2000 - 'Brad's Special' / Diet Pepsi-esque flavor.",
-            "role": "TaB Spooky Vol. 2"
-        },
-        {
-            "name": "TaB Spooky Vol. 3",
-            "description": "2001 - '23 Tricks' / Diet Dr Pepper-esque flavor.",
-            "role": "TaB Spooky Vol. 3"
-        },
-        {
-            "name": "TaB Spooky Vol. 4",
-            "description": "2002 - Tastes Like Pain flavor.",
-            "role": "TaB Spooky Vol. 4"
+            "name": "VooDEW (2022)",
+            "description": "2022 - 'Sour Candy' / SPK-esque flavor.",
+            "role": "VooDEW (2022)"
         },
         {
             "name": "White Label",
-            "description": "2017 - Tropical citrus and unoriginality TaB.",
-            "role": "TaB White Label"
+            "description": "2017 - Tropical citrus DEW.",
+            "role": "White Label"
         },
         {
-            "name": "Smooth Citrus",
-            "description": "1990 - TaBulations II winner. Smooth citrus TaB.",
-            "role": "TaB Smooth Citrus"
+            "name": "White Out",
+            "description": "2010 - DEWmocracy II winner. Smooth citrus DEW.",
+            "role": "White Out"
         }
     ]
 }
