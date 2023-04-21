@@ -111,22 +111,22 @@
     ],
     [
         {
-            "name": "Team Kickstart OG Dew",
+            "name": "Team DEW-S-A",
             "emoji": "",
             "style": 1,
-            "role": "Team Kickstart"
+            "role": "Team DEW-S-A"
         },
         {
-            "name": "Team Game Fuel OG Dew",
+            "name": "Team Liberty",
             "emoji": "",
             "style": 1,
-            "role": "Team Game Fuel"
+            "role": "Team Liberty"
         },
         {
-            "name": "Team Amp Original",
+            "name": "Team Freeze",
             "emoji": "",
             "style": 1,
-            "role": "Team Amp"
+            "role": "Team Freeze"
         }
     ]
 ]
