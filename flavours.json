@@ -81,6 +81,11 @@
             "role": "Goji Citrus Strawberry"
         },
         {
+            "name": "Hard Baja Variety Pack",
+            "description": "2023 - Pineapple, Punch, & Mango Hard Baja varieties.",
+            "role": "Hard Baja Variety Pack"
+        },
+        {
             "name": "Hard Black Cherry",
             "description": "2022 - Alcoholic black cherry DEW.",
             "role": "Hard Black Cherry"
@@ -199,6 +204,11 @@
             "role": "GAME FUEL ZERO (Courageous Sherbet)"
         },
         {
+            "name": "Hard Baja Variety Pack",
+            "description": "2023 - Pineapple, Punch, & Mango Hard Baja varieties.",
+            "role": "Hard Baja Variety Pack"
+        },
+        {
             "name": "Hard LiveWire",
             "description": "2022 - Alcoholic orange DEW.",
             "role": "Hard LiveWire"
@@ -290,6 +300,11 @@
             "name": "GAME FUEL (Tropical Strike)",
             "description": "2019 - New-generation tropical GAME FUEL flavor.",
             "role": "GAME FUEL (Charged Tropical Strike)"
+        },
+        {
+            "name": "Hard Baja Variety Pack",
+            "description": "2023 - Pineapple, Punch, & Mango Hard Baja varieties.",
+            "role": "Hard Baja Variety Pack"
         },
         {
             "name": "Kickstart (Mango Lime)",
